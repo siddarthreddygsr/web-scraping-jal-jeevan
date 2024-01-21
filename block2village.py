@@ -39,6 +39,7 @@ def bl2vl(state_code,dt_code,bl_code):
             else:
                 vil_encode += str(int(i)+1)
         vil_encode += "1"
-        village_codes[1].append(vil_encode)
+        vil_info = [village["Name"],vil_encode]
+        village_codes[1].append(vil_info)
     return village_codes
 # print(bl2vl("471",'8521','63%3A11'))
