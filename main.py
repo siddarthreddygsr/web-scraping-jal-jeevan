@@ -1,4 +1,5 @@
 import requests
+import pandas as pd
 from district2blocks import dist2bl
 from block2village import bl2vl
 from village2data import vil_d
@@ -28,6 +29,7 @@ response = requests.post(url, headers=headers, json=data)
 
 json_response = response.json()
 data = json_response['d']
+dataframe = []
 for i in data:
     keyvalue = i['KeyValue']
     dtcode11 = ""
@@ -41,4 +43,15 @@ for i in data:
     for block_code in bl_codes[1]:
         village_codes = bl2vl(state_code,dtcode11,block_code)
         for village in village_codes[1]:
-            print(f"block_name: {bl_codes[0]}, villaage name: {village_codes[0]} Service level:{vil_d(state_code,dtcode11,village)}")
+            print(f"district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, Service level:{vil_d(state_code,dtcode11,village[1])}")
+            dataframe.append({
+                'State_name':"Telangana",
+                'district_name': bl_codes[0],
+                'block_name': village_codes[0],
+                'village_name': village[0],
+                'service_level': vil_d(state_code, dtcode11, village[1])
+            })
+
+df = pd.DataFrame(data)
+
+
