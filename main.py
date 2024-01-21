@@ -53,5 +53,5 @@ for i in data:
             })
 
 df = pd.DataFrame(data)
-
+df.to_csv('output.csv', index=False)
 
