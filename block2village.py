@@ -2,6 +2,9 @@ import requests
 
 def bl2vl(state_code,dt_code,bl_code):
     url = "https://ejalshakti.gov.in/jjmreport/JJMVillageMapView.aspx/BindvillageMap"
+    proxies = {
+        'http':"http://138.197.102.119:80"
+    }
     headers = {
         "Accept": "application/json, text/javascript, */*; q=0.01",
         "Accept-Encoding": "gzip, deflate, br",
@@ -24,7 +27,7 @@ def bl2vl(state_code,dt_code,bl_code):
         "DtCode11":dt_code,
         "lgd_BlockId":bl_code
     }
-    response = requests.post(url, headers=headers, json=data)
+    response = requests.post(url, headers=headers, json=data, proxies=proxies)
     village_data = response.json()['d']
     village_codes = []
     village_codes.append(village_data[0]['Name'])

@@ -24,8 +24,10 @@ def vil_d(state_code,dt_code,vil_code):
         "SubCat":"11",
         "Param":"11"
     }
-
-    response = requests.post(url, headers=headers, json=data)
+    proxies = {
+        'http':"http://138.197.102.119:80"
+    }
+    response = requests.post(url, headers=headers, json=data,proxies=proxies)
     service_level_data = response.json()['d'][0]['ServiceLevel']
     return service_level_data
 # vil_d(1,1)

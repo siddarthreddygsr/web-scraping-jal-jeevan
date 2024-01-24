@@ -30,13 +30,15 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15",
     "X-Requested-With": "XMLHttpRequest",
 }
-
+proxies = {
+        'http':"http://138.197.102.119:80"
+    }
 data = {
     "StCode": state_code,
     "Name": "1"
 }
 
-response = requests.post(url, headers=headers, json=data)
+response = requests.post(url, headers=headers, json=data, proxies=proxies)
 json_response = response.json()
 data = json_response['d']
 
