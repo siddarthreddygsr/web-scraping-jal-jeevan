@@ -9,7 +9,7 @@ def dist2bl(state_code,dt_code):
         "Connection": "keep-alive",
         "Content-Length": "76",
         "Content-Type": "application/json; charset=utf-8",
-        "Cookie": "_ga_WQYLJRC2X1=GS1.1.1705681106.3.1.1705684768.0.0.0; _ga=GA1.1.1394336993.1705658309; ASP.NET_SessionId=hscmh2fouxqlsxnuq5p1cwe1",
+        "Cookie": "_ga_WQYLJRC2X1=GS1.1.1706117075.6.1.1706117086.0.0.0; ASP.NET_SessionId=hgnliqs5jkzjbugnypsa0by4; _ga=GA1.1.1394336993.1705658309",
         "Host": "ejalshakti.gov.in",
         "Origin": "https://ejalshakti.gov.in",
         "Referer": "https://ejalshakti.gov.in/jjmreport/JJMBlockMapView.aspx",

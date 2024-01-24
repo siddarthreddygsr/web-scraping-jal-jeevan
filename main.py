@@ -4,15 +4,16 @@ from district2blocks import dist2bl
 from block2village import bl2vl
 from village2data import vil_d
 
+
 url = "https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx/JJM_StateDistrictSearch"
-state_code = "471"
+state_code = "481"
 headers = {
     "Accept": "application/json, text/javascript, */*; q=0.01",
     "Accept-Encoding": "gzip, deflate, br",
     "Accept-Language": "en-IN,en-GB;q=0.9,en;q=0.8",
     "Connection": "keep-alive",
     "Content-Type": "application/json; charset=utf-8",
-    "Cookie": "_ga_WQYLJRC2X1=GS1.1.1705681106.3.1.1705681170.0.0.0; _ga=GA1.1.1394336993.1705658309; ASP.NET_SessionId=hscmh2fouxqlsxnuq5p1cwe1",
+    "Cookie": "_ga_WQYLJRC2X1=GS1.1.1706117075.6.1.1706117086.0.0.0; ASP.NET_SessionId=hgnliqs5jkzjbugnypsa0by4; _ga=GA1.1.1394336993.1705658309",
     "Host": "ejalshakti.gov.in",
     "Origin": "https://ejalshakti.gov.in",
     "Referer": "https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx",
@@ -43,9 +44,9 @@ for i in data:
     for block_code in bl_codes[1]:
         village_codes = bl2vl(state_code,dtcode11,block_code)
         for village in village_codes[1]:
-            print(f"district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, Service level:{vil_d(state_code,dtcode11,village[1])}")
+            print(f"State_name: Andhra Pradesh, district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, Service level:{vil_d(state_code,dtcode11,village[1])}")
             dataframe.append({
-                'State_name':"Telangana",
+                'State_name':"Andhra Pradesh",
                 'district_name': bl_codes[0],
                 'block_name': village_codes[0],
                 'village_name': village[0],

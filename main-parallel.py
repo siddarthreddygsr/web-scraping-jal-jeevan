@@ -5,25 +5,25 @@ from district2blocks import dist2bl
 from block2village import bl2vl
 from village2data import vil_d
 
-def process_village(state_code, dtcode11, bl_codes, village):
-    print(f"district_name: {bl_codes[0]}, block_name: {village[0]}, village_name: {village[0]}, Service level:{vil_d(state_code, dtcode11, village[1])}")
+def process_village(state_code, dtcode11, bl_codes, village, village_codes):
+    print(f"State_name: Maharashtra, district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, Service level:{vil_d(state_code, dtcode11, village[1])}")
     return {
-        'State_name': "Telangana",
+        'State_name': "Maharashtra",
         'district_name': bl_codes[0],
-        'block_name': village[0],
+        'block_name': village_codes[0],
         'village_name': village[0],
         'service_level': vil_d(state_code, dtcode11, village[1])
     }
 
 url = "https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx/JJM_StateDistrictSearch"
-state_code = "471"
+state_code = "381"
 headers = {
     "Accept": "application/json, text/javascript, */*; q=0.01",
     "Accept-Encoding": "gzip, deflate, br",
     "Accept-Language": "en-IN,en-GB;q=0.9,en;q=0.8",
     "Connection": "keep-alive",
     "Content-Type": "application/json; charset=utf-8",
-    "Cookie": "_ga_WQYLJRC2X1=GS1.1.1705681106.3.1.1705681170.0.0.0; _ga=GA1.1.1394336993.1705658309; ASP.NET_SessionId=hscmh2fouxqlsxnuq5p1cwe1",
+    "Cookie": "_ga_WQYLJRC2X1=GS1.1.1706117075.6.1.1706117086.0.0.0; ASP.NET_SessionId=hgnliqs5jkzjbugnypsa0by4; _ga=GA1.1.1394336993.1705658309",
     "Host": "ejalshakti.gov.in",
     "Origin": "https://ejalshakti.gov.in",
     "Referer": "https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx",
