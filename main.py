@@ -32,7 +32,6 @@ response = requests.post(url, headers=headers, json=data,proxies=proxies)
 
 json_response = response.json()
 data = json_response['d']
-dataframe = []
 for i in data:
     keyvalue = i['KeyValue']
     dtcode11 = ""
@@ -44,17 +43,23 @@ for i in data:
     dtcode11 += "1"
     bl_codes = dist2bl(state_code=state_code, dt_code=dtcode11)
     for block_code in bl_codes[1]:
+        df = pd.read_csv("output.csv")
+        dataframe = []
         village_codes = bl2vl(state_code,dtcode11,block_code)
         for village in village_codes[1]:
-            print(f"State_name: Andhra Pradesh, district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, Service level:{vil_d(state_code,dtcode11,village[1])}")
+            if village[1] in df['village_code'].values:
+                print("village scanned skipping..")
+            else:
+                print(f"State_name: Andhra Pradesh, district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, village_code: {village[1]} ,Service level:{vil_d(state_code,dtcode11,village[1])}")
             dataframe.append({
                 'State_name':"Andhra Pradesh",
                 'district_name': bl_codes[0],
                 'block_name': village_codes[0],
                 'village_name': village[0],
+                'village_code':village[1],
                 'service_level': vil_d(state_code, dtcode11, village[1])
             })
-
-df = pd.DataFrame(data)
-df.to_csv('output.csv', index=False)
+        df_new = pd.DataFrame(dataframe)
+        df_save = pd.concat([df, df_new], ignore_index=True)
+        df_save.to_csv('output.csv', index=False)
 
