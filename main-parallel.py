@@ -38,7 +38,7 @@ data = {
 }
 
 proxies = {
-    'http': "http://138.197.102.119:80"
+    'http': "http://143.110.232.177:80"
 }
 response = requests.post(url, headers=headers, json=data,proxies=proxies)
 json_response = response.json()

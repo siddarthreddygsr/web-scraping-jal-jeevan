@@ -24,7 +24,7 @@ def dist2bl(state_code,dt_code):
         "DtCode11": dt_code
     }
     proxies = {
-        'http':"http://138.197.102.119:80"
+        'http':"http://143.110.232.177:80"
     }
     response = requests.post(url, headers=headers, json=data,proxies=proxies)
     block_data = response.json()['d']
