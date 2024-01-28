@@ -43,6 +43,11 @@ for i in data:
     dtcode11 += "1"
     bl_codes = dist2bl(state_code=state_code, dt_code=dtcode11)
     for block_code in bl_codes[1]:
+        blocks_df = pd.read_csv("block.csv")
+        blocks_dframe = []
+        if block_code in blocks_df['Block_id'].values:
+            print('block completed in prev iteration')
+            continue
         df = pd.read_csv("output.csv")
         dataframe = []
         village_codes = bl2vl(state_code,dtcode11,block_code)
@@ -59,6 +64,13 @@ for i in data:
                 'village_code':village[1],
                 'service_level': vil_d(state_code, dtcode11, village[1])
             })
+        blocks_dframe.append({
+            'Block_name': village_codes[0],
+            'Block_id': block_code
+        })
+        blocks_df_new = pd.DataFrame(blocks_dframe)
+        blocks_df_save = pd.concat([blocks_df,blocks_df_new], ignore_index=True)
+        blocks_df_save.to_csv('block.csv', index=False)
         df_new = pd.DataFrame(dataframe)
         df_save = pd.concat([df, df_new], ignore_index=True)
         df_save.to_csv('output.csv', index=False)
