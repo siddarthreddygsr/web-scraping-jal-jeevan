@@ -52,10 +52,7 @@ for i in data:
         dataframe = []
         village_codes = bl2vl(state_code,dtcode11,block_code)
         for village in village_codes[1]:
-            if village[1] in df['village_code'].values:
-                print("village scanned skipping..")
-            else:
-                print(f"State_name: Andhra Pradesh, district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, village_code: {village[1]} ,Service level:{vil_d(state_code,dtcode11,village[1])}")
+            print(f"State_name: Andhra Pradesh, district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, village_code: {village[1]} ,Service level:{vil_d(state_code,dtcode11,village[1])}")
             dataframe.append({
                 'State_name':"Andhra Pradesh",
                 'district_name': bl_codes[0],
