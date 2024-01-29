@@ -1,6 +1,6 @@
 import requests
 
-def vil_d(state_code,dt_code,vil_code):
+def vil_d(state_code,dt_code,vil_code,proxies={'http':"http://143.110.232.177:80"}):
     url = "https://ejalshakti.gov.in/jjmreport/JJMVillage_Profile.aspx/Bind_Fhtc_info"
     headers = {
         "Accept": "application/json, text/javascript, */*; q=0.01",
@@ -23,9 +23,6 @@ def vil_d(state_code,dt_code,vil_code):
         "Cat":"11",
         "SubCat":"11",
         "Param":"11"
-    }
-    proxies = {
-        'http':"http://143.110.232.177:80"
     }
     response = requests.post(url, headers=headers, json=data,proxies=proxies)
     service_level_data = response.json()['d'][0]['ServiceLevel']

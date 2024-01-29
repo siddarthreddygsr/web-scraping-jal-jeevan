@@ -6,14 +6,14 @@ from modules.block2village import bl2vl
 from modules.village2data import vil_d
 
 def process_village(state_code, dtcode11, bl_codes, village, village_codes):
-    print(f"State_name: Maharashtra, district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, Service level:{vil_d(state_code, dtcode11, village[1])}")
+    print(f"State_name: Maharashtra, district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, Service level:{vil_d(state_code, dtcode11, village[1],proxies=proxies)}")
     return {
         'State_name': "Maharashtra",
         'district_name': bl_codes[0],
         'block_name': village_codes[0],
         'village_name': village[0],
         'village_code': village[1],
-        'service_level': vil_d(state_code, dtcode11, village[1])
+        'service_level': vil_d(state_code, dtcode11, village[1],proxies=proxies)
     }
 
 url = "https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx/JJM_StateDistrictSearch"
@@ -49,11 +49,11 @@ count = 0
 def process_data(i):
     keyvalue = i['KeyValue']
     dtcode11 = "".join("%3A" if int(c) == 9 else str(int(c) + 1) for c in keyvalue) + "1"
-    bl_codes = dist2bl(state_code=state_code, dt_code=dtcode11)
+    bl_codes = dist2bl(state_code=state_code, dt_code=dtcode11,proxies=proxies)
     results = []
     with ThreadPoolExecutor() as executor:
         for block_code in bl_codes[1]:
-            village_codes = bl2vl(state_code, dtcode11, block_code)
+            village_codes = bl2vl(state_code, dtcode11, block_code,proxies=proxies)
             for village in village_codes[1]:
                 results.append(executor.submit(process_village, state_code, dtcode11, bl_codes, village,village_codes))
 

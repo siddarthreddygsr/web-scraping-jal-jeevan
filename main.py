@@ -41,7 +41,7 @@ for i in data:
         else:
             dtcode11 += str(int(i)+1)
     dtcode11 += "1"
-    bl_codes = dist2bl(state_code=state_code, dt_code=dtcode11)
+    bl_codes = dist2bl(state_code=state_code, dt_code=dtcode11, proxies=proxies)
     for block_code in bl_codes[1]:
         blocks_df = pd.read_csv("block.csv")
         blocks_dframe = []
@@ -50,16 +50,16 @@ for i in data:
             continue
         df = pd.read_csv("output.csv")
         dataframe = []
-        village_codes = bl2vl(state_code,dtcode11,block_code)
+        village_codes = bl2vl(state_code,dtcode11,block_code, proxies=proxies)
         for village in village_codes[1]:
-            print(f"State_name: Andhra Pradesh, district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, village_code: {village[1]} ,Service level:{vil_d(state_code,dtcode11,village[1])}")
+            print(f"State_name: Andhra Pradesh, district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, village_code: {village[1]} ,Service level:{vil_d(state_code,dtcode11,village[1],proxies=proxies)}")
             dataframe.append({
                 'State_name':"Andhra Pradesh",
                 'district_name': bl_codes[0],
                 'block_name': village_codes[0],
                 'village_name': village[0],
                 'village_code':village[1],
-                'service_level': vil_d(state_code, dtcode11, village[1])
+                'service_level': vil_d(state_code, dtcode11, village[1],proxies=proxies)
             })
         blocks_dframe.append({
             'Block_name': village_codes[0],

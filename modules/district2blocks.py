@@ -1,6 +1,6 @@
 import requests
 
-def dist2bl(state_code,dt_code):
+def dist2bl(state_code,dt_code,proxies={'http':"http://143.110.232.177:80"}):
     url = "https://ejalshakti.gov.in/jjmreport/JJMBlockMapView.aspx/BindBlockMap"
     headers = {
         "Accept": "application/json, text/javascript, */*; q=0.01",
@@ -22,9 +22,6 @@ def dist2bl(state_code,dt_code):
         "Param": "11",
         "StCode11": state_code,
         "DtCode11": dt_code
-    }
-    proxies = {
-        'http':"http://143.110.232.177:80"
     }
     response = requests.post(url, headers=headers, json=data,proxies=proxies)
     block_data = response.json()['d']

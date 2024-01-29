@@ -1,10 +1,7 @@
 import requests
 
-def bl2vl(state_code,dt_code,bl_code):
+def bl2vl(state_code,dt_code,bl_code,proxies={'http':"http://143.110.232.177:80"}):
     url = "https://ejalshakti.gov.in/jjmreport/JJMVillageMapView.aspx/BindvillageMap"
-    proxies = {
-        'http':"http://143.110.232.177:80"
-    }
     headers = {
         "Accept": "application/json, text/javascript, */*; q=0.01",
         "Accept-Encoding": "gzip, deflate, br",
