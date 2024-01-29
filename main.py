@@ -52,14 +52,15 @@ for i in data:
         dataframe = []
         village_codes = bl2vl(state_code,dtcode11,block_code, proxies=proxies)
         for village in village_codes[1]:
-            print(f"State_name: Andhra Pradesh, district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, village_code: {village[1]} ,Service level:{vil_d(state_code,dtcode11,village[1],proxies=proxies)}")
+            service_level = vil_d(state_code, dtcode11, village[1],proxies=proxies)
+            print(f"State_name: Andhra Pradesh, district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, village_code: {village[1]} ,Service level:{service_level}")
             dataframe.append({
                 'State_name':"Andhra Pradesh",
                 'district_name': bl_codes[0],
                 'block_name': village_codes[0],
                 'village_name': village[0],
                 'village_code':village[1],
-                'service_level': vil_d(state_code, dtcode11, village[1],proxies=proxies)
+                'service_level': service_level
             })
         blocks_dframe.append({
             'Block_name': village_codes[0],
