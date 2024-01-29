@@ -1,9 +1,9 @@
 import requests
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from district2blocks import dist2bl
-from block2village import bl2vl
-from village2data import vil_d
+from modules.district2blocks import dist2bl
+from modules.block2village import bl2vl
+from modules.village2data import vil_d
 
 def process_village(state_code, dtcode11, bl_codes, village, village_codes):
     print(f"State_name: Maharashtra, district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, Service level:{vil_d(state_code, dtcode11, village[1])}")

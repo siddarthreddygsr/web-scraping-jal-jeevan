@@ -1,8 +1,8 @@
 import requests
 import pandas as pd
-from district2blocks import dist2bl
-from block2village import bl2vl
-from village2data import vil_d
+from modules.district2blocks import dist2bl
+from modules.block2village import bl2vl
+from modules.village2data import vil_d
 
 
 url = "https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx/JJM_StateDistrictSearch"
