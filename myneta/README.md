@@ -7,3 +7,5 @@
     - there are 2 progress bars. The 2nd one shows up after the first one ends.
         - green progress bar is for districts
         - red progress bar is for candidates
+- `main-parallel.py` is a working solution that runs parallely although not that visually appealing but it works.
+    - It creates a file named `CANDYdeez.csv` in which a candidates name occurs more that once maybe more that 100-150 times (ofc those many requests aren't sent so chill) but it cleans all of them at the end. ( either fix it and make a PR or just stop complaining)

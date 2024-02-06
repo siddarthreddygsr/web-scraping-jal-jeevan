@@ -63,7 +63,13 @@ for i in range(0, len(candidate_urls_main), batch_size):
 
 # Close the progress bar
 progress_bar.close()
-state_name = list(existing_urls)[0].split("/")[3][:-4]
+try:
+    state_name = list(existing_urls)[0].split("/")[3][:-4]
+except:
+    try:
+        state_name = list(candidate_urls_main)[0].split("/")[3][:-4]
+    except:
+        state_name = "state_un"
 df_main = pd.read_csv("CANDYdeez.csv")
 unique_df = df_main.drop_duplicates(subset=['url'])
 unique_df.to_csv(f'{state_name}.csv', index=False)
