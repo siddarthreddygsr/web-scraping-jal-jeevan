@@ -1,6 +1,7 @@
 import requests
+import pdb
 
-def dist2bl(state_code,dt_code,proxies={'http':"http://143.110.232.177:80"}):
+def dist2bl(state_code,dt_code,info_dict,proxies={'http':"http://143.110.232.177:80"}):
     url = "https://ejalshakti.gov.in/jjmreport/JJMBlockMapView.aspx/BindBlockMap"
     headers = {
         "Accept": "application/json, text/javascript, */*; q=0.01",
@@ -25,14 +26,15 @@ def dist2bl(state_code,dt_code,proxies={'http':"http://143.110.232.177:80"}):
     }
     response = requests.post(url, headers=headers, json=data,proxies=proxies)
     block_data = response.json()['d']
-    bl_codes = []
-    try:
-        name = "" + block_data[0]['Name']
-    except:
-        name = ""
-        print(block_data)
-    bl_codes.append(name)
-    bl_codes.append([])
+    # bl_codes = []
+    # try:
+    #     name = "" + block_data[0]['Name']
+    # except:
+    #     name = ""
+        # print(block_data)
+    info_dict_arr = []
+    # bl_codes.append(name)
+    # bl_codes.append([])
     for block in block_data:
         keyvalue = block['KeyValue']
         blcode11 = ""
@@ -42,6 +44,9 @@ def dist2bl(state_code,dt_code,proxies={'http':"http://143.110.232.177:80"}):
             else:
                 blcode11 += str(int(i)+1)
         blcode11 += "1"
-        bl_codes[1].append(blcode11)
-    return bl_codes
+        info_dict['block_name'] = block['Name']
+        info_dict['blcode11'] = blcode11
+        info_dict_arr.append(info_dict)
+        # bl_codes[1].append(blcode11)
+    return info_dict_arr
 # dist2bl("471","8521")
