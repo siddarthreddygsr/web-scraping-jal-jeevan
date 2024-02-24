@@ -3,8 +3,7 @@ import pandas as pd
 from modules.district2blocks import dist2bl
 from modules.block2village import bl2vl
 from modules.village2data import vil_d
-import pdb
-from tqdm import tqdm
+import ipdb
 
 
 url = "https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx/JJM_StateDistrictSearch"
@@ -23,23 +22,19 @@ headers = {
     "X-Requested-With": "XMLHttpRequest",
 }
 proxies = {
-        'http':"http://20.111.54.16:8123"
+        'http' : "http://138.197.102.119:80"
     }
 data = {
     "StCode": state_code,
     "Name": "1"
 }
 
-response = requests.post(url, headers=headers, json=data,
-                         proxies=proxies
-                         )
+response = requests.post(url, headers=headers, json=data,proxies=proxies)
 
 json_response = response.json()
 data = json_response['d']
 for i in data:
     keyvalue = i['KeyValue']
-    dist_name = i['KeyName']
-
     dtcode11 = ""
     for i in keyvalue:
         if int(i) == 9:
@@ -47,17 +42,8 @@ for i in data:
         else:
             dtcode11 += str(int(i)+1)
     dtcode11 += "1"
-    info_dict = {
-            "state_name" : "Andhra Pradesh",
-            "district_name" : dist_name,
-        }
-    block_info_arr = dist2bl(state_code=state_code, 
-                             dt_code=dtcode11, 
-                             proxies=proxies,
-                             info_dict=info_dict)
-    for block_code_dict in block_info_arr:
-        block_code = block_code_dict['blcode11']
-        block_name = block_code_dict['block_name']
+    bl_codes = dist2bl(state_code=state_code, dt_code=dtcode11, proxies=proxies, info_dict={})
+    for block_code in bl_codes[1]:
         blocks_df = pd.read_csv("block.csv")
         blocks_dframe = []
         if block_code in blocks_df['Block_id'].values:
@@ -65,16 +51,20 @@ for i in data:
             continue
         df = pd.read_csv("output.csv")
         dataframe = []
-        vil_dict_arr = bl2vl(state_code,dtcode11,block_code, info_dict=block_code_dict,
-                         proxies=proxies
-                         )
-        for village in tqdm(vil_dict_arr, desc="Processing Villages", unit="village"):
-            final_info_dict = village.copy()
-            service_level = vil_d(state_code, dtcode11, village['vil_encode'],proxies=proxies)
-            final_info_dict['service_level'] = service_level
-            dataframe.append(final_info_dict)
+        village_codes = bl2vl(state_code,dtcode11,block_code, proxies=proxies, info_dict={})
+        for village in village_codes[1]:
+            service_level = vil_d(state_code, dtcode11, village[1],proxies=proxies)
+            print(f"State_name: Andhra Pradesh, district_name: {bl_codes[0]}, block_name: {village_codes[0]}, village_name: {village[0]}, village_code: {village[1]} ,Service level:{service_level}")
+            dataframe.append({
+                'State_name':"Andhra Pradesh",
+                'district_name': bl_codes[0],
+                'block_name': village_codes[0],
+                'village_name': village[0],
+                'village_code':village[1],
+                'service_level': service_level
+            })
         blocks_dframe.append({
-            'Block_name': block_name,
+            'Block_name': village_codes[0],
             'Block_id': block_code
         })
         blocks_df_new = pd.DataFrame(blocks_dframe)
@@ -83,5 +73,3 @@ for i in data:
         df_new = pd.DataFrame(dataframe)
         df_save = pd.concat([df, df_new], ignore_index=True)
         df_save.to_csv('output.csv', index=False)
-
-

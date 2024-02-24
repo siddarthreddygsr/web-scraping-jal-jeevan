@@ -1,7 +1,13 @@
 import requests
 import pdb
 
-def bl2vl(state_code,dt_code,bl_code,info_dict,proxies={'http':"http://143.110.232.177:80"}):
+def bl2vl(
+        state_code,
+        dt_code,
+        bl_code,
+        info_dict,
+        proxies={'http':"http://143.110.232.177:80"}
+          ):
     url = "https://ejalshakti.gov.in/jjmreport/JJMVillageMapView.aspx/BindvillageMap"
     headers = {
         "Accept": "application/json, text/javascript, */*; q=0.01",
@@ -25,15 +31,15 @@ def bl2vl(state_code,dt_code,bl_code,info_dict,proxies={'http':"http://143.110.2
         "DtCode11":dt_code,
         "lgd_BlockId":bl_code
     }
-    response = requests.post(url, headers=headers, json=data, proxies=proxies)
-    pdb.set_trace()
+    response = requests.post(url, headers=headers, json=data, 
+                             proxies=proxies
+                             )
     village_data = response.json()['d']
     info_dict_arr = []
     village_codes = []
     village_codes.append(village_data[0]['Name'])
     village_codes.append([])
     for village in village_data:
-        # print(f'Name: {i["Name"]},KeyID: {i["KeyId"]}, KeyValue: {i["KeyValue"]}')
         vil_code = village['KeyId']
         vil_encode = ""
         for i in vil_code:
@@ -42,11 +48,9 @@ def bl2vl(state_code,dt_code,bl_code,info_dict,proxies={'http':"http://143.110.2
             else:
                 vil_encode += str(int(i)+1)
         vil_encode += "1"
-        info_dict["village_name"] = village['Name']
-        info_dict['vil_encode'] = vil_encode
-        # vil_info = [village["Name"],vil_encode]
-        # info_dict['service_level'] = vil_info
-        # village_codes[1].append(vil_info)
-        info_dict_arr.append(info_dict)
+        current_info_dict = info_dict.copy()
+        current_info_dict["village_name"] = village['Name']
+        current_info_dict['vil_encode'] = vil_encode
+        info_dict_arr.append(current_info_dict)
     return info_dict_arr
 # print(bl2vl("471",'8521','63%3A11'))

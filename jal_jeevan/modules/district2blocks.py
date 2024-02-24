@@ -26,15 +26,7 @@ def dist2bl(state_code,dt_code,info_dict,proxies={'http':"http://143.110.232.177
     }
     response = requests.post(url, headers=headers, json=data,proxies=proxies)
     block_data = response.json()['d']
-    # bl_codes = []
-    # try:
-    #     name = "" + block_data[0]['Name']
-    # except:
-    #     name = ""
-        # print(block_data)
     info_dict_arr = []
-    # bl_codes.append(name)
-    # bl_codes.append([])
     for block in block_data:
         keyvalue = block['KeyValue']
         blcode11 = ""
@@ -44,9 +36,10 @@ def dist2bl(state_code,dt_code,info_dict,proxies={'http':"http://143.110.232.177
             else:
                 blcode11 += str(int(i)+1)
         blcode11 += "1"
-        info_dict['block_name'] = block['Name']
-        info_dict['blcode11'] = blcode11
-        info_dict_arr.append(info_dict)
-        # bl_codes[1].append(blcode11)
+        current_info_dict = info_dict.copy()
+        current_info_dict['block_name'] = block['Name']
+        current_info_dict['blcode11'] = blcode11
+
+        info_dict_arr.append(current_info_dict)
     return info_dict_arr
 # dist2bl("471","8521")
