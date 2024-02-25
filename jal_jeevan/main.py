@@ -72,6 +72,7 @@ for i in data:
             final_info_dict = village.copy()
             service_level = vil_d(state_code, dtcode11, village['vil_encode'],proxies=proxies)
             final_info_dict['service_level'] = service_level
+            # pdb.set_trace()
             dataframe.append(final_info_dict)
         blocks_dframe.append({
             'Block_name': block_name,
