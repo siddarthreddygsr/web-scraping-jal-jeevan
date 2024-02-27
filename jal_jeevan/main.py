@@ -70,9 +70,10 @@ for i in data:
                          )
         for village in tqdm(vil_dict_arr, desc="Processing Villages", unit="village"):
             final_info_dict = village.copy()
-            service_level = vil_d(state_code, dtcode11, village['vil_encode'],proxies=proxies)
-            final_info_dict['service_level'] = service_level
+            data_dict = vil_d(state_code, dtcode11, village['vil_encode'],proxies=proxies)
             # pdb.set_trace()
+            final_info_dict['service_level'] = data_dict["service_level_data"]
+            # print(final_info_dict)
             dataframe.append(final_info_dict)
         blocks_dframe.append({
             'Block_name': block_name,

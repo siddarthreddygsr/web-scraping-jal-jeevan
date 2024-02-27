@@ -30,5 +30,8 @@ def vil_d(
         "Param":"11"
     }
     response = requests.post(url, headers=headers, json=data,proxies=proxies)
-    service_level_data = response.json()['d'][0]['ServiceLevel']
-    return service_level_data
+    data_dict = {
+        "service_level_data" : response.json()['d'][0]['ServiceLevel']
+
+    }
+    return data_dict
