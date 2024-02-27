@@ -48,7 +48,7 @@ for i in data:
             dtcode11 += str(int(i)+1)
     dtcode11 += "1"
     info_dict = {
-            "state_name" : "Andhra Pradesh",
+            "state_name" : "Maharashtra",
             "district_name" : dist_name,
         }
     block_info_arr = dist2bl(state_code=state_code, 

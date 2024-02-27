@@ -5,7 +5,7 @@
 To run first copy the templates to the mentioned naming format by doing
 ```bash
 cp templates/output-template.csv output.csv
-cp templates/block-templates.csv block.csv
+cp templates/block-template.csv block.csv
 ```
 **DO NOT** use these if you are starting the script after running midway because the script stopped for some reason.
 
