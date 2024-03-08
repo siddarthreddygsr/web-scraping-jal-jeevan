@@ -1,0 +1,1412 @@
+state_name,district_name,block_name,blcode11,village_name,vil_encode,service_level,TotalHab,TotalNoofHouseholds,HousesWithTaps,NoofSchool,School_TapCon,RunningWater_In_Toilet_Urinals_School,hand_wash_avail_School,NoofBal_Agan,Bal_Agan_TapCon,RunningWater_In_Toilet_Urinals_Agan,hand_wash_avail_Agan,JJMStatus,SCCurrentPop,STCurrentPop,GENCurrentPop,TotalCurrentPop
+Kerala,Alappuzha,Thykkattussery,6%3A6%3A1,Panavally,11112825221,56.84,18,9460,9388,8,8,1,8,32,32,9,32,In progress,5527,290,25537,31354
+Kerala,Alappuzha,Thykkattussery,6%3A6%3A1,Arookuty,11117628341,55.0,13,5891,5874,4,4,0,4,21,21,0,21,In progress,1901,19,17662,19582
+Kerala,Alappuzha,Thykkattussery,6%3A6%3A1,Pallippuram,11112825191,100.0,17,7909,7909,7,7,7,7,30,30,6,29,100% Har Ghar Jal,3725,189,24610,28524
+Kerala,Alappuzha,Thykkattussery,6%3A6%3A1,Thaikattussery,111128251%3A1,88.68,15,6078,6078,8,8,0,8,22,22,0,22,100% Har Ghar Jal,3157,97,17802,21056
+Kerala,Alappuzha,Thykkattussery,6%3A6%3A1,Perumbalam,11112825211,100.0,13,2719,2719,4,4,2,4,15,15,4,15,100% Har Ghar Jal,593,28,9733,10354
+Kerala,Alappuzha,Pattanakkadu,6%3A691,Pattanakkad,11112825271,82.55,19,10221,8698,7,7,1,7,30,30,0,30,In progress,2243,189,41090,43522
+Kerala,Alappuzha,Pattanakkadu,6%3A691,Kuthiathode,11112825251,64.29,16,5970,5350,8,8,1,8,24,24,0,24,In progress,2118,51,30174,32343
+Kerala,Alappuzha,Pattanakkadu,6%3A691,Ezhupunna,11112825241,16.88,17,7438,7025,5,5,2,5,27,27,0,23,In progress,5916,64,29299,35279
+Kerala,Alappuzha,Pattanakkadu,6%3A691,Kodamthuruth,11112825281,73.88,15,6353,6041,8,8,1,8,23,23,0,23,In progress,4248,30,25772,30050
+Kerala,Alappuzha,Pattanakkadu,6%3A691,Aroor,11117624581,100.0,21,10284,10284,8,8,3,8,35,35,1,4,100% Har Ghar Jal,1274,11,42241,43526
+Kerala,Alappuzha,Pattanakkadu,6%3A691,Vayalar East,111176248%3A1,70.0,16,7698,7698,6,6,6,6,26,26,3,6,100% Har Ghar Jal,963,0,31827,32790
+Kerala,Alappuzha,Pattanakkadu,6%3A691,Thuravoor,11112825231,100.0,18,8947,8947,7,7,1,7,27,27,0,3,100% Har Ghar Jal,4530,35,33525,38090
+Kerala,Alappuzha,Kanjikuzhi,6%3A661,Cherthala North,111128252%3A1,55.0,11,5936,4655,5,5,5,5,25,25,20,24,In progress,1214,89,24242,25545
+Kerala,Alappuzha,Kanjikuzhi,6%3A661,Mararikkulam North,11112825311,55.0,18,10883,8812,16,16,16,15,25,25,20,24,In progress,2478,285,38791,41554
+Kerala,Alappuzha,Kanjikuzhi,6%3A661,Cherthala South,11112825291,69.68,11,6679,5837,7,7,7,7,23,23,14,23,In progress,1239,146,25028,26413
+Kerala,Alappuzha,Kanjikuzhi,6%3A661,Kadakkarapply,11117624141,100.0,14,5989,5598,6,6,3,6,19,19,0,19,In progress,789,13,28988,29790
+Kerala,Alappuzha,Kanjikuzhi,6%3A661,Thanneermukkam,11117624151,55.0,23,10805,10805,17,17,3,17,44,44,1,42,100% Har Ghar Jal,2163,240,51201,53604
+Kerala,Alappuzha,Kanjikuzhi,6%3A661,Kanjikuzhi,11117443161,55.0,18,8381,8381,5,5,3,5,30,30,0,30,100% Har Ghar Jal,1149,14,37221,38384
+Kerala,Alappuzha,Ambalapuzha,6%3A5%3A1,Karumady,11112824981,55.0,8,3584,2885,3,3,3,3,1,1,1,1,In progress,2542,171,23792,26505
+Kerala,Alappuzha,Ambalapuzha,6%3A5%3A1,Puracadu,11112824%3A11,55.0,18,9083,7596,8,8,8,8,34,34,34,34,In progress,1798,266,35086,37150
+Kerala,Alappuzha,Ambalapuzha,6%3A5%3A1,Ambalappuzha,11112824991,55.0,11,5309,4648,8,8,8,8,22,22,22,22,In progress,1739,203,39793,41735
+Kerala,Alappuzha,Ambalapuzha,6%3A5%3A1,Paravoor,11117455791,100.0,17,9007,8179,10,10,10,10,27,27,27,27,In progress,1170,0,34554,35724
+Kerala,Alappuzha,Ambalapuzha,6%3A5%3A1,Punnapra,11117623241,100.0,17,8829,8028,12,12,12,12,26,26,26,26,In progress,519,22,36091,36632
+Kerala,Alappuzha,Ambalapuzha,6%3A5%3A1,Ambalappuzha,11112824971,55.0,16,8001,8001,6,6,6,6,27,27,27,27,100% Har Ghar Jal,1709,417,50686,52812
+Kerala,Alappuzha,Aryad,6%3A611,Mannanchery,11112825321,55.0,23,18103,11348,10,10,10,10,49,49,49,49,In progress,3303,96,55167,58566
+Kerala,Alappuzha,Aryad,6%3A611,Kalavoor,11112825351,56.17,15,10299,7258,3,3,3,3,51,51,50,51,In progress,1431,176,38426,40033
+Kerala,Alappuzha,Aryad,6%3A611,Ayrad South,11117185%3A11,100.0,16,8568,6304,7,7,7,7,26,26,8,18,In progress,567,43,26945,27555
+Kerala,Alappuzha,Aryad,6%3A611,Pathirappally,11112825331,55.04,2,1115,835,1,1,1,1,4,4,4,3,In progress,20,5,3479,3504
+Kerala,Alappuzha,Aryad,6%3A611,Pathirappally,11112825341,55.0,24,13576,11475,17,17,14,17,30,30,14,30,In progress,1266,33,43997,45296
+Kerala,Alappuzha,Harippad,6%3A651,Veeyapuram,11112825661,100.0,13,3179,1273,10,10,10,10,13,13,9,13,In progress,1976,10,10585,12571
+Kerala,Alappuzha,Harippad,6%3A651,Cheruthana,11112825671,55.0,13,4511,2272,6,6,6,6,14,14,14,14,In progress,2381,56,12849,15286
+Kerala,Alappuzha,Harippad,6%3A651,Pallippad,11112825721,55.0,13,6097,3200,9,9,7,8,14,14,2,12,In progress,1255,90,17513,18858
+Kerala,Alappuzha,Harippad,6%3A651,Kumarapuram,11112825691,55.0,19,9820,5597,11,11,9,11,19,19,5,18,In progress,1388,145,31166,32699
+Kerala,Alappuzha,Harippad,6%3A651,Karuvatta,11112825681,40.0,11,5367,3396,13,13,13,13,19,19,18,17,In progress,1420,8,15619,17047
+Kerala,Alappuzha,Harippad,6%3A651,Chingoli,11112825741,135.0,13,4286,2814,7,7,7,7,13,13,13,13,In progress,223,125,16874,17222
+Kerala,Alappuzha,Harippad,6%3A651,Karthikappally,11112825711,55.0,13,3818,3436,2,2,2,2,15,15,15,15,In progress,969,1,13780,14750
+Kerala,Alappuzha,Harippad,6%3A651,Thrikkunnapuzha,111128256%3A1,55.0,17,7454,7454,8,8,8,8,30,30,30,30,100% Har Ghar Jal,972,0,30685,31657
+Kerala,Alappuzha,Baranikkavu,6%3A621,Kattanam,11112825381,55.0,9,4805,1311,4,4,4,4,0,0,0,0,In progress,3163,377,17317,20857
+Kerala,Alappuzha,Baranikkavu,6%3A621,Vallikunnam,111128253%3A1,55.0,18,9775,4520,10,10,10,10,30,30,23,23,In progress,5232,42,35027,40301
+Kerala,Alappuzha,Baranikkavu,6%3A621,Palamel,11112825361,55.0,19,10580,5887,13,13,13,13,30,30,30,29,In progress,6159,97,36527,42783
+Kerala,Alappuzha,Baranikkavu,6%3A621,Bharanikkavu,11112825371,100.0,12,5528,3192,16,16,16,16,35,35,33,33,In progress,3055,344,21715,25114
+Kerala,Alappuzha,Baranikkavu,6%3A621,Chunakkara,11112825421,55.0,15,7910,5722,9,9,9,9,22,22,22,10,In progress,4028,75,25491,29594
+Kerala,Alappuzha,Baranikkavu,6%3A621,Noornad,11112825391,55.0,17,9517,6993,9,9,9,9,29,29,22,29,In progress,5159,44,29167,34370
+Kerala,Alappuzha,Baranikkavu,6%3A621,Thamarakkulam,11112825411,55.0,17,8589,6534,9,9,9,9,27,27,25,25,In progress,5319,136,30553,36008
+Kerala,Alappuzha,Chambakkulam,6%3A631,Kainakary North,11112825561,21.56,9,3110,971,9,9,9,8,16,16,12,16,In progress,959,2,11864,12825
+Kerala,Alappuzha,Chambakkulam,6%3A631,Kainakary South,11112825571,30.88,9,3219,1497,6,6,6,6,12,12,10,12,In progress,1582,44,11700,13326
+Kerala,Alappuzha,Chambakkulam,6%3A631,Edathua,11112825551,55.0,15,5236,2513,14,14,14,14,21,21,21,21,In progress,2044,30,19135,21209
+Kerala,Alappuzha,Chambakkulam,6%3A631,Thakazhy,11112825521,55.0,12,4503,2429,7,7,7,7,23,23,23,23,In progress,2566,32,15734,18332
+Kerala,Alappuzha,Chambakkulam,6%3A631,Thalavady,11112825541,55.0,15,5668,3294,18,18,18,18,23,23,23,23,In progress,1905,52,20643,22600
+Kerala,Alappuzha,Chambakkulam,6%3A631,Nedumudi,11112825581,55.0,12,4822,3194,12,12,12,12,20,20,20,20,In progress,1587,15,15374,16976
+Kerala,Alappuzha,Chambakkulam,6%3A631,Champakkulam,11112825511,55.0,13,4436,3204,7,7,7,7,18,18,18,18,In progress,1360,22,16597,17979
+Kerala,Alappuzha,Muthukulam,6%3A681,Cheppad,11112825431,55.0,14,6454,1769,11,11,11,11,22,22,22,22,In progress,2500,8,20294,22802
+Kerala,Alappuzha,Muthukulam,6%3A681,Pathiyoor,11112825481,55.0,11,6091,2021,12,12,12,12,32,32,28,27,In progress,1475,140,21090,22705
+Kerala,Alappuzha,Muthukulam,6%3A681,Keerikkad,11112825491,55.0,8,4231,1580,2,2,2,2,0,0,0,0,In progress,897,20,15787,16704
+Kerala,Alappuzha,Muthukulam,6%3A681,Puthuppally,11112825451,55.0,15,8127,3797,12,12,12,12,19,19,19,18,In progress,2668,13,21703,24384
+Kerala,Alappuzha,Muthukulam,6%3A681,Krishnapuram,11112825461,100.0,17,10892,6161,6,6,6,6,20,20,20,20,In progress,2735,12,29008,31755
+Kerala,Alappuzha,Muthukulam,6%3A681,Kandalloor,11112825471,100.0,15,6642,4568,6,6,6,6,26,26,26,26,In progress,1381,28,21973,23382
+Kerala,Alappuzha,Muthukulam,6%3A681,Muthukulam,11112825441,100.0,15,7096,4883,9,9,9,9,21,21,21,21,In progress,1892,18,22852,24762
+Kerala,Alappuzha,Muthukulam,6%3A681,Arattupuzha,111128254%3A1,55.0,18,9298,7041,12,12,12,12,40,40,21,40,In progress,1055,1,32387,33443
+Kerala,Alappuzha,Mavelikkara,6%3A671,Thekkekara,11112825181,55.0,19,10756,1298,14,14,14,14,32,32,31,32,In progress,6142,86,35252,41480
+Kerala,Alappuzha,Mavelikkara,6%3A671,Perungala,11112825131,55.0,6,3751,532,8,8,8,8,9,9,9,9,In progress,2150,6,12130,14286
+Kerala,Alappuzha,Mavelikkara,6%3A671,Vettiyar,11112825151,55.0,10,7149,2334,5,5,5,5,16,16,16,16,In progress,3599,60,17933,21592
+Kerala,Alappuzha,Mavelikkara,6%3A671,Kannamangalam,11112825121,55.0,15,9426,3119,16,16,16,16,21,21,21,21,In progress,4250,110,28712,33072
+Kerala,Alappuzha,Mavelikkara,6%3A671,Thriperumthura,11112825171,100.0,11,6343,2421,12,12,12,12,0,0,0,0,In progress,2034,17,14693,16744
+Kerala,Alappuzha,Mavelikkara,6%3A671,Thazhakara,11112825141,55.0,11,7319,3220,20,20,20,20,22,22,22,22,In progress,3043,0,20634,23677
+Kerala,Alappuzha,Mavelikkara,6%3A671,Chennithala,11112825161,100.0,7,4089,2733,1,1,1,1,30,30,30,30,In progress,681,8,10394,11083
+Kerala,Alappuzha,Chengannoor,6%3A641,Puliyoor,11112824%3A51,10.73,26,8798,0,11,11,11,11,24,24,18,21,In progress,5905,54,26172,32131
+Kerala,Alappuzha,Chengannoor,6%3A641,Ennakkad,11112824%3A21,4.1,14,5280,0,5,5,5,5,21,21,9,12,In progress,3805,51,16622,20478
+Kerala,Alappuzha,Chengannoor,6%3A641,Venmony,11112824%3A%3A1,100.0,15,5981,14,13,13,13,13,17,17,6,11,In progress,4075,68,17718,21861
+Kerala,Alappuzha,Chengannoor,6%3A641,Pandanad,11112824%3A41,14.15,13,3433,336,5,5,5,5,12,12,5,7,In progress,1989,34,10878,12901
+Kerala,Alappuzha,Chengannoor,6%3A641,Mulakuzha,11112824%3A71,100.0,29,13369,3227,24,24,17,24,46,46,20,37,In progress,7207,139,35399,42745
+Kerala,Alappuzha,Chengannoor,6%3A641,Chengannoor,11117186171,100.0,2,832,280,0,0,0,0,3,3,0,3,In progress,35,2,2122,2159
+Kerala,Alappuzha,Chengannoor,6%3A641,Mannar,11112824%3A81,100.0,9,5103,2026,16,16,16,16,27,27,27,27,In progress,1658,23,14421,16102
+Kerala,Alappuzha,Chengannoor,6%3A641,Cheriyanad,11112824%3A31,55.0,15,7439,5233,12,12,12,12,39,39,34,36,In progress,3485,44,20285,23814
+Kerala,Alappuzha,Chengannoor,6%3A641,Kurattissery,11112824%3A91,55.0,9,5100,3892,1,1,1,1,1,1,1,1,In progress,2306,29,13105,15440
+Kerala,Alappuzha,Veliyanad,6%3A711,Kavalam,111128255%3A1,7.9,14,4252,177,6,6,6,6,16,16,16,16,In progress,2450,31,13497,15978
+Kerala,Alappuzha,Veliyanad,6%3A711,Kunnumma,11112825591,6.71,12,3864,272,7,7,7,7,18,18,18,18,In progress,1203,34,14583,15820
+Kerala,Alappuzha,Veliyanad,6%3A711,Neelamperoor,11112825611,13.46,4,1151,100,8,8,8,8,6,6,6,6,In progress,397,35,4565,4997
+Kerala,Alappuzha,Veliyanad,6%3A711,Pulinkunnu,11112825621,15.46,12,4741,433,11,11,10,11,20,20,20,20,In progress,736,27,16459,17222
+Kerala,Alappuzha,Veliyanad,6%3A711,Veliyanad,11112825641,100.0,13,3782,1591,9,9,9,9,17,17,4,17,In progress,1298,44,12426,13768
+Kerala,Alappuzha,Veliyanad,6%3A711,Ramankary,11112825631,55.0,13,4004,1979,7,7,7,7,17,17,17,17,In progress,2360,14,13407,15781
+Kerala,Alappuzha,Veliyanad,6%3A711,Muttar,11112825651,100.0,13,2623,1705,4,4,4,4,11,11,10,10,In progress,1132,1,9751,10884
+Kerala,Ernakulam,Edappally,6%3A741,Elamkunnapuzha,11112823161,73.64,11,6185,6185,6,6,6,6,22,22,22,22,100% Har Ghar Jal,2962,112,24301,27375
+Kerala,Ernakulam,Edappally,6%3A741,Puthuvype,11112823171,70.0,12,6291,6291,13,13,13,13,27,27,27,27,100% Har Ghar Jal,1234,35,27024,28293
+Kerala,Ernakulam,Edappally,6%3A741,Cheranalloor,11117488471,100.0,17,8827,8827,10,10,10,10,29,29,28,29,100% Har Ghar Jal,2084,29,38145,40258
+Kerala,Ernakulam,Edappally,6%3A741,Kadamakudy,11117495431,100.0,13,4917,4917,5,5,5,5,19,19,19,19,100% Har Ghar Jal,1290,40,16755,18085
+Kerala,Ernakulam,Edappally,6%3A741,Mulavukad,11117495791,55.0,16,6368,6368,11,11,11,11,23,23,23,23,100% Har Ghar Jal,2753,27,20575,23355
+Kerala,Ernakulam,Palluruthy,6%3A791,Chellanam,11112822791,62.81,11,5518,5518,4,4,4,4,12,12,12,12,100% Har Ghar Jal,922,16,24879,25817
+Kerala,Ernakulam,Palluruthy,6%3A791,Kumbalangy,111128227%3A1,55.0,27,12616,12616,12,12,12,12,39,39,38,39,100% Har Ghar Jal,2411,0,53130,55541
+Kerala,Ernakulam,Palluruthy,6%3A791,KUMBALAM,11112823181,100.0,18,7151,7151,6,6,6,6,28,28,1,28,100% Har Ghar Jal,4060,106,52100,56266
+Kerala,Ernakulam,Vypin,6%3A851,Kuzhuppilly,11112822%3A%3A1,55.0,18,6219,6219,10,10,10,10,24,24,24,24,100% Har Ghar Jal,2530,118,23135,25783
+Kerala,Ernakulam,Vypin,6%3A851,Pallippuram,11112823121,55.0,18,9279,9279,9,9,9,9,32,32,32,32,100% Har Ghar Jal,3603,111,33782,37496
+Kerala,Ernakulam,Vypin,6%3A851,EDAVANAKKAD,11112823131,70.0,15,6076,6076,5,5,5,5,23,23,23,23,100% Har Ghar Jal,4159,33,20716,24908
+Kerala,Ernakulam,Vypin,6%3A851,Nayarambalam,11112823141,70.0,16,6577,6577,7,7,7,7,25,25,25,25,100% Har Ghar Jal,4290,54,23024,27368
+Kerala,Ernakulam,Vypin,6%3A851,Njarackal,11112823151,100.0,16,6350,6350,7,7,7,7,23,23,23,23,100% Har Ghar Jal,3826,45,23430,27301
+Kerala,Ernakulam,Paravoor,6%3A821,Chendamangalam,11117465631,100.0,18,10376,7914,16,16,16,16,28,28,28,28,In progress,2095,70,30445,32610
+Kerala,Ernakulam,Paravoor,6%3A821,Kottuvally,11117465621,100.0,22,14674,11563,13,13,13,13,39,39,39,39,In progress,4813,442,41018,46273
+Kerala,Ernakulam,Paravoor,6%3A821,Paravur,11117494991,55.0,8,4427,4427,2,2,2,2,14,14,14,14,100% Har Ghar Jal,1281,52,14398,15731
+Kerala,Ernakulam,Paravoor,6%3A821,Ezhikkara,11112822121,55.0,14,4944,4944,6,6,6,6,19,19,18,19,100% Har Ghar Jal,3401,57,16847,20305
+Kerala,Ernakulam,Paravoor,6%3A821,Vadakkekkara,11112822131,58.23,18,9249,9249,10,10,10,10,31,31,31,31,100% Har Ghar Jal,2310,87,31967,34364
+Kerala,Ernakulam,Paravoor,6%3A821,Moothakunnam,11112822141,55.0,12,6511,6511,12,12,12,12,17,17,17,17,100% Har Ghar Jal,1116,78,24841,26035
+Kerala,Ernakulam,Alangad,6%3A721,Karimalloor,11112822451,100.0,20,13771,7312,10,10,10,10,34,34,34,34,In progress,5767,186,39206,45159
+Kerala,Ernakulam,Alangad,6%3A721,Kadungalloor,111174639%3A1,100.0,21,16501,9629,6,6,6,6,36,36,36,36,In progress,3616,80,46519,50215
+Kerala,Ernakulam,Alangad,6%3A721,Varappuzha,11117463%3A31,100.0,16,9277,6600,8,8,8,8,27,27,27,27,In progress,955,45,36108,37108
+Kerala,Ernakulam,Alangad,6%3A721,Alangad,11117463981,55.53,21,14915,11721,11,11,11,11,38,38,38,38,In progress,4836,117,48528,53481
+Kerala,Ernakulam,Muvattupuzha,6%3A781,Kalloorkkad,11112822291,100.0,13,3399,1313,12,12,12,12,13,13,13,13,In progress,891,63,13026,13980
+Kerala,Ernakulam,Muvattupuzha,6%3A781,Marady,11112822181,55.0,13,3596,1912,8,8,8,8,12,12,12,12,In progress,1544,90,14410,16044
+Kerala,Ernakulam,Muvattupuzha,6%3A781,Valakam,111128221%3A1,70.0,14,5401,3191,13,13,13,13,13,13,13,12,In progress,845,48,17711,18604
+Kerala,Ernakulam,Muvattupuzha,6%3A781,Mulavoor,11112822251,100.0,22,11978,7350,8,8,8,8,37,37,34,35,In progress,2746,98,39942,42786
+Kerala,Ernakulam,Muvattupuzha,6%3A781,Arakuzha,11112822231,55.0,13,4429,3081,10,10,10,10,16,16,16,16,In progress,1003,62,14339,15404
+Kerala,Ernakulam,Muvattupuzha,6%3A781,Manjalloor,111128222%3A1,70.0,13,4693,3483,12,12,12,12,16,16,16,16,In progress,1435,79,17289,18803
+Kerala,Ernakulam,Muvattupuzha,6%3A781,Enanalloor,11112822271,100.0,14,5176,3918,7,7,7,7,18,18,18,18,In progress,1125,59,21097,22281
+Kerala,Ernakulam,Muvattupuzha,6%3A781,Muvattupuzha,11112822261,55.0,14,5262,4142,9,9,9,9,16,16,16,16,In progress,832,103,20788,21723
+Kerala,Ernakulam,Vazhakkulam,6%3A841,Vengola,11112822%3A81,43.76,13,7058,2814,8,8,8,8,41,41,41,41,In progress,2091,176,31918,34185
+Kerala,Ernakulam,Vazhakkulam,6%3A841,Arakapady,11112822%3A91,100.0,10,4672,2077,10,10,10,10,7,7,7,7,In progress,2162,135,20505,22802
+Kerala,Ernakulam,Vazhakkulam,6%3A841,Marampilly,11112822%3A71,55.0,10,5430,3386,7,7,7,7,20,20,20,20,In progress,1251,89,21918,23258
+Kerala,Ernakulam,Vazhakkulam,6%3A841,Kizhakkambalam,11112822%3A51,64.4,15,6811,4486,12,12,12,12,30,30,30,30,In progress,2448,72,25878,28398
+Kerala,Ernakulam,Vazhakkulam,6%3A841,Aluva West,1111746%3A951,55.0,18,9608,6356,10,10,9,10,32,32,32,32,In progress,2231,149,34400,36780
+Kerala,Ernakulam,Vazhakkulam,6%3A841,Pattimattom,11117184661,55.0,4,2135,1414,2,2,2,2,8,8,7,8,In progress,748,16,8231,8995
+Kerala,Ernakulam,Vazhakkulam,6%3A841,Aluva East,1111746%3A%3A11,100.0,40,22004,15000,40,40,38,40,76,76,76,76,In progress,7467,231,83097,90795
+Kerala,Ernakulam,Vazhakkulam,6%3A841,Vazhakulam,11112822%3A61,65.09,10,5442,4076,8,8,7,8,17,17,17,17,In progress,2076,154,20749,22979
+Kerala,Ernakulam,Pampakuda,6%3A7%3A1,Thirumarady,11112822881,55.0,13,5093,2401,5,5,5,5,17,17,17,17,In progress,1819,49,17984,19852
+Kerala,Ernakulam,Pampakuda,6%3A7%3A1,Memury,11112822841,55.0,6,2176,1252,4,4,4,4,8,8,8,8,In progress,1048,29,7465,8542
+Kerala,Ernakulam,Pampakuda,6%3A7%3A1,Onakkoor,11112822821,70.51,10,3988,2320,3,3,3,3,13,13,13,13,In progress,1336,80,13741,15157
+Kerala,Ernakulam,Pampakuda,6%3A7%3A1,Elanji,111128228%3A1,100.0,13,4406,2599,10,10,10,10,16,16,16,16,In progress,779,4,16317,17100
+Kerala,Ernakulam,Pampakuda,6%3A7%3A1,Maneed,11112822871,55.0,13,5144,3238,6,6,6,6,17,17,6,17,In progress,3576,6,15305,18887
+Kerala,Ernakulam,Pampakuda,6%3A7%3A1,Ramamangalam,11112822851,100.0,10,3201,2027,4,4,4,4,14,14,14,14,In progress,1309,14,10416,11739
+Kerala,Ernakulam,Pampakuda,6%3A7%3A1,Palakkuzha,11112822891,100.0,13,3776,3040,7,7,7,7,15,15,14,7,In progress,857,40,14344,15241
+Kerala,Ernakulam,Mulanthuruthy,6%3A771,Kureekkad,11117464161,155.0,7,4582,1588,4,4,3,4,10,10,0,10,In progress,1334,75,21449,22858
+Kerala,Ernakulam,Mulanthuruthy,6%3A771,Kanayannur,11112822711,66.59,7,4146,1938,2,2,2,2,13,13,0,13,In progress,1658,62,19581,21301
+Kerala,Ernakulam,Mulanthuruthy,6%3A771,Manakunnam,11112822721,100.0,20,10303,5469,12,12,12,12,35,35,0,35,In progress,4087,300,46997,51384
+Kerala,Ernakulam,Mulanthuruthy,6%3A771,Kaippattur,11112822781,55.0,2,865,469,3,3,3,3,4,4,0,4,In progress,148,0,2596,2744
+Kerala,Ernakulam,Mulanthuruthy,6%3A771,Edakkattuvayal,11112822771,75.37,12,5284,3051,7,7,7,7,17,17,0,17,In progress,1496,104,15861,17461
+Kerala,Ernakulam,Mulanthuruthy,6%3A771,Amballur,11112822751,55.4,8,3832,2482,4,4,4,4,13,13,3,13,In progress,1040,1,12478,13519
+Kerala,Ernakulam,Mulanthuruthy,6%3A771,Kulayettikara,11112822741,82.39,3,1387,901,3,3,3,3,6,6,1,6,In progress,660,0,4195,4855
+Kerala,Ernakulam,Mulanthuruthy,6%3A771,Mulamthuruthy,11112822731,55.0,16,7460,4887,9,9,9,9,28,28,8,28,In progress,2850,52,26692,29594
+Kerala,Ernakulam,Mulanthuruthy,6%3A771,Keecherry,11112822761,55.0,5,2198,1589,0,0,0,0,9,9,1,9,In progress,836,0,6858,7694
+Kerala,Ernakulam,Kothamangalam,6%3A761,Pallarimangalam,11112822321,100.0,13,5082,1687,10,10,10,10,16,16,16,16,In progress,1406,65,14079,15550
+Kerala,Ernakulam,Kothamangalam,6%3A761,Eramalloor,11112822371,100.0,18,12254,5279,13,13,13,13,31,31,31,31,In progress,2215,12,34420,36647
+Kerala,Ernakulam,Kothamangalam,6%3A761,Kuttampuzha,11112822331,100.0,17,8416,3986,17,17,17,17,32,32,32,32,In progress,2030,3492,20516,26038
+Kerala,Ernakulam,Kothamangalam,6%3A761,Kuttamangalam,11112822421,70.27,10,4915,2355,7,7,7,7,17,17,17,17,In progress,1138,367,17067,18572
+Kerala,Ernakulam,Kothamangalam,6%3A761,Keerampara,11112822441,100.0,13,4123,2012,10,10,10,10,12,12,12,12,In progress,1646,69,11479,13194
+Kerala,Ernakulam,Kothamangalam,6%3A761,Kedavoor,111128223%3A1,100.0,13,4571,2335,8,8,8,8,16,16,16,16,In progress,1066,28,14135,15229
+Kerala,Ernakulam,Kothamangalam,6%3A761,Neriamangalam,11112822431,100.0,8,3462,1805,8,8,8,8,13,13,13,13,In progress,1333,97,11651,13081
+Kerala,Ernakulam,Kothamangalam,6%3A761,Thrikkariyoor,11112822351,55.0,6,3189,1914,5,5,5,5,10,10,10,10,In progress,1127,84,10349,11560
+Kerala,Ernakulam,Kothamangalam,6%3A761,Varappetty,11112822411,55.0,13,5689,3859,9,9,9,9,20,20,20,20,In progress,851,25,18580,19456
+Kerala,Ernakulam,Kothamangalam,6%3A761,Pothanikkad,11112822311,55.0,13,3407,2460,9,9,9,9,12,12,12,12,In progress,1020,48,9892,10960
+Kerala,Ernakulam,Kothamangalam,6%3A761,Pindimana,11112822341,125.93,12,4558,3337,6,6,6,6,13,13,13,13,In progress,1741,68,13676,15485
+Kerala,Ernakulam,Kothamangalam,6%3A761,Kottappady,11112822391,55.0,11,3156,3156,12,12,12,12,13,13,13,13,100% Har Ghar Jal,2266,82,13227,15575
+Kerala,Ernakulam,Koovappady,6%3A751,Vengoor West,111128226%3A1,100.0,13,5518,1527,7,7,7,7,19,19,19,19,In progress,2995,18,16432,19445
+Kerala,Ernakulam,Koovappady,6%3A751,Rayamangalam,11112822621,55.0,13,7476,2950,6,6,6,6,26,26,26,26,In progress,3080,37,22444,25561
+Kerala,Ernakulam,Koovappady,6%3A751,Asamannoor,11112822611,55.0,14,6260,2881,4,4,4,4,19,19,19,19,In progress,2477,38,19967,22482
+Kerala,Ernakulam,Koovappady,6%3A751,Vengoor,11112822691,100.0,7,3097,1493,7,7,7,7,11,11,11,11,In progress,992,324,10452,11768
+Kerala,Ernakulam,Koovappady,6%3A751,Kombanad,11112822681,50.25,8,2897,1446,5,5,5,5,12,12,12,12,In progress,1414,91,11913,13418
+Kerala,Ernakulam,Koovappady,6%3A751,Chelamattom,11112822641,49.57,12,4357,2879,4,4,4,4,21,21,21,21,In progress,1176,27,20573,21776
+Kerala,Ernakulam,Koovappady,6%3A751,Perumbavoor,11112822631,55.0,7,2571,1785,10,10,10,10,5,5,5,5,In progress,1344,0,12295,13639
+Kerala,Ernakulam,Koovappady,6%3A751,Koovappady,11112822651,100.0,15,6134,4681,10,10,10,10,22,22,22,22,In progress,2469,43,28155,30667
+Kerala,Ernakulam,Koovappady,6%3A751,Kodanad,11112822671,55.0,9,3980,3073,9,9,9,9,15,15,15,15,In progress,2061,106,17739,19906
+Kerala,Ernakulam,Angamaly,6%3A731,Thuravoor,11112822521,55.0,14,5887,1518,12,12,12,12,21,21,21,21,In progress,1340,106,21752,23198
+Kerala,Ernakulam,Angamaly,6%3A731,Vadakkumbhagam,11112822581,41.5,8,3394,1102,4,4,4,4,13,13,13,13,In progress,1130,47,13190,14367
+Kerala,Ernakulam,Angamaly,6%3A731,Chowara,11117492131,100.0,5,2125,731,3,3,3,3,7,7,7,7,In progress,1222,16,7396,8634
+Kerala,Ernakulam,Angamaly,6%3A731,Kalady,11112822481,41.72,12,6067,2172,10,10,10,10,19,19,19,19,In progress,1548,26,23733,25307
+Kerala,Ernakulam,Angamaly,6%3A731,Kizhakkumbhagam,11112822591,55.0,7,2875,1084,8,8,8,8,8,8,8,8,In progress,714,36,10733,11483
+Kerala,Ernakulam,Angamaly,6%3A731,Thekkumbhagam,11112822561,41.43,11,4710,2067,6,6,6,6,17,17,17,17,In progress,1952,47,18198,20197
+Kerala,Ernakulam,Angamaly,6%3A731,Manjapra,11112822541,100.0,13,4550,2083,8,8,8,8,16,16,16,16,In progress,1091,44,16263,17398
+Kerala,Ernakulam,Angamaly,6%3A731,Mattoor,11112822491,100.0,13,5143,2639,8,8,8,8,22,22,22,22,In progress,2342,41,18867,21250
+Kerala,Ernakulam,Angamaly,6%3A731,Malayattoor,11112822511,55.0,9,4128,2420,7,7,7,7,13,13,13,13,In progress,1408,33,14924,16365
+Kerala,Ernakulam,Angamaly,6%3A731,Ayyampuzha,11112822551,100.0,13,4455,2872,6,6,6,6,17,17,17,17,In progress,1714,54,13917,15685
+Kerala,Ernakulam,Angamaly,6%3A731,Karukutty,11112822571,70.0,17,7245,5606,13,13,13,13,24,24,24,24,In progress,1973,52,27482,29507
+Kerala,Ernakulam,Angamaly,6%3A731,Mookkannoor,11112822471,100.0,14,5438,5128,9,9,9,9,19,19,19,19,In progress,1203,96,20781,22080
+Kerala,Ernakulam,Vadavukode,6%3A831,Irapuram,11112822%3A31,47.58,10,5146,1371,9,9,9,9,17,17,17,17,In progress,1585,22,19058,20665
+Kerala,Ernakulam,Vadavukode,6%3A831,Thiruvaniyoor,11112822%3A21,55.0,16,8549,2325,13,10,10,10,25,25,25,25,In progress,3773,53,32389,36215
+Kerala,Ernakulam,Vadavukode,6%3A831,Mazhuvannoor,11112822%3A41,100.0,9,4619,1396,11,11,11,11,14,14,14,14,In progress,2114,54,16389,18557
+Kerala,Ernakulam,Vadavukode,6%3A831,Aikaranad South,11112822%3A11,100.0,14,6670,2568,11,11,11,11,22,22,22,22,In progress,2983,205,25152,28340
+Kerala,Ernakulam,Vadavukode,6%3A831,Aikaranad North,111128229%3A1,55.0,14,6415,2627,10,10,10,10,21,21,21,21,In progress,3922,71,22499,26492
+Kerala,Ernakulam,Vadavukode,6%3A831,Puthencruz,11112822971,55.0,15,6699,3365,11,5,5,5,25,25,25,21,In progress,5606,131,27286,33023
+Kerala,Ernakulam,Vadavukode,6%3A831,Vadavukode,11112822961,80.5,2,624,359,2,2,2,2,3,3,3,3,In progress,327,2,2120,2449
+Kerala,Ernakulam,Vadavukode,6%3A831,Pattimattom,11112822991,55.0,6,3065,1922,2,2,2,2,12,12,12,11,In progress,1289,36,11359,12684
+Kerala,Ernakulam,Vadavukode,6%3A831,Kunnathunad,11112822981,64.96,12,5852,3811,7,7,7,7,17,17,15,17,In progress,4033,47,21519,25599
+Kerala,Ernakulam,Parakkadavu,6%3A811,Parakkadavu,11112822951,55.0,18,8829,823,14,14,14,14,31,31,31,31,In progress,3324,78,33554,36956
+Kerala,Ernakulam,Parakkadavu,6%3A811,Chengamanad,11117492121,100.0,18,7665,1777,7,7,7,7,28,28,28,28,In progress,1472,51,29680,31203
+Kerala,Ernakulam,Parakkadavu,6%3A811,Kunnukara,11112822931,100.0,15,7478,1884,13,13,13,13,22,22,22,22,In progress,2615,20,20461,23096
+Kerala,Ernakulam,Parakkadavu,6%3A811,Nedumbassery,11112822941,55.0,19,7968,2368,8,8,8,8,32,32,32,32,In progress,5045,22,34698,39765
+Kerala,Ernakulam,Parakkadavu,6%3A811,Puthenvelikkara,11112822151,55.0,17,9312,7490,11,11,11,11,30,30,30,30,In progress,2931,36,27063,30030
+Kerala,Idukki,Thodupuzha,6%3A941,Udumbannoor,11117189561,100.0,2,476,140,0,0,0,0,0,0,0,0,In progress,93,14,1826,1933
+Kerala,Idukki,Thodupuzha,6%3A941,Karimkunnam,111128232%3A1,55.0,13,3293,1049,4,4,4,4,28,28,20,28,In progress,1070,119,12300,13489
+Kerala,Idukki,Thodupuzha,6%3A941,Kumaramangalam,11112823261,55.0,13,4017,1942,11,11,11,11,10,10,10,10,In progress,1576,125,15452,17153
+Kerala,Idukki,Thodupuzha,6%3A941,Muttom,111128235%3A1,55.0,12,2712,1454,7,7,7,7,17,17,14,17,In progress,904,818,9168,10890
+Kerala,Idukki,Thodupuzha,6%3A941,Purapuzha,11112823291,100.0,14,3425,2646,3,3,3,3,18,18,17,18,In progress,561,56,13412,14029
+Kerala,Idukki,Thodupuzha,6%3A941,Manakkad,11112823281,85.63,12,3779,3167,7,7,7,7,17,15,8,15,In progress,980,34,13765,14779
+Kerala,Idukki,Thodupuzha,6%3A941,Karikkode,11112823271,90.09,12,3471,3197,0,0,0,0,10,10,10,10,In progress,1002,153,13428,14583
+Kerala,Idukki,Elamdesam,6%3A8%3A1,Neyyasseri,111171873%3A1,100.0,6,2321,414,7,7,7,7,7,7,4,6,In progress,1249,41,8661,9951
+Kerala,Idukki,Elamdesam,6%3A8%3A1,Vannapuram,11112823561,100.0,17,7319,2946,9,9,9,9,20,20,20,20,In progress,1708,1846,28305,31859
+Kerala,Idukki,Elamdesam,6%3A8%3A1,Udumbannoor,11112823571,70.0,14,5055,2464,13,13,13,13,13,13,13,13,In progress,756,2551,22130,25437
+Kerala,Idukki,Elamdesam,6%3A8%3A1,Kodikulam,11112823551,89.71,13,3667,1861,11,11,11,11,4,4,4,4,In progress,868,47,14469,15384
+Kerala,Idukki,Elamdesam,6%3A8%3A1,Alacode,11117187411,100.0,3,1164,609,0,0,0,0,0,0,0,0,In progress,156,100,4711,4967
+Kerala,Idukki,Elamdesam,6%3A8%3A1,Kudayathoor,11112823631,100.0,11,2575,1394,7,7,7,7,12,12,4,12,In progress,755,1034,9227,11016
+Kerala,Idukki,Elamdesam,6%3A8%3A1,Neyyasseri,11112823591,55.0,14,3530,2358,8,8,8,8,12,12,12,12,In progress,1072,161,13250,14483
+Kerala,Idukki,Elamdesam,6%3A8%3A1,Karimannoor,11112823581,76.26,12,4007,2869,14,14,14,14,7,7,7,7,In progress,740,133,17025,17898
+Kerala,Idukki,Elamdesam,6%3A8%3A1,Velliyamattom,11112823621,100.0,16,5936,5001,9,9,9,9,13,13,11,12,In progress,1249,4146,18022,23417
+Kerala,Idukki,Devikulam,6%3A891,Chinnakanal,11112823251,100.0,13,3357,0,12,12,10,10,25,25,9,19,In progress,4635,1305,6576,12516
+Kerala,Idukki,Devikulam,6%3A891,Chathurangapara,11117189751,100.0,1,427,0,1,1,1,1,2,2,2,2,In progress,214,42,1237,1493
+Kerala,Idukki,Devikulam,6%3A891,Poopara,11117187521,100.0,6,2205,16,1,1,1,1,13,13,9,13,In progress,1836,149,5867,7852
+Kerala,Idukki,Devikulam,6%3A891,Santhanpara,111128234%3A1,15.63,6,1990,22,3,3,3,3,12,12,5,8,In progress,1334,163,5354,6851
+Kerala,Idukki,Devikulam,6%3A891,Kdh Village,11117794751,100.0,13,862,56,11,11,10,10,10,10,10,10,In progress,0,2373,0,2373
+Kerala,Idukki,Devikulam,6%3A891,KOTTAKAMBOOR,11112823241,15.66,6,764,158,4,4,3,3,8,8,8,6,In progress,533,631,1521,2685
+Kerala,Idukki,Devikulam,6%3A891,Kannan Devan Hills,11117187361,11.56,21,8262,2530,24,24,23,23,26,26,2,2,In progress,17128,2181,11463,30772
+Kerala,Idukki,Devikulam,6%3A891,Vattavada,11117187371,100.0,8,1496,795,9,9,9,9,14,14,11,10,In progress,1595,1083,3161,5839
+Kerala,Idukki,Devikulam,6%3A891,Keezhanthoor,11112823231,100.0,6,1303,706,3,3,3,2,14,14,6,7,In progress,1856,1171,2173,5200
+Kerala,Idukki,Devikulam,6%3A891,Mankulam,11112823191,39.34,13,2661,1475,9,9,9,9,26,26,24,24,In progress,703,1922,8252,10877
+Kerala,Idukki,Devikulam,6%3A891,Kanthalloor,11112823221,47.2,6,1570,894,5,5,4,5,10,10,6,7,In progress,1330,1435,3019,5784
+Kerala,Idukki,Devikulam,6%3A891,Marayoor,11112823211,100.0,13,4186,3507,14,14,14,14,32,32,7,16,In progress,3708,4139,5524,13371
+Kerala,Idukki,Idukki,6%3A911,Thankamony,11112823331,55.0,22,6649,571,18,18,18,18,41,41,0,3,In progress,890,365,26698,27953
+Kerala,Idukki,Idukki,6%3A911,Vathikudy,11112823311,25.51,16,6003,1192,12,12,12,12,28,28,0,0,In progress,619,493,22884,23996
+Kerala,Idukki,Idukki,6%3A911,Upputhode,11112823321,44.79,9,2794,902,9,9,9,9,15,15,0,2,In progress,344,1280,9563,11187
+Kerala,Idukki,Idukki,6%3A911,Elappally,11112823371,70.0,3,1189,494,1,1,0,1,1,1,0,1,In progress,309,1420,2727,4456
+Kerala,Idukki,Idukki,6%3A911,Idukki,11112823351,100.0,18,7863,3273,22,22,8,19,41,41,15,26,In progress,2653,3636,26075,32364
+Kerala,Idukki,Idukki,6%3A911,Kanjikuzhi,11112823341,70.0,18,7179,3075,18,18,18,18,30,30,2,28,In progress,1145,3540,24836,29521
+Kerala,Idukki,Idukki,6%3A911,Arakkulam,11112823361,43.54,10,3808,2729,11,11,10,11,14,14,0,14,In progress,1098,2365,10696,14159
+Kerala,Idukki,Kattappana,6%3A921,Vandanmedu,11112823661,17.46,9,4542,162,2,2,2,2,18,18,17,18,In progress,3385,392,13478,17255
+Kerala,Idukki,Kattappana,6%3A921,Upputhara,11112823691,33.39,13,5423,755,7,7,6,7,33,33,33,33,In progress,2800,1021,16517,20338
+Kerala,Idukki,Kattappana,6%3A921,Anakkara,11112823671,19.2,9,4151,630,5,5,0,4,15,15,15,15,In progress,3371,331,12654,16356
+Kerala,Idukki,Kattappana,6%3A921,Ayyappancoil,11112823681,100.0,24,8558,1786,28,28,25,28,56,56,21,52,In progress,2370,1628,33188,37186
+Kerala,Idukki,Kattappana,6%3A921,Chakkupallam,111128236%3A1,100.0,12,5061,1629,3,3,1,3,30,30,28,30,In progress,1627,487,17057,19171
+Kerala,Idukki,Kattappana,6%3A921,Kalkoonthal,11112823641,26.81,13,5288,2341,12,12,12,12,38,38,13,38,In progress,854,124,21508,22486
+Kerala,Idukki,Kattappana,6%3A921,Anavilasam,11112823711,100.0,23,8386,6386,22,22,21,21,35,35,1,34,In progress,15127,735,16551,32413
+Kerala,Idukki,Adimali,6%3A871,Pallivasal,11112823391,10.14,10,3294,0,2,2,2,2,24,24,7,5,In progress,3506,113,9596,13215
+Kerala,Idukki,Adimali,6%3A871,Anaviratty,11112823381,55.0,3,1002,28,2,2,2,2,4,4,1,0,In progress,936,50,2935,3921
+Kerala,Idukki,Adimali,6%3A871,Elappara,11117189371,100.0,2,746,74,2,2,1,2,9,9,4,7,In progress,207,663,2013,2883
+Kerala,Idukki,Adimali,6%3A871,Vellathuval,11112823411,23.23,11,4307,599,13,13,2,10,25,25,14,6,In progress,1477,98,15647,17222
+Kerala,Idukki,Adimali,6%3A871,Baisonvally,11112823421,18.58,12,3695,873,15,15,8,15,25,25,9,4,In progress,1035,2202,11271,14508
+Kerala,Idukki,Adimali,6%3A871,Kunjithanny,11117186%3A%3A1,100.0,7,2673,675,3,3,1,3,18,18,12,7,In progress,763,283,9951,10997
+Kerala,Idukki,Adimali,6%3A871,Konnathady,11112823431,70.0,19,7733,2037,17,17,2,17,55,55,1,5,In progress,912,779,29993,31684
+Kerala,Idukki,Adimali,6%3A871,Mannamkandam,11117186%3A11,350.0,20,10167,4340,15,15,14,15,55,55,52,53,In progress,3223,5186,34050,42459
+Kerala,Idukki,Azhutha,6%3A881,Wagamon,11112823721,75.67,6,2604,308,6,6,4,6,15,15,15,15,In progress,2276,305,8006,10587
+Kerala,Idukki,Azhutha,6%3A881,Manjumala,11112823791,40.44,14,6757,884,16,16,14,16,39,39,1,38,In progress,11820,210,15892,27922
+Kerala,Idukki,Azhutha,6%3A881,Kokkayar,11112823741,100.0,13,3441,575,8,8,7,8,22,22,22,22,In progress,1755,1075,10862,13692
+Kerala,Idukki,Azhutha,6%3A881,Periyar,111128237%3A1,100.0,15,7544,1359,7,7,5,7,40,40,9,39,In progress,8580,921,19339,28840
+Kerala,Idukki,Azhutha,6%3A881,Elappara,11112823731,100.0,14,7112,1476,15,15,11,15,34,34,28,34,In progress,6143,170,22908,29221
+Kerala,Idukki,Azhutha,6%3A881,Peruvanthanam,11112823771,60.37,13,3766,801,14,14,11,14,34,34,1,33,In progress,1292,249,13965,15506
+Kerala,Idukki,Azhutha,6%3A881,Kumily,11112823751,54.64,15,7280,2318,17,17,16,17,44,44,44,44,In progress,4503,1738,24154,30395
+Kerala,Idukki,Azhutha,6%3A881,Peerumade,11112823781,100.0,15,5628,2806,20,20,14,20,36,36,2,36,In progress,8144,152,12670,20966
+Kerala,Idukki,Nedumkandom,6%3A931,Karunapuram,11112823541,70.0,19,7397,67,16,16,16,16,46,46,33,45,In progress,2356,68,27751,30175
+Kerala,Idukki,Nedumkandom,6%3A931,Udumbanchola,11112823481,70.0,13,4138,150,8,8,8,8,28,28,13,27,In progress,1662,723,13557,15942
+Kerala,Idukki,Nedumkandom,6%3A931,Kanthippara,11112823491,100.0,8,2065,134,3,3,3,3,13,13,5,13,In progress,751,199,7067,8017
+Kerala,Idukki,Nedumkandom,6%3A931,Poopara,11112823461,55.0,3,809,128,1,1,1,1,3,3,2,3,In progress,332,59,2596,2987
+Kerala,Idukki,Nedumkandom,6%3A931,Rajakumari,11112823451,21.58,14,5039,935,4,4,4,4,25,25,5,16,In progress,1465,290,19152,20907
+Kerala,Idukki,Nedumkandom,6%3A931,Pampadumpara,11112823531,22.72,17,5829,1182,7,7,7,7,38,38,11,36,In progress,3111,276,21647,25034
+Kerala,Idukki,Nedumkandom,6%3A931,Parathodu,11112823521,55.0,11,4856,1117,6,6,6,6,33,33,15,27,In progress,2151,225,17840,20216
+Kerala,Idukki,Nedumkandom,6%3A931,Rajakkad,11112823471,70.0,13,4073,1082,6,6,6,6,21,21,9,20,In progress,582,51,15332,15965
+Kerala,Idukki,Nedumkandom,6%3A931,Kalkoonthal,11117187191,70.0,10,4987,2631,12,12,11,11,25,25,12,21,In progress,1091,68,20292,21451
+Kerala,Kannur,Kalliasseri,77%3A61,Kannadiparamba,11117792451,100.0,10,2485,1034,7,7,7,7,13,13,13,6,In progress,745,13,18360,19118
+Kerala,Kannur,Kalliasseri,77%3A61,Narath,11117485%3A11,100.0,7,2542,1891,7,7,7,6,11,11,11,3,In progress,1415,17,8761,10193
+Kerala,Kannur,Kalliasseri,77%3A61,Cheruthazham,11117485%3A41,55.0,17,8717,8717,16,16,16,16,31,31,31,31,100% Har Ghar Jal,61,0,30864,30925
+Kerala,Kannur,Kalliasseri,77%3A61,Kannapuram,11117486921,55.0,14,5188,5188,10,10,10,10,14,14,0,14,100% Har Ghar Jal,1345,24,17713,19082
+Kerala,Kannur,Kalliasseri,77%3A61,Kalliassery,11117486%3A21,55.0,18,7989,7989,13,13,12,13,23,23,22,23,100% Har Ghar Jal,1567,91,30936,32594
+Kerala,Kannur,Kalliasseri,77%3A61,Cherukunnu,11112814%3A91,55.0,13,3772,3772,9,9,9,9,18,18,0,18,100% Har Ghar Jal,1212,41,15620,16873
+Kerala,Kannur,Kalliasseri,77%3A61,Madayi,11112815141,100.0,20,8156,8156,24,23,23,23,31,31,31,31,100% Har Ghar Jal,2581,11,35856,38448
+Kerala,Kannur,Kalliasseri,77%3A61,Ezhome,11112815151,55.0,14,4738,4738,16,16,16,16,22,22,22,22,100% Har Ghar Jal,1902,1,18387,20290
+Kerala,Kannur,Kalliasseri,77%3A61,Mattool,11112815161,55.0,17,5824,5824,19,19,18,19,25,25,11,10,100% Har Ghar Jal,872,69,28180,29121
+Kerala,Kannur,Thalassery,6%3A%3A31,New Mahi,11117631381,100.0,13,3158,638,16,16,15,16,16,16,16,16,In progress,5,0,16561,16566
+Kerala,Kannur,Thalassery,6%3A%3A31,Eranholi,111174859%3A1,55.0,16,6155,5886,16,16,15,16,27,27,27,27,In progress,15,0,26890,26905
+Kerala,Kannur,Thalassery,6%3A%3A31,Paduvilayi,11117631391,55.0,11,4499,4499,17,17,17,17,19,19,19,19,100% Har Ghar Jal,0,1,21062,21063
+Kerala,Kannur,Thalassery,6%3A%3A31,Pathiriyad,111176313%3A1,55.0,10,4105,4105,17,17,17,17,15,15,15,15,100% Har Ghar Jal,23,0,19107,19130
+Kerala,Kannur,Thalassery,6%3A%3A31,Pinarayi,11117631411,55.0,10,4541,4541,13,13,13,13,17,17,17,17,100% Har Ghar Jal,0,0,18503,18503
+Kerala,Kannur,Thalassery,6%3A%3A31,Eruvatti,11112814%3A%3A1,62.0,9,4209,4209,6,6,6,6,20,20,20,20,100% Har Ghar Jal,159,3,18179,18341
+Kerala,Kannur,Thalassery,6%3A%3A31,Muzhappilangad,11117485811,55.0,15,4909,4909,10,10,10,10,21,21,21,21,100% Har Ghar Jal,63,0,24693,24756
+Kerala,Kannur,Thalassery,6%3A%3A31,Anjarakkandy,11117485841,55.0,15,5402,5402,23,23,23,23,22,22,22,22,100% Har Ghar Jal,34,0,23997,24031
+Kerala,Kannur,Thalassery,6%3A%3A31,Dharmmadam,11117485991,55.0,18,7100,7100,20,20,20,20,28,28,28,28,100% Har Ghar Jal,35,0,32190,32225
+Kerala,Kannur,Edakkad,6%3A951,Munderi,11117475351,55.0,8,1976,627,10,10,10,10,14,14,14,14,In progress,500,35,12299,12834
+Kerala,Kannur,Edakkad,6%3A951,Kanhirode,11117475221,10.45,12,4178,1580,8,8,8,8,19,19,19,19,In progress,687,33,23316,24036
+Kerala,Kannur,Edakkad,6%3A951,Mavilayi,11117475311,55.0,8,2960,2960,14,14,14,14,10,10,10,10,100% Har Ghar Jal,25,0,13375,13400
+Kerala,Kannur,Edakkad,6%3A951,Chembilode,11117475341,55.0,11,4164,4164,13,13,13,13,20,20,20,20,100% Har Ghar Jal,108,8,20610,20726
+Kerala,Kannur,Edakkad,6%3A951,Kadambur,11117475511,55.0,13,4221,4221,11,11,11,11,17,17,16,16,100% Har Ghar Jal,23,0,19759,19782
+Kerala,Kannur,Edakkad,6%3A951,Makreri,11117584411,55.0,10,3701,3701,12,12,12,12,18,18,18,18,100% Har Ghar Jal,15,0,16985,17000
+Kerala,Kannur,Edakkad,6%3A951,Iriveri,11117631%3A%3A1,100.0,8,2706,2706,13,13,13,13,11,11,11,11,100% Har Ghar Jal,0,0,15185,15185
+Kerala,Kannur,KANNUR,6%3A981,Chirakkal,11117483461,55.0,23,14194,6647,17,17,17,13,43,43,31,27,In progress,2702,128,44927,47757
+Kerala,Kannur,KANNUR,6%3A981,Valapattanm,111174833%3A1,55.0,13,1623,1139,7,7,7,7,9,9,3,2,In progress,184,26,8121,8331
+Kerala,Kannur,KANNUR,6%3A981,Azhikode North,11117483411,43.01,11,6478,5562,13,13,13,12,19,19,6,8,In progress,1615,37,23211,24863
+Kerala,Kannur,KANNUR,6%3A981,Azhikode South,1111785%3A261,55.0,12,7116,6315,9,9,8,9,26,26,7,12,In progress,1024,39,23635,24698
+Kerala,Kannur,KANNUR,6%3A981,Pappinissery,11117483421,55.0,20,7807,7807,16,16,15,16,19,19,17,9,100% Har Ghar Jal,3168,71,33556,36795
+Kerala,Kannur,Irikkur,6%3A961,Eruvassy,11112815331,55.0,14,5034,79,16,16,16,16,22,22,9,2,In progress,350,950,18825,20125
+Kerala,Kannur,Irikkur,6%3A961,Payyavoor,11112815341,100.0,16,6024,132,17,17,17,17,26,26,13,6,In progress,352,1561,22171,24084
+Kerala,Kannur,Irikkur,6%3A961,Vayathur,11112815361,100.0,13,6287,1188,11,11,11,11,23,23,8,9,In progress,354,1088,23696,25138
+Kerala,Kannur,Irikkur,6%3A961,Nuchiyad,11112815351,26.21,7,2924,891,5,5,5,5,14,14,6,3,In progress,142,281,11542,11965
+Kerala,Kannur,Irikkur,6%3A961,Kalliad,11112815381,100.0,6,2171,1342,3,3,3,3,11,11,3,5,In progress,129,192,8360,8681
+Kerala,Kannur,Irikkur,6%3A961,Kayaralam,11112815411,21.68,9,3475,2247,9,9,9,9,13,13,13,6,In progress,838,13,15476,16327
+Kerala,Kannur,Irikkur,6%3A961,Maniyoor,11112815461,55.0,7,2456,1642,11,11,11,11,11,11,11,4,In progress,353,26,12859,13238
+Kerala,Kannur,Irikkur,6%3A961,Padiyoor,11112815371,32.37,9,3371,2592,7,7,7,7,16,16,4,5,In progress,351,544,12732,13627
+Kerala,Kannur,Irikkur,6%3A961,Irikkur,11112815391,100.0,13,3484,2930,10,10,10,10,13,13,13,7,In progress,110,8,14187,14305
+Kerala,Kannur,Irikkur,6%3A961,Kolacherry,11112815431,18.22,8,2807,2593,10,10,10,10,11,11,11,5,In progress,838,16,13416,14270
+Kerala,Kannur,Irikkur,6%3A961,Malapattam,111128153%3A1,55.0,13,2623,2568,5,5,5,5,12,12,10,4,In progress,397,44,9670,10111
+Kerala,Kannur,Irikkur,6%3A961,Mayyil,11112815421,100.0,9,1770,1770,9,9,9,9,16,16,16,4,100% Har Ghar Jal,565,19,13526,14110
+Kerala,Kannur,Irikkur,6%3A961,Cheleri,11112815441,55.0,9,2560,2560,9,9,9,9,15,15,15,4,100% Har Ghar Jal,1112,23,13718,14853
+Kerala,Kannur,Irikkur,6%3A961,Kuttiattoor,11112815451,42.19,9,2711,2711,10,10,10,10,13,13,13,3,100% Har Ghar Jal,729,5,13070,13804
+Kerala,Kannur,Panoor,77%3A51,Chokli,11117476321,4.71,17,6224,13,26,26,26,26,27,27,27,27,In progress,74,0,29443,29517
+Kerala,Kannur,Panoor,77%3A51,Panniyannur,11117476361,100.0,15,4950,591,19,19,19,19,18,18,18,18,In progress,138,6,23156,23300
+Kerala,Kannur,Panoor,77%3A51,Kathirur,11117476221,55.0,18,7440,7440,28,28,28,28,30,30,30,30,100% Har Ghar Jal,89,0,32355,32444
+Kerala,Kannur,Thaliparambu,6%3A%3A21,Chuzhali,11112814%3A21,1.0,9,3472,2,5,5,5,5,18,18,1,1,In progress,620,195,13339,14154
+Kerala,Kannur,Thaliparambu,6%3A%3A21,Chengalai,11112814%3A31,100.0,9,4382,20,12,12,12,12,19,19,2,1,In progress,1125,69,16578,17772
+Kerala,Kannur,Thaliparambu,6%3A%3A21,New Naduvil,11112814921,55.0,10,5136,111,13,13,13,13,32,32,20,32,In progress,130,2003,18751,20884
+Kerala,Kannur,Thaliparambu,6%3A%3A21,Vellad,11112814931,7.28,15,7641,198,11,11,11,11,6,6,0,6,In progress,1241,3857,26702,31800
+Kerala,Kannur,Thaliparambu,6%3A%3A21,Vellad,11112814%3A71,16.61,3,892,74,0,0,0,0,2,2,1,2,In progress,471,1912,3565,5948
+Kerala,Kannur,Thaliparambu,6%3A%3A21,Alakode,11112814%3A41,55.0,24,10489,2055,17,17,17,17,57,57,49,57,In progress,1946,5550,39126,46622
+Kerala,Kannur,Thaliparambu,6%3A%3A21,Thimiri,11112814951,100.0,12,6601,1389,4,4,4,4,15,15,12,15,In progress,935,792,23572,25299
+Kerala,Kannur,Thaliparambu,6%3A%3A21,Kooveri,11112814941,61.52,9,4773,2669,10,10,10,10,23,23,16,22,In progress,583,190,16620,17393
+Kerala,Kannur,Thaliparambu,6%3A%3A21,Panniyoor,11112814971,60.0,11,6578,4365,7,7,7,7,6,6,3,6,In progress,381,13,21028,21422
+Kerala,Kannur,Thaliparambu,6%3A%3A21,Kurumathur,11112814981,55.0,6,2848,2281,7,7,7,7,28,28,20,28,In progress,596,0,11387,11983
+Kerala,Kannur,Thaliparambu,6%3A%3A21,Pariyaram,111128149%3A1,100.0,8,4160,3379,3,3,3,3,22,22,17,22,In progress,1148,3,9561,10712
+Kerala,Kannur,Thaliparambu,6%3A%3A21,Pattuvam,11112814%3A11,55.0,13,3926,3926,12,12,12,12,17,17,15,11,100% Har Ghar Jal,1372,51,16590,18013
+Kerala,Kannur,Thaliparambu,6%3A%3A21,Kuttiyeri,11112814991,60.76,10,5362,5362,12,12,12,12,11,11,6,11,100% Har Ghar Jal,573,39,13257,13869
+Kerala,Kannur,Payyannur,6%3A9%3A1,Karivellur,11112815181,0.0,7,3012,0,4,4,4,4,10,10,10,10,In progress,542,18,11067,11627
+Kerala,Kannur,Payyannur,6%3A9%3A1,Alapadamba,11112815211,100.0,5,1810,0,3,3,3,3,7,7,7,7,In progress,516,25,6722,7263
+Kerala,Kannur,Payyannur,6%3A9%3A1,Peralam,11112815191,100.0,7,2660,2,7,7,7,7,11,11,11,11,In progress,466,12,9998,10476
+Kerala,Kannur,Payyannur,6%3A9%3A1,Kankole,111128151%3A1,0.07,9,3249,24,7,7,7,7,18,18,18,18,In progress,850,16,12110,12976
+Kerala,Kannur,Payyannur,6%3A9%3A1,Vellora,11112815241,100.0,6,2619,68,5,5,5,5,12,12,12,12,In progress,262,190,10076,10528
+Kerala,Kannur,Payyannur,6%3A9%3A1,Pulingome,11112815281,9.13,6,3799,225,6,6,6,6,8,8,8,8,In progress,362,1107,13609,15078
+Kerala,Kannur,Payyannur,6%3A9%3A1,Eramam,11112815221,27.4,6,2409,241,5,5,5,5,12,12,12,12,In progress,85,8,9241,9334
+Kerala,Kannur,Payyannur,6%3A9%3A1,Peringome,11112815261,12.17,5,2207,316,6,6,6,6,12,12,12,12,In progress,385,176,8456,9017
+Kerala,Kannur,Payyannur,6%3A9%3A1,Perinthatta,11112815251,12.59,4,1927,312,2,2,2,2,9,9,9,9,In progress,289,68,8343,8700
+Kerala,Kannur,Payyannur,6%3A9%3A1,Kuttoor,11112815231,17.01,5,2301,463,3,3,3,3,11,11,11,11,In progress,324,59,8754,9137
+Kerala,Kannur,Payyannur,6%3A9%3A1,Thirumeni,11112815291,20.54,5,1483,324,3,3,3,3,12,12,12,12,In progress,127,249,5218,5594
+Kerala,Kannur,Payyannur,6%3A9%3A1,Vayakkara,11112815271,8.48,15,5295,1242,12,12,12,12,34,34,34,34,In progress,1102,427,20191,21720
+Kerala,Kannur,Payyannur,6%3A9%3A1,Kunhimangalam,11112815131,55.0,14,4785,4464,13,13,13,13,19,19,19,19,In progress,1101,0,18605,19706
+Kerala,Kannur,Payyannur,6%3A9%3A1,Panapuzha,11112815111,72.97,7,2574,2536,6,6,6,6,16,16,16,16,In progress,311,34,10495,10840
+Kerala,Kannur,Payyannur,6%3A9%3A1,Kadannappalli,11112815121,55.0,8,3049,3049,7,7,7,7,12,12,11,12,100% Har Ghar Jal,337,29,11678,12044
+Kerala,Kannur,Payyannur,6%3A9%3A1,Ramanthali,11112815171,55.0,15,5512,5512,10,10,10,10,26,26,19,26,100% Har Ghar Jal,1280,69,25578,26927
+Kerala,Kannur,Iritty,6%3A971,Payam,11112815531,0.04,8,2792,0,11,11,11,11,25,25,25,25,In progress,482,381,13832,14695
+Kerala,Kannur,Iritty,6%3A971,Vilamana,11112815541,100.0,10,2847,0,5,5,5,5,3,3,3,3,In progress,399,273,14116,14788
+Kerala,Kannur,Iritty,6%3A971,Ayyankunnu,11112815551,2.23,16,4633,12,13,13,10,13,23,23,20,22,In progress,389,979,21830,23198
+Kerala,Kannur,Iritty,6%3A971,Thillenkeri,11112815571,6.87,13,2959,20,9,9,9,9,18,18,18,18,In progress,250,402,14683,15335
+Kerala,Kannur,Iritty,6%3A971,Keezhallur,11112815491,100.0,14,4165,1244,12,12,12,12,18,18,18,18,In progress,386,82,20445,20913
+Kerala,Kannur,Iritty,6%3A971,Aralam,11112815561,70.0,17,6484,2917,18,18,18,18,37,37,37,37,In progress,400,2645,27908,30953
+Kerala,Kannur,Iritty,6%3A971,Pattannur,11112815471,55.0,8,2999,2999,12,12,12,12,12,12,12,12,100% Har Ghar Jal,283,56,14203,14542
+Kerala,Kannur,Iritty,6%3A971,Koodali,11112815481,55.0,10,3052,3052,11,11,11,11,14,14,14,14,100% Har Ghar Jal,289,31,15636,15956
+Kerala,Kannur,Koothuparambu,6%3A991,Kannavam,11112815681,0.0,5,1880,0,4,4,4,4,9,9,8,5,In progress,41,106,7614,7761
+Kerala,Kannur,Koothuparambu,6%3A991,Manantheri,11112815691,0.0,10,4070,0,10,10,10,10,16,16,12,8,In progress,200,1056,15935,17191
+Kerala,Kannur,Koothuparambu,6%3A991,Kandamkunnu,11112815711,17.51,7,3072,28,12,12,12,12,14,14,14,14,In progress,258,49,13889,14196
+Kerala,Kannur,Koothuparambu,6%3A991,Thrippangottur,11112815761,4.33,18,6815,173,18,18,18,18,29,29,12,7,In progress,844,420,30282,31546
+Kerala,Kannur,Koothuparambu,6%3A991,Mangattidam,111128156%3A1,17.19,12,4780,138,7,7,7,7,20,20,20,20,In progress,304,95,21616,22015
+Kerala,Kannur,Koothuparambu,6%3A991,Mokeri,11112815721,0.97,14,4487,130,15,15,15,15,18,18,10,5,In progress,205,22,20342,20569
+Kerala,Kannur,Koothuparambu,6%3A991,Puthoor,11112815741,16.45,13,5375,873,13,13,13,13,18,18,3,6,In progress,316,70,23964,24350
+Kerala,Kannur,Koothuparambu,6%3A991,Kolavelloor,11112815751,15.88,8,3661,1117,12,12,12,12,14,14,7,6,In progress,105,50,16660,16815
+Kerala,Kannur,Koothuparambu,6%3A991,Cheruvanchery,11112815731,31.37,8,3728,1277,10,10,10,10,18,18,5,17,In progress,207,45,16379,16631
+Kerala,Kannur,Koothuparambu,6%3A991,Pattiam,11117477341,55.0,10,3424,2543,11,11,11,11,16,16,5,14,In progress,132,1386,13727,15245
+Kerala,Kannur,Koothuparambu,6%3A991,Kottayam,11117476611,55.0,14,3987,3613,13,13,13,13,19,19,16,18,In progress,280,64,19691,20035
+Kerala,Kannur,Peravoor,6%3A%3A11,Kanichar,111128155%3A1,100.0,13,3953,0,6,6,6,6,20,20,10,12,In progress,275,1836,14160,16271
+Kerala,Kannur,Peravoor,6%3A%3A11,Tholambra,11112815641,17.56,7,2405,0,2,2,2,2,5,5,5,5,In progress,117,155,10549,10821
+Kerala,Kannur,Peravoor,6%3A%3A11,Sivapuram,11112815651,100.0,8,2734,0,11,11,11,11,22,22,22,22,In progress,204,276,12018,12498
+Kerala,Kannur,Peravoor,6%3A%3A11,Manathana,11112815611,7.89,8,2968,5,5,5,5,5,12,12,1,4,In progress,314,843,11371,12528
+Kerala,Kannur,Peravoor,6%3A%3A11,Kottiyoor,11112815581,13.91,14,4356,9,5,5,5,5,22,22,15,18,In progress,470,1175,15877,17522
+Kerala,Kannur,Peravoor,6%3A%3A11,Muzhakkunnu,11112815631,19.87,15,5095,97,7,7,7,7,21,21,10,3,In progress,247,1131,21370,22748
+Kerala,Kannur,Peravoor,6%3A%3A11,Vellarvelly,11112815621,8.34,8,2377,47,3,3,3,3,12,12,2,9,In progress,87,134,11636,11857
+Kerala,Kannur,Peravoor,6%3A%3A11,Kelakam,11112815591,14.67,13,4293,339,8,8,8,8,26,26,18,14,In progress,249,1090,15910,17249
+Kerala,Kannur,Peravoor,6%3A%3A11,Vekkalam,11112815661,20.35,6,2110,417,4,4,4,4,12,12,2,1,In progress,118,2049,6812,8979
+Kerala,Kannur,Peravoor,6%3A%3A11,Koloyad,11112815671,26.0,8,2753,661,7,7,7,7,11,11,3,2,In progress,102,2140,9460,11702
+Kerala,Kasaragod,Parappa,77%3A71,Kallar,11112814121,70.0,14,4936,1104,14,14,14,14,21,21,21,6,In progress,130,3885,16828,20843
+Kerala,Kasaragod,Parappa,77%3A71,Panathady,11112814181,100.0,15,5854,1605,12,12,12,12,25,25,25,2,In progress,301,2445,21921,24667
+Kerala,Kasaragod,Parappa,77%3A71,Kinanoor,11112814851,26.9,3,1516,453,3,3,3,3,4,4,4,4,In progress,192,597,5428,6217
+Kerala,Kasaragod,Parappa,77%3A71,Palavayal,11112814771,57.45,6,2280,705,3,3,3,3,14,14,14,14,In progress,65,1295,7936,9296
+Kerala,Kasaragod,Parappa,77%3A71,Maloth,11112813%3A81,34.37,8,2909,1015,4,4,4,4,18,18,14,3,In progress,44,3443,9757,13244
+Kerala,Kasaragod,Parappa,77%3A71,Cheemeni-ii,11112814871,100.0,1,518,182,0,0,0,0,2,2,2,2,In progress,15,203,1172,1390
+Kerala,Kasaragod,Parappa,77%3A71,West Eleri,11112814821,11.33,5,2084,739,1,1,1,1,12,12,4,6,In progress,23,1465,6807,8295
+Kerala,Kasaragod,Parappa,77%3A71,Balal,11112813%3A71,50.0,9,3659,1334,13,13,12,13,13,13,12,2,In progress,73,3970,11125,15168
+Kerala,Kasaragod,Parappa,77%3A71,Parappa,11112814841,100.0,6,2349,862,5,5,5,5,9,9,9,6,In progress,37,1631,7728,9396
+Kerala,Kasaragod,Parappa,77%3A71,Bheemanady,11112814831,55.0,12,5003,1927,14,14,14,14,27,27,10,12,In progress,77,3192,17703,20972
+Kerala,Kasaragod,Parappa,77%3A71,Thayanur,11112814111,65.0,10,4475,1797,10,10,10,10,17,17,17,7,In progress,77,4374,14227,18678
+Kerala,Kasaragod,Parappa,77%3A71,Karindalam,11112814861,33.55,8,3428,1459,8,8,8,8,16,16,16,16,In progress,80,986,12229,13295
+Kerala,Kasaragod,Parappa,77%3A71,Chittarikkal,11112814781,100.0,10,4266,2240,10,10,10,10,17,17,17,17,In progress,118,1092,16151,17361
+Kerala,Kasaragod,Parappa,77%3A71,Bellur,11112813%3A91,65.0,5,2167,1185,5,5,5,5,13,13,11,1,In progress,56,1556,7843,9455
+Kerala,Kasaragod,Parappa,77%3A71,Kodom,11112813%3A%3A1,65.0,3,1404,1082,2,2,2,2,11,11,10,3,In progress,70,780,5036,5886
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Kannur,11112814391,100.0,1,384,22,0,0,0,0,1,1,1,1,In progress,93,26,1975,2094
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Koliyoor,111128143%3A1,24.95,1,325,24,1,1,1,1,2,2,1,1,In progress,38,7,1773,1818
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Kaliyoor,11112814411,21.74,1,400,37,3,3,3,3,1,1,1,0,In progress,23,3,2060,2086
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Ichilangod,11112814281,64.0,1,425,49,2,2,2,2,2,2,2,2,In progress,5,1,2191,2197
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Shiriya,11112814271,12.7,2,1022,164,3,3,3,2,5,5,2,5,In progress,260,4,5619,5883
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Mogral,11112814561,100.0,3,1344,270,6,6,6,6,6,6,2,3,In progress,283,18,8769,9070
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Kudalmarkala,11112814571,11.58,3,1215,246,2,2,2,2,5,5,1,2,In progress,286,163,6244,6693
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Koipady,11112814551,11.23,11,4743,1084,14,14,14,14,21,21,8,10,In progress,1079,281,25760,27120
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Talkala,11112814471,27.47,1,308,72,2,2,2,2,1,1,0,0,In progress,15,31,1605,1651
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Angadimogaru,11112814351,23.79,5,1544,382,3,3,3,3,7,7,2,5,In progress,441,38,8353,8832
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Meenja,11112814421,20.9,2,903,228,3,3,3,3,4,4,4,3,In progress,232,47,4307,4586
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Majibail,11112814441,22.11,1,411,116,1,1,1,1,1,1,0,0,In progress,177,7,1868,2052
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Kunjathur,11112814481,9.21,12,5003,1460,17,17,16,17,24,24,2,8,In progress,940,308,25002,26250
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Arikady,11112814531,0.0,4,1991,581,3,3,3,3,8,8,6,7,In progress,616,28,7808,8452
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Pavoor,111128142%3A1,40.27,8,3032,900,5,5,5,5,10,10,4,6,In progress,394,111,14916,15421
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Vorkady,11112814311,60.22,3,959,285,3,3,3,3,8,8,2,6,In progress,229,31,4595,4855
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Mangalpady,11112814241,8.74,4,1595,480,4,4,4,4,5,5,2,5,In progress,425,52,8016,8493
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Padre,11112814641,10.71,2,773,239,4,4,4,2,3,3,3,3,In progress,758,31,3225,4014
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Badaje,11112814491,100.0,9,3581,1110,11,11,11,11,13,13,3,4,In progress,885,53,20285,21223
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Bayar,11112814611,100.0,6,2114,669,8,8,8,7,11,11,2,2,In progress,1050,380,10460,11890
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Uppala,11112814221,10.73,9,4266,1358,10,10,10,10,18,18,17,18,In progress,534,83,22980,23597
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Puthige,11112814371,24.07,2,832,292,1,1,1,1,4,4,0,3,In progress,443,6,3916,4365
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Kayyar,11112814581,10.48,1,443,157,1,1,1,1,1,1,1,1,In progress,124,26,2316,2466
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Pathur,11112814321,12.2,2,606,251,3,3,3,3,2,2,1,1,In progress,75,71,3293,3439
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Paivalike,11112814591,12.52,8,2701,1125,13,13,13,12,16,16,7,10,In progress,1023,201,15300,16524
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Kadambar,11112814431,35.81,5,1263,593,2,2,2,2,9,9,4,5,In progress,319,50,6814,7183
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Kuloor,11112814461,24.08,2,761,371,2,2,2,2,4,4,3,1,In progress,380,13,3374,3767
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Kodibail,11112814231,21.11,2,747,370,4,4,4,4,5,5,5,5,In progress,511,7,3535,4053
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Edanad,11112814381,27.35,1,610,303,1,1,1,1,1,1,1,1,In progress,20,17,1884,1921
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Kattukukke,11112814631,27.18,2,683,352,3,3,3,2,5,5,5,4,In progress,292,17,3052,3361
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Badoor,11112814341,34.29,3,789,447,4,4,4,4,7,7,0,4,In progress,24,223,4349,4596
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Enmakaje,11112814621,19.87,10,2973,1706,9,9,9,7,19,19,19,17,In progress,1055,199,14604,15858
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Mulinja,11112814211,12.02,2,1032,607,2,2,2,2,2,2,2,2,In progress,371,6,5196,5573
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Moodambail,11112814451,24.31,2,731,438,2,2,2,2,2,2,0,0,In progress,386,24,3321,3731
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Kidoor,111128144%3A1,0.0,1,333,203,0,0,0,0,1,1,1,1,In progress,48,2,1827,1877
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Chippar,111128145%3A1,14.9,1,284,175,1,1,1,1,2,2,1,1,In progress,37,5,1692,1734
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Kubanoor,11112814261,11.22,1,430,266,0,0,0,0,5,5,5,5,In progress,387,14,1792,2193
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Maire,11112814651,100.0,3,1010,633,7,7,7,7,6,6,6,6,In progress,145,9,5174,5328
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Ujarulvar,11112814511,36.34,1,438,293,1,1,1,1,1,1,1,1,In progress,66,4,2422,2492
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Heroor,11112814291,55.0,1,313,235,0,0,0,0,2,2,2,2,In progress,295,1,1320,1616
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Mugu,11112814361,30.57,2,593,476,2,2,2,2,3,3,1,2,In progress,93,28,3316,3437
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Ichilampady,11112814541,0.01,1,383,324,1,1,1,1,2,2,1,2,In progress,276,9,2207,2492
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Bombrana,11112814521,6.41,1,287,260,4,4,4,4,2,2,0,1,In progress,66,2,1734,1802
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Kodalamogaru,11112814331,100.0,3,887,810,2,2,2,2,5,5,2,3,In progress,84,51,5354,5489
+Kerala,Kasaragod,Manjeswaram,6%3A%3A61,Bekoor,11112814251,0.24,1,367,367,1,1,1,1,3,3,3,3,100% Har Ghar Jal,28,3,1825,1856
+Kerala,Kasaragod,Kanhangad,6%3A%3A41,Periya,11112814191,26.78,10,4287,883,10,10,10,10,13,13,13,0,In progress,362,2201,16922,19485
+Kerala,Kasaragod,Kanhangad,6%3A%3A41,Chithari,11112813%3A51,15.04,9,4504,1032,11,11,11,11,14,14,14,14,In progress,329,346,21975,22650
+Kerala,Kasaragod,Kanhangad,6%3A%3A41,Keekan,11112814171,55.0,9,3686,868,4,4,4,4,8,8,8,5,In progress,406,633,16640,17679
+Kerala,Kasaragod,Kanhangad,6%3A%3A41,Ajanur,11112813%3A61,55.0,14,6004,1614,13,13,13,13,24,24,24,24,In progress,659,241,28699,29599
+Kerala,Kasaragod,Kanhangad,6%3A%3A41,Panayal,11112814151,25.79,7,3391,1051,10,10,10,10,19,19,19,14,In progress,517,316,15080,15913
+Kerala,Kasaragod,Kanhangad,6%3A%3A41,Pullur,111128141%3A1,100.0,7,2856,934,6,6,6,6,18,18,18,0,In progress,120,1008,11145,12273
+Kerala,Kasaragod,Kanhangad,6%3A%3A41,Pallikkara Ii,11112813%3A41,55.0,15,5495,2196,15,15,15,15,14,14,14,6,In progress,711,71,27537,28319
+Kerala,Kasaragod,Kanhangad,6%3A%3A41,Madikkai,11112814141,55.0,6,2434,1330,7,7,7,7,16,16,16,16,In progress,118,725,8847,9690
+Kerala,Kasaragod,Kanhangad,6%3A%3A41,Bare,11112813%3A31,45.8,6,2503,1479,6,6,6,6,19,19,19,15,In progress,650,21,11310,11981
+Kerala,Kasaragod,Kanhangad,6%3A%3A41,Ambalathara,11112814131,90.0,9,3393,2269,4,4,4,4,12,12,12,12,In progress,231,646,13106,13983
+Kerala,Kasaragod,Kanhangad,6%3A%3A41,Pallikkara,11112814161,52.0,6,2289,1538,8,8,8,8,12,12,12,9,In progress,114,92,12563,12769
+Kerala,Kasaragod,Neeleswaram,6%3A%3A71,Maniyat,11112814811,55.0,1,412,46,1,1,1,1,2,2,1,1,In progress,22,0,1625,1647
+Kerala,Kasaragod,Neeleswaram,6%3A%3A71,Pilicode,111128147%3A1,8.78,8,3287,391,6,6,6,6,11,11,10,8,In progress,584,151,13586,14321
+Kerala,Kasaragod,Neeleswaram,6%3A%3A71,Kodakkad,11112814791,7.42,7,2895,437,7,7,7,7,14,14,12,12,In progress,895,141,10167,11203
+Kerala,Kasaragod,Neeleswaram,6%3A%3A71,South Thrikkaripur,11117186441,55.0,2,421,67,2,2,2,2,2,2,1,1,In progress,46,3,1771,1820
+Kerala,Kasaragod,Neeleswaram,6%3A%3A71,Udinoor,11112814911,17.12,11,2911,617,8,8,8,8,14,14,13,12,In progress,405,34,13324,13763
+Kerala,Kasaragod,Neeleswaram,6%3A%3A71,Cheemeni,11112814731,7.49,4,1510,366,6,6,6,6,7,7,6,5,In progress,119,48,5241,5408
+Kerala,Kasaragod,Neeleswaram,6%3A%3A71,North Thrikkaripur,11112814881,22.97,10,4171,1125,9,9,9,9,18,18,15,13,In progress,1130,20,19969,21119
+Kerala,Kasaragod,Neeleswaram,6%3A%3A71,South Thrikkaripur,11112814891,55.0,11,4048,1359,14,14,14,14,21,21,13,15,In progress,1384,41,18751,20176
+Kerala,Kasaragod,Neeleswaram,6%3A%3A71,Kayyur,11112814741,11.52,3,982,368,3,3,3,3,5,5,5,5,In progress,83,8,3643,3734
+Kerala,Kasaragod,Neeleswaram,6%3A%3A71,Cheruvathur,11117496851,100.0,17,5890,2218,12,12,12,12,29,29,20,9,In progress,1397,91,27966,29454
+Kerala,Kasaragod,Neeleswaram,6%3A%3A71,Padne,111128148%3A1,18.84,15,4103,1696,11,11,11,11,22,22,21,18,In progress,2077,35,19520,21632
+Kerala,Kasaragod,Neeleswaram,6%3A%3A71,Kilayikode,11112814751,2.1,6,2961,2386,3,3,3,3,11,11,11,9,In progress,380,229,9371,9980
+Kerala,Kasaragod,Neeleswaram,6%3A%3A71,Thimiri,11112814761,100.0,3,1272,1044,5,5,5,5,6,6,6,5,In progress,367,86,5036,5489
+Kerala,Kasaragod,Karadka,77%3A81,Ubrangala,11112814691,0.15,5,1112,4,4,4,4,3,9,9,9,4,In progress,617,18,5277,5912
+Kerala,Kasaragod,Karadka,77%3A81,Bandadka,11112813981,55.0,4,1622,61,5,5,5,5,7,7,7,5,In progress,45,1212,5743,7000
+Kerala,Kasaragod,Karadka,77%3A81,Kumbadaje,111128146%3A1,100.0,8,1869,110,7,7,7,6,12,12,12,7,In progress,980,23,8938,9941
+Kerala,Kasaragod,Karadka,77%3A81,Karivedakam,11112813971,6.96,5,1888,142,5,5,5,5,12,12,12,9,In progress,105,1105,6992,8202
+Kerala,Kasaragod,Karadka,77%3A81,Muliyar,11116993641,55.0,15,5320,548,16,16,16,16,34,34,34,21,In progress,2654,190,24677,27521
+Kerala,Kasaragod,Karadka,77%3A81,Karadka,11112813821,4.65,9,2834,318,9,9,9,9,15,15,15,9,In progress,1323,95,12274,13692
+Kerala,Kasaragod,Karadka,77%3A81,Delampady,11112813841,9.56,3,899,160,5,5,5,5,5,5,5,4,In progress,558,169,4130,4857
+Kerala,Kasaragod,Karadka,77%3A81,Adoor,11112813831,14.29,13,3768,849,10,10,10,10,22,22,22,14,In progress,1392,911,16305,18608
+Kerala,Kasaragod,Karadka,77%3A81,KOLATHUR,11112813931,9.79,4,1541,451,2,2,2,2,10,10,10,8,In progress,75,587,6123,6785
+Kerala,Kasaragod,Karadka,77%3A81,Adhur,11112813811,11.7,6,1711,641,9,9,9,9,15,15,15,8,In progress,770,81,8225,9076
+Kerala,Kasaragod,Karadka,77%3A81,Bellur,11112814721,100.0,4,756,317,3,3,3,2,6,6,6,3,In progress,894,4,2897,3795
+Kerala,Kasaragod,Karadka,77%3A81,Kuttikole,11112813961,19.5,7,2530,1074,5,5,5,5,14,14,14,10,In progress,27,2512,9008,11547
+Kerala,Kasaragod,Karadka,77%3A81,BEDADKA,11112813941,16.24,10,4030,1905,10,10,10,8,22,22,22,16,In progress,305,1928,16094,18327
+Kerala,Kasaragod,Karadka,77%3A81,MUNNAD,11112813951,55.0,3,1055,554,3,3,3,3,6,6,6,3,In progress,1,921,3619,4541
+Kerala,Kasaragod,Karadka,77%3A81,Nettanige,11112814711,64.24,9,1448,817,6,6,6,4,10,10,10,1,In progress,996,58,5864,6918
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,Patla,111128139%3A1,0.21,2,862,2,2,2,2,2,3,3,3,3,In progress,160,6,4212,4378
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,Nekraje,11112813861,0.34,5,2595,13,6,6,6,6,13,13,5,8,In progress,819,16,13113,13948
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,Chemnad,11112813921,100.0,5,2257,18,6,6,6,6,7,7,7,7,In progress,207,27,11208,11442
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,Kalnad,11112813911,0.83,9,3467,46,15,15,15,15,17,17,15,15,In progress,280,216,19725,20221
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,Pady,11112813851,1.44,3,1552,28,3,3,3,3,8,8,1,5,In progress,548,9,7338,7895
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,Thekkil,111128138%3A1,1.67,6,2876,62,5,5,5,5,15,15,11,11,In progress,508,11,13548,14067
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,Shiribagilu,11112813991,2.88,3,1117,46,4,4,4,4,7,7,6,6,In progress,170,7,6422,6599
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,Puthur,11112813%3A21,55.0,15,5265,229,11,11,10,9,23,23,18,21,In progress,1338,53,25278,26669
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,Madhur,11112813%3A11,4.78,7,2795,170,4,4,4,4,9,9,6,8,In progress,1071,121,12974,14166
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,BADIYADKA,11112814661,4.13,10,3631,258,8,8,8,8,20,20,20,20,In progress,1921,208,16483,18612
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,Perumbala,11112813891,5.85,5,2181,187,7,7,7,7,10,10,10,10,In progress,300,17,10305,10622
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,BELA,11112814681,100.0,4,1446,138,10,10,10,10,10,10,10,10,In progress,586,156,6492,7234
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,Muttathody,11112813871,9.31,8,4024,431,9,9,9,9,18,18,9,13,In progress,613,63,20491,21167
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,Kudlu,11117792941,100.0,10,3902,517,6,6,6,6,8,8,7,6,In progress,624,51,17708,18383
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,NIRCHAL,11112814671,7.77,5,2106,507,9,9,9,9,11,11,11,11,In progress,1703,36,9127,10866
+Kerala,Kasaragod,Kasaragod,6%3A%3A51,Chengala,11112813881,100.0,7,3184,1015,5,5,5,5,15,15,11,9,In progress,485,26,16488,16999
+Kerala,Kollam,Chavara,71111,Panmana,11112827121,100.0,11,5806,3893,4,4,4,4,26,26,26,26,In progress,2179,60,21373,23612
+Kerala,Kollam,Chavara,71111,Chavara,11112826%3A%3A1,100.0,23,13892,10743,23,23,23,23,40,40,40,40,In progress,3968,91,42210,46269
+Kerala,Kollam,Chavara,71111,Vadakkumthala,11112827111,93.01,12,12088,10669,10,10,10,10,25,25,25,25,In progress,3277,87,24990,28354
+Kerala,Kollam,Chavara,71111,Thekkumbhagom,11112826%3A81,55.0,13,4673,4266,8,8,8,8,16,16,16,16,In progress,1552,29,17546,19127
+Kerala,Kollam,Chavara,71111,Thevalakkara,11112826%3A91,55.0,23,11211,11211,16,16,16,16,42,42,42,42,100% Har Ghar Jal,4658,97,42048,46803
+Kerala,Kollam,Chavara,71111,Neendakara,11117493481,100.0,13,4558,4558,6,6,6,6,17,17,17,17,100% Har Ghar Jal,1248,32,17553,18833
+Kerala,Kollam,Sasthamkotta,71191,Poruvazhy,11112826581,55.0,18,9788,4868,14,14,14,14,28,28,25,27,In progress,5656,28,25228,30912
+Kerala,Kollam,Sasthamkotta,71191,Sooranad North,11112826571,55.0,18,7378,4210,11,11,11,11,28,28,28,24,In progress,5116,168,24487,29771
+Kerala,Kollam,Sasthamkotta,71191,Kunnathur,11112826541,55.0,17,7075,4774,15,15,15,15,26,26,22,22,In progress,5358,75,21722,27155
+Kerala,Kollam,Sasthamkotta,71191,Sooranad South,11112826551,55.0,16,6584,5845,14,14,14,14,24,24,21,18,In progress,4205,50,22291,26546
+Kerala,Kollam,Sasthamkotta,71191,Mynagappally,11112826821,55.0,22,11160,11125,24,24,24,24,41,41,31,34,In progress,7189,44,36353,43586
+Kerala,Kollam,Sasthamkotta,71191,Sasthamkotta,11112826561,55.0,19,8881,8881,18,18,18,18,27,27,23,23,100% Har Ghar Jal,5185,79,29798,35062
+Kerala,Kollam,Sasthamkotta,71191,West Kallada,11112826591,55.0,14,5140,5140,8,8,8,8,24,24,19,13,100% Har Ghar Jal,4686,50,16504,21240
+Kerala,Kollam,Chadayamangalam,6%3A%3A%3A1,NILAMEL,11112827231,55.0,13,4486,2420,8,8,8,8,19,19,19,15,In progress,2243,52,16026,18321
+Kerala,Kollam,Chadayamangalam,6%3A%3A%3A1,KOTTUKKAL,11112827271,100.0,7,3977,2417,7,7,7,7,11,11,11,10,In progress,1851,35,13402,15288
+Kerala,Kollam,Chadayamangalam,6%3A%3A%3A1,KADAKKAL,11112827241,55.0,19,9579,6102,15,15,15,15,34,34,34,27,In progress,4161,157,31889,36207
+Kerala,Kollam,Chadayamangalam,6%3A%3A%3A1,KUMMIL,11117465671,60.0,14,6185,4203,6,6,6,6,22,22,22,22,In progress,2822,86,21530,24438
+Kerala,Kollam,Chadayamangalam,6%3A%3A%3A1,ITTIVA,11112827261,59.75,14,5998,4577,5,5,5,5,29,29,29,28,In progress,2099,72,21986,24157
+Kerala,Kollam,Chadayamangalam,6%3A%3A%3A1,CHADAYAMANGALAM,11112827221,55.0,15,6169,4951,9,9,9,9,24,24,24,18,In progress,3122,106,23252,26480
+Kerala,Kollam,Chadayamangalam,6%3A%3A%3A1,Elamad,11112827211,55.0,17,7694,7032,14,14,14,14,27,27,25,27,In progress,2979,44,27614,30637
+Kerala,Kollam,Chadayamangalam,6%3A%3A%3A1,Velinalloor,111128272%3A1,100.0,17,6362,6005,14,14,14,14,33,33,0,33,In progress,3069,82,28714,31865
+Kerala,Kollam,Chadayamangalam,6%3A%3A%3A1,Mancode,11112827281,31.98,12,3389,3389,11,11,11,11,27,27,27,27,100% Har Ghar Jal,2814,56,24176,27046
+Kerala,Kollam,Chadayamangalam,6%3A%3A%3A1,Chithara,11112827291,55.0,11,4824,4824,7,7,7,7,19,19,19,19,100% Har Ghar Jal,4049,596,19372,24017
+Kerala,Kollam,Vettikkavala,711%3A1,Pavithreswaram,11112826681,60.0,12,5497,3094,11,11,11,11,22,22,22,22,In progress,5021,43,15711,20775
+Kerala,Kollam,Vettikkavala,711%3A1,Puthur,11112826661,55.0,16,7055,4292,11,11,11,11,30,30,30,30,In progress,4377,51,22380,26808
+Kerala,Kollam,Vettikkavala,711%3A1,Valakom,11117185621,55.0,8,3845,2731,10,10,10,10,14,14,13,14,In progress,2728,42,11905,14675
+Kerala,Kollam,Vettikkavala,711%3A1,Ummannoor,111128266%3A1,55.78,12,5930,4401,8,8,8,8,24,24,24,24,In progress,3322,115,21563,25000
+Kerala,Kollam,Vettikkavala,711%3A1,Kalayapuram,11112826641,55.0,15,7353,5637,18,18,18,18,27,27,27,27,In progress,5228,48,23131,28407
+Kerala,Kollam,Vettikkavala,711%3A1,Mylom,11112826631,55.0,7,3262,2590,6,6,6,6,10,10,10,10,In progress,3517,86,9613,13216
+Kerala,Kollam,Vettikkavala,711%3A1,Vettikkavala,11112826611,55.0,13,6121,5052,12,12,12,12,19,19,19,19,In progress,4366,27,20095,24488
+Kerala,Kollam,Vettikkavala,711%3A1,Kulakkada,11112826651,55.0,8,3500,2944,19,19,19,19,12,12,12,12,In progress,2507,33,10946,13486
+Kerala,Kollam,Vettikkavala,711%3A1,Melila,111128265%3A1,55.0,15,6216,5277,8,8,8,8,25,25,25,25,In progress,3359,28,20212,23599
+Kerala,Kollam,Vettikkavala,711%3A1,Chakkuvarakkal,11112826621,55.0,8,3434,3060,8,8,8,8,17,17,17,17,In progress,1597,14,11410,13021
+Kerala,Kollam,Pathanapuram,71181,Vilakkudy,11112826881,55.0,20,8823,3376,19,19,19,19,34,34,24,34,In progress,3346,64,30872,34282
+Kerala,Kollam,Pathanapuram,71181,Pathanapuram,11112826871,60.0,19,9062,5553,18,18,18,18,33,33,24,33,In progress,4201,80,29825,34106
+Kerala,Kollam,Pathanapuram,71181,Punnala,11117185491,55.0,6,2576,1780,5,5,5,5,14,14,11,14,In progress,2265,70,7330,9665
+Kerala,Kollam,Pathanapuram,71181,Piravanthur,11112826841,55.81,15,7080,6015,16,16,16,16,27,27,25,27,In progress,4097,508,20964,25569
+Kerala,Kollam,Pathanapuram,71181,Pattazhy Vadakkekara,11112826891,55.0,13,4257,3805,8,8,8,8,18,18,11,18,In progress,2793,50,12952,15795
+Kerala,Kollam,Pathanapuram,71181,Pidavoor,11112826861,55.0,5,2279,2180,3,3,3,3,9,9,7,9,In progress,1052,18,7310,8380
+Kerala,Kollam,Pathanapuram,71181,Pattazhy,11112826831,100.0,13,5035,4840,14,14,14,14,21,21,19,21,In progress,2825,62,15551,18438
+Kerala,Kollam,Pathanapuram,71181,Thalavoor,11112826851,66.3,15,7241,7040,17,17,17,17,29,29,19,29,In progress,4255,55,22886,27196
+Kerala,Kollam,Mughathala,71161,Nedumpana,11112827321,55.0,13,10145,6453,15,15,15,15,26,26,26,26,In progress,2725,37,26558,29320
+Kerala,Kollam,Mughathala,71161,Thrikkovilvattom,11112827191,100.0,17,15679,10825,25,25,24,25,37,37,37,37,In progress,4726,87,40477,45290
+Kerala,Kollam,Mughathala,71161,Pallimon,11112827311,55.18,9,6600,4700,7,7,7,7,22,22,22,22,In progress,2756,68,17563,20387
+Kerala,Kollam,Mughathala,71161,Thazhuthala,11112827181,100.0,9,7941,5757,9,9,9,9,20,20,20,20,In progress,1890,39,22946,24875
+Kerala,Kollam,Mughathala,71161,Kottamkara,11112827161,100.0,21,14173,10645,15,15,15,15,36,36,36,36,In progress,5176,71,34928,40175
+Kerala,Kollam,Mughathala,71161,Elampalloor,11112827151,55.0,22,10916,8421,19,19,19,19,43,43,43,43,In progress,7078,81,35389,42548
+Kerala,Kollam,Mughathala,71161,Mayyanad,11112827171,55.18,20,13742,11958,15,15,15,15,40,40,40,40,In progress,5302,81,39826,45209
+Kerala,Kollam,Ochira,71171,Adinad,11112826481,55.0,12,8090,2987,6,6,0,6,22,22,0,22,In progress,1533,52,25815,27400
+Kerala,Kollam,Ochira,71171,Kulasekharapuram,11112826491,22.68,11,7389,3035,4,4,0,4,18,18,0,18,In progress,1572,48,23606,25226
+Kerala,Kollam,Ochira,71171,Thazhava,11112826511,55.0,13,8366,4189,14,14,14,14,15,15,13,15,In progress,2031,46,23822,25899
+Kerala,Kollam,Ochira,71171,Pavumba,111128264%3A1,37.16,9,5547,3299,5,5,5,5,26,26,10,26,In progress,1680,38,15146,16864
+Kerala,Kollam,Ochira,71171,Kallelibhagom,11112826811,55.0,9,5147,3414,5,5,5,5,16,16,12,16,In progress,2189,48,18563,20800
+Kerala,Kollam,Ochira,71171,Thodiyoor,111128267%3A1,40.43,14,6865,5376,11,11,11,11,29,29,29,29,In progress,3218,39,25093,28350
+Kerala,Kollam,Ochira,71171,Clappana,11112826521,55.0,15,5062,5062,7,7,1,7,24,24,0,24,100% Har Ghar Jal,1607,26,23073,24706
+Kerala,Kollam,Ochira,71171,Oachira,11112826531,20.85,17,5929,5929,13,13,2,13,27,27,0,27,100% Har Ghar Jal,1814,122,28339,30275
+Kerala,Kollam,Ochira,71171,Alappad,11112826771,55.0,16,4088,4088,9,9,1,9,27,27,0,27,100% Har Ghar Jal,240,6,23200,23446
+Kerala,Kollam,Ithikara,71131,Chirakkara,11112827391,100.0,17,9232,4990,8,8,8,8,25,25,25,25,In progress,4230,146,20488,24864
+Kerala,Kollam,Ithikara,71131,Kalluvathukkal,11112827341,100.0,10,5861,3494,9,9,9,9,22,22,22,22,In progress,3750,94,17874,21718
+Kerala,Kollam,Ithikara,71131,Parippally,11112827331,42.7,13,7926,4866,8,8,8,8,24,24,24,24,In progress,5639,160,26047,31846
+Kerala,Kollam,Ithikara,71131,Poothakkulam,11112827351,100.0,18,10848,6661,16,16,16,16,28,28,28,28,In progress,4227,69,25734,30030
+Kerala,Kollam,Ithikara,71131,Thazhuthala,11112827371,100.0,9,5572,3428,9,9,9,9,13,13,13,13,In progress,1479,26,11970,13475
+Kerala,Kollam,Ithikara,71131,Meenad,11112827381,100.0,17,10113,7007,19,19,18,19,25,25,25,25,In progress,3193,73,24119,27385
+Kerala,Kollam,Ithikara,71131,Adichanalloor,11112827361,56.29,11,6713,5175,11,11,11,11,19,19,19,19,In progress,2376,74,18449,20899
+Kerala,Kollam,Chittumala,71121,Panayam,11112826%3A41,55.0,16,11316,3478,9,9,7,7,26,26,7,7,In progress,3910,45,23509,27464
+Kerala,Kollam,Chittumala,71121,Perinad,11112826%3A31,55.0,20,11455,5508,12,12,12,12,32,32,25,25,In progress,5228,54,29332,34614
+Kerala,Kollam,Chittumala,71121,Kizhakkekallada,11112826%3A21,55.0,15,5725,3161,12,12,12,12,23,23,23,23,In progress,4527,46,17727,22300
+Kerala,Kollam,Chittumala,71121,Thrikkaruva,11112827141,100.0,16,8782,6503,11,11,11,11,27,27,6,12,In progress,3820,61,22342,26223
+Kerala,Kollam,Chittumala,71121,Mulavana,11112826%3A61,55.0,28,9625,8030,23,23,23,23,44,44,44,44,In progress,4697,73,32604,37374
+Kerala,Kollam,Chittumala,71121,Mundrothuruth,11112826%3A51,55.0,13,3079,3079,6,6,6,6,13,13,3,0,100% Har Ghar Jal,1360,7,8203,9570
+Kerala,Kollam,Kottarakkara,71151,Puthur,11117185441,100.0,6,2744,619,2,2,2,2,7,7,7,7,In progress,1682,19,8875,10576
+Kerala,Kollam,Kottarakkara,71151,Neduvathoor,11112826741,2.51,12,5325,1527,17,17,17,17,21,21,21,21,In progress,2925,48,17258,20231
+Kerala,Kollam,Kottarakkara,71151,Odanavattom,11117185451,55.0,7,3337,1606,12,12,12,12,11,11,11,11,In progress,1864,39,11427,13330
+Kerala,Kollam,Kottarakkara,71151,Kareepara,11112826731,60.0,18,8064,3939,18,18,18,18,32,32,32,32,In progress,3620,50,27290,30960
+Kerala,Kollam,Kottarakkara,71151,Ezhukone,11112826721,55.0,16,6571,3952,15,15,15,15,25,25,25,25,In progress,4139,142,20939,25220
+Kerala,Kollam,Kottarakkara,71151,Veliyam,11112826761,55.91,12,5820,3759,11,11,11,11,28,28,28,28,In progress,3254,35,20238,23527
+Kerala,Kollam,Kottarakkara,71151,Pooyappally,11112826751,55.0,16,7265,6119,17,17,17,17,28,28,28,28,In progress,3854,81,24750,28685
+Kerala,Kollam,Anchal,6%3A%3A81,Arienkavu,11112826%3A11,100.0,11,2971,206,9,9,9,9,19,19,0,19,In progress,2672,447,7048,10167
+Kerala,Kollam,Anchal,6%3A%3A81,Thenmala,11112826951,100.0,18,7751,1013,15,15,15,15,27,27,27,27,In progress,4199,730,23525,28454
+Kerala,Kollam,Anchal,6%3A%3A81,Ayiranalloor,11112826991,64.61,7,3332,846,9,9,9,9,13,13,13,13,In progress,2325,34,10551,12910
+Kerala,Kollam,Anchal,6%3A%3A81,Karavaloor,11112826921,55.0,16,7118,3349,11,11,11,11,24,24,22,24,In progress,3357,65,23730,27152
+Kerala,Kollam,Anchal,6%3A%3A81,Edamulackal,11112826911,55.0,22,11364,6232,21,21,21,21,41,41,7,41,In progress,11326,0,34901,46227
+Kerala,Kollam,Anchal,6%3A%3A81,Thinkalkarikkakom,11112826941,55.0,8,3685,2176,6,6,6,6,26,26,26,26,In progress,3216,699,11526,15441
+Kerala,Kollam,Anchal,6%3A%3A81,CHANNAPPETTA,11112826971,55.0,4,1441,949,3,3,2,3,5,5,5,5,In progress,1126,33,4447,5606
+Kerala,Kollam,Anchal,6%3A%3A81,Kulathupuzha,11112826931,87.78,12,6120,4390,17,17,17,17,10,10,10,10,In progress,4889,1643,15098,21630
+Kerala,Kollam,Anchal,6%3A%3A81,ALAYAMON,11112826961,86.99,10,4231,3130,12,12,12,12,20,20,20,20,In progress,2308,53,15712,18073
+Kerala,Kollam,Anchal,6%3A%3A81,Anchal,11112826981,55.0,19,10168,7945,17,17,17,17,31,31,31,29,In progress,3506,94,34630,38230
+Kerala,Kollam,Anchal,6%3A%3A81,Eroor,111128269%3A1,55.0,12,5570,4586,8,8,8,8,23,23,23,23,In progress,2418,123,22157,24698
+Kerala,Kottayam,Vaikom,712%3A1,Kulasekharamangalam,11112823821,70.0,15,6198,5360,9,9,3,9,21,21,4,3,In progress,3887,82,20988,24957
+Kerala,Kottayam,Vaikom,712%3A1,Tv Puram,11117487%3A41,100.0,14,5168,4493,6,6,6,6,19,19,19,19,In progress,1284,165,18573,20022
+Kerala,Kottayam,Vaikom,712%3A1,Chempu,11112823811,70.0,15,5552,5174,7,7,7,7,21,21,15,3,In progress,2624,61,21454,24139
+Kerala,Kottayam,Vaikom,712%3A1,Udayanapuram,11117489711,55.0,7,2786,2786,0,0,0,0,8,8,8,7,100% Har Ghar Jal,2034,18,8745,10797
+Kerala,Kottayam,Vaikom,712%3A1,Thalayazham,11112823831,70.0,15,5768,5768,6,6,6,6,18,18,18,18,100% Har Ghar Jal,2390,19,17217,19626
+Kerala,Kottayam,Vaikom,712%3A1,Vadakkemuri,11112823861,70.0,10,4393,4393,8,8,8,8,15,15,14,15,100% Har Ghar Jal,3057,65,13910,17032
+Kerala,Kottayam,Vaikom,712%3A1,Vechoor,11112823871,55.0,13,4780,4780,5,5,5,5,16,16,16,16,100% Har Ghar Jal,2415,16,14338,16769
+Kerala,Kottayam,Kaduthuruthi,71231,Kaduthuruthy,11112824321,55.0,14,6520,3486,8,8,8,8,22,22,7,10,In progress,2521,79,24091,26691
+Kerala,Kottayam,Kaduthuruthi,71231,Njeezhoor,111128242%3A1,100.0,14,4764,2919,10,10,10,10,19,19,15,11,In progress,1066,44,17916,19026
+Kerala,Kottayam,Kaduthuruthi,71231,Velloor,11112824311,55.0,16,6007,4468,7,7,7,7,24,24,3,9,In progress,3896,31,20265,24192
+Kerala,Kottayam,Kaduthuruthi,71231,Muttuchira,11112824331,55.0,6,2466,1870,9,9,8,9,13,13,6,8,In progress,2271,31,8418,10720
+Kerala,Kottayam,Kaduthuruthi,71231,Mulakulam,11112824291,100.0,17,7314,5561,12,12,12,12,26,26,8,8,In progress,2437,60,26339,28836
+Kerala,Kottayam,Kaduthuruthi,71231,Kallara,11112824251,55.0,13,3827,3207,8,8,7,8,18,18,0,0,In progress,2694,41,12757,15492
+Kerala,Kottayam,Kaduthuruthi,71231,Vadayar,11112823881,55.0,14,5758,5709,12,12,11,11,22,22,7,3,In progress,2897,119,20109,23125
+Kerala,Kottayam,Ettumanoor,71221,Athirampuzha,111128241%3A1,55.0,22,10692,3984,16,16,4,4,39,39,0,3,In progress,1185,364,46624,48173
+Kerala,Kottayam,Ettumanoor,71221,Aimanam,11112824181,100.0,20,8982,5029,20,20,3,4,36,36,1,6,In progress,1845,524,38111,40480
+Kerala,Kottayam,Ettumanoor,71221,Onamthuruth,11112824241,100.0,10,4364,2705,0,0,0,0,2,2,0,0,In progress,1029,831,17797,19657
+Kerala,Kottayam,Ettumanoor,71221,Thiruvarpu,11112824641,69.11,8,3226,2856,11,11,11,11,30,30,30,30,In progress,944,68,15151,16163
+Kerala,Kottayam,Ettumanoor,71221,Chengalam South,11117483331,55.0,10,4276,4218,0,0,0,0,0,0,0,0,In progress,453,257,18593,19303
+Kerala,Kottayam,Ettumanoor,71221,Kumarakam,11112824591,55.0,16,7026,7026,15,15,15,15,25,25,25,25,100% Har Ghar Jal,1289,149,28965,30403
+Kerala,Kottayam,Ettumanoor,71221,Arpookara,11112824191,55.0,16,6545,6545,10,10,3,3,27,27,0,1,100% Har Ghar Jal,1621,331,27474,29426
+Kerala,Kottayam,Ettumanoor,71221,Kaipuzha,11112824231,58.68,5,1968,1968,9,9,6,9,22,22,0,0,100% Har Ghar Jal,269,392,8201,8862
+Kerala,Kottayam,Lalam,71251,Kadanad,11112824381,70.0,2,527,106,11,11,11,11,8,8,8,8,In progress,103,28,2205,2336
+Kerala,Kottayam,Lalam,71251,Vellilappally,11112824361,55.0,27,8426,4590,12,12,12,12,37,37,37,37,In progress,1616,210,33367,35193
+Kerala,Kottayam,Lalam,71251,Puliyannoor,11112824421,100.0,10,3256,1853,10,10,10,10,12,12,12,12,In progress,780,39,12624,13443
+Kerala,Kottayam,Lalam,71251,Poovarany,11112824441,70.0,12,3877,2224,13,13,13,13,12,12,12,12,In progress,678,61,14884,15623
+Kerala,Kottayam,Lalam,71251,Bharananganam,11112824341,70.0,13,4015,2353,11,11,11,11,20,20,20,20,In progress,706,47,16929,17682
+Kerala,Kottayam,Lalam,71251,Ramapuram,11112824371,55.78,8,2843,1755,12,12,12,12,18,18,17,18,In progress,1018,52,11199,12269
+Kerala,Kottayam,Lalam,71251,Vallichira,111128243%3A1,100.0,9,3419,2169,7,7,7,7,8,8,6,8,In progress,1401,81,12885,14367
+Kerala,Kottayam,Pallam,71271,Vijayapuram,11117496321,100.0,19,8585,1687,11,11,11,11,35,35,35,35,In progress,2579,118,31138,33835
+Kerala,Kottayam,Pallam,71271,Ericadu,11117492941,100.0,1,385,78,0,0,0,0,0,0,0,0,In progress,45,10,1960,2015
+Kerala,Kottayam,Pallam,71271,Ayarkunnam,11112824581,52.55,17,7875,2071,17,17,16,17,33,33,0,7,In progress,2125,70,29578,31773
+Kerala,Kottayam,Pallam,71271,Puthuppally,11112824621,55.0,20,9236,2856,17,17,12,12,31,31,0,30,In progress,2091,337,33891,36319
+Kerala,Kottayam,Pallam,71271,Panachikkad,11112824611,100.0,23,11615,7852,10,10,10,10,42,42,42,42,In progress,2817,312,43111,46240
+Kerala,Kottayam,Pallam,71271,Manarcad,11112824661,100.0,17,7608,5717,4,4,4,4,26,26,26,26,In progress,1595,227,28443,30265
+Kerala,Kottayam,Uzhavoor,71291,Kuravilangad,11112824821,100.0,12,3920,0,7,7,7,7,16,16,11,10,In progress,880,131,14282,15293
+Kerala,Kottayam,Uzhavoor,71291,Vellilappally,11112824841,58.96,9,3896,55,11,11,11,11,21,21,21,21,In progress,904,58,15167,16129
+Kerala,Kottayam,Uzhavoor,71291,Monippally,11112824771,70.0,15,6043,671,18,18,18,18,19,19,16,17,In progress,831,367,20226,21424
+Kerala,Kottayam,Uzhavoor,71291,Elakkadu,11112824751,47.48,4,1327,325,2,2,2,2,5,5,5,5,In progress,927,38,4081,5046
+Kerala,Kottayam,Uzhavoor,71291,Kurichithanam,11112824761,33.32,6,2276,742,6,6,6,6,8,8,5,4,In progress,481,36,7057,7574
+Kerala,Kottayam,Uzhavoor,71291,Kothanalloor,11112824261,56.65,6,2572,1124,6,6,6,6,7,7,0,7,In progress,612,317,9536,10465
+Kerala,Kottayam,Uzhavoor,71291,Manjoor,11112824271,55.0,13,5602,2574,7,7,7,7,23,23,0,23,In progress,1815,353,20137,22305
+Kerala,Kottayam,Uzhavoor,71291,Kadaplamattom,11112824781,55.0,13,3415,1857,6,6,6,6,14,14,10,8,In progress,1543,44,12386,13973
+Kerala,Kottayam,Uzhavoor,71291,Monippally,11112824851,47.14,5,1454,1002,5,5,5,5,7,7,3,4,In progress,396,26,5094,5516
+Kerala,Kottayam,Uzhavoor,71291,Veliyannoor,11112824881,55.0,13,3122,2348,7,7,7,7,12,12,10,6,In progress,380,44,11045,11469
+Kerala,Kottayam,Uzhavoor,71291,Kanakkari,111128247%3A1,100.0,15,6160,5096,9,9,9,9,22,22,0,13,In progress,1525,128,22546,24199
+Kerala,Kottayam,Uzhavoor,71291,Uzhavoor,11112824861,100.0,8,2406,2355,3,3,3,3,12,12,8,6,In progress,663,23,8738,9424
+Kerala,Kottayam,Madappally,71261,Thottackad,11112824541,40.89,5,2524,247,7,7,7,7,9,9,9,9,In progress,549,76,9458,10083
+Kerala,Kottayam,Madappally,71261,Vakathanam,11112824551,55.0,15,7505,1000,21,21,21,21,25,25,25,25,In progress,1832,146,27798,29776
+Kerala,Kottayam,Madappally,71261,Karukachal,11112824471,55.0,16,7509,1601,14,14,13,13,26,26,26,26,In progress,3793,208,24647,28648
+Kerala,Kottayam,Madappally,71261,Thrikkodithanam,11112824531,55.0,20,11490,3188,11,11,11,11,34,34,34,34,In progress,3863,105,34197,38165
+Kerala,Kottayam,Madappally,71261,Paippad,11112824521,55.0,16,7904,2896,12,12,12,12,27,27,27,27,In progress,3127,113,22594,25834
+Kerala,Kottayam,Madappally,71261,Madappally,111128244%3A1,70.0,20,11225,4175,18,18,18,18,34,34,34,34,In progress,4197,145,32841,37183
+Kerala,Kottayam,Madappally,71261,Chethipuzha,11112824561,100.0,21,11563,5737,13,13,13,13,33,33,33,33,In progress,2418,85,35121,37624
+Kerala,Kottayam,Madappally,71261,Kurichy,11112824491,55.0,20,10768,5957,14,14,14,14,31,31,31,31,In progress,4716,267,31183,36166
+Kerala,Kottayam,Vazhoor,71311,Cheruvally,11112824891,54.12,2,1120,58,0,0,0,0,0,0,0,0,In progress,202,54,4425,4681
+Kerala,Kottayam,Vazhoor,71311,Vazhoor,11112824951,100.0,16,7581,1483,20,20,20,20,23,23,23,23,In progress,2106,113,27680,29899
+Kerala,Kottayam,Vazhoor,71311,Chirakkadavu,111128248%3A1,100.0,18,9454,2288,18,18,18,18,34,34,19,33,In progress,2181,190,38310,40681
+Kerala,Kottayam,Vazhoor,71311,Vellavoor,11112824961,55.0,13,5195,1712,9,9,9,9,19,19,19,19,In progress,2859,133,17341,20333
+Kerala,Kottayam,Vazhoor,71311,Kangazha,11112824911,100.0,15,6289,3254,15,15,15,15,21,21,21,21,In progress,1732,161,23392,25285
+Kerala,Kottayam,Vazhoor,71311,Nedumkunnam,11112824931,100.0,15,6644,3467,12,12,12,12,23,23,23,23,In progress,2623,218,23589,26430
+Kerala,Kottayam,Pampady,71281,Elamgulam,11112824691,57.19,2,1180,0,5,5,5,5,0,0,0,0,In progress,351,34,4540,4925
+Kerala,Kottayam,Pampady,71281,Elikkulam,111128246%3A1,100.0,14,6496,0,6,6,6,6,24,24,24,24,In progress,756,53,28120,28929
+Kerala,Kottayam,Pampady,71281,Chengalam East,11112824681,100.0,4,1323,99,6,6,6,6,3,3,3,3,In progress,118,13,5024,5155
+Kerala,Kottayam,Pampady,71281,Anikkad,11112824721,55.0,13,6160,477,10,10,10,10,18,18,18,18,In progress,825,199,25367,26391
+Kerala,Kottayam,Pampady,71281,Akalakunnam,11112824671,58.94,11,3958,475,11,11,11,11,20,20,20,20,In progress,843,55,14995,15893
+Kerala,Kottayam,Pampady,71281,Kidangoor,11112824811,100.0,15,5639,2080,11,11,11,11,22,22,7,13,In progress,1440,1438,21616,24494
+Kerala,Kottayam,Pampady,71281,Kooroppada,11112824711,100.0,17,7807,3037,10,10,9,9,28,28,1,28,In progress,1640,150,30103,31893
+Kerala,Kottayam,Pampady,71281,Meenadam,11112824741,70.0,13,3519,1699,6,6,6,6,15,15,0,15,In progress,432,70,16148,16650
+Kerala,Kottayam,Pampady,71281,Pampady,11112824731,100.0,20,8918,6929,13,13,11,11,38,38,1,38,In progress,1946,549,32354,34849
+Kerala,Kottayam,Erattupetta,71211,Moonnilavu,11112824171,100.0,11,2498,0,10,10,9,9,12,12,10,12,In progress,337,2574,7050,9961
+Kerala,Kottayam,Erattupetta,71211,Melukavu,11112823%3A41,36.92,15,5140,55,10,10,10,10,15,15,11,15,In progress,748,3453,19024,23225
+Kerala,Kottayam,Erattupetta,71211,Thalanad,11117636341,100.0,13,3189,68,6,6,6,6,11,11,4,11,In progress,750,1026,8094,9870
+Kerala,Kottayam,Erattupetta,71211,Poonjar,11117625811,59.05,7,2413,87,5,5,5,5,6,6,4,6,In progress,345,94,11245,11684
+Kerala,Kottayam,Erattupetta,71211,Theekoy,11112824121,100.0,12,4095,838,6,6,6,6,14,14,7,14,In progress,1081,1221,14474,16776
+Kerala,Kottayam,Erattupetta,71211,Poonjar Nadubhagam,11112823%3A71,75.32,11,3479,899,7,7,7,7,12,12,9,12,In progress,675,451,14954,16080
+Kerala,Kottayam,Erattupetta,71211,Thalappalam,11112824141,100.0,13,4148,1149,7,7,7,7,13,13,5,13,In progress,722,204,11144,12070
+Kerala,Kottayam,Erattupetta,71211,Poonjar Thekkekara,11112823%3A%3A1,93.58,10,3308,995,5,5,5,5,16,16,13,16,In progress,1113,283,9967,11363
+Kerala,Kottayam,Erattupetta,71211,Kondoor,11112824151,53.63,14,6093,2566,7,7,7,7,19,19,13,19,In progress,1222,254,18256,19732
+Kerala,Kottayam,Kanjirappally,71241,Koruthodu,11117634551,100.0,13,3256,0,8,8,5,8,23,23,0,1,In progress,463,67,15834,16364
+Kerala,Kottayam,Kanjirappally,71241,Erumeli North,11112823971,53.32,15,11446,304,8,8,4,8,28,28,1,16,In progress,5879,3416,35225,44520
+Kerala,Kottayam,Kanjirappally,71241,Mundakayam,11112823981,55.0,7,5711,485,10,10,7,10,13,13,0,10,In progress,2613,288,20970,23871
+Kerala,Kottayam,Kanjirappally,71241,Koovappally,11112823911,100.0,3,1515,224,3,3,2,3,1,1,0,1,In progress,638,39,5582,6259
+Kerala,Kottayam,Kanjirappally,71241,Kanjirappally,111128238%3A1,57.56,23,10372,1767,19,19,19,19,45,45,44,45,In progress,2274,324,44652,47250
+Kerala,Kottayam,Kanjirappally,71241,Erumely (s),11112823891,53.28,22,13268,2455,24,24,21,24,46,46,0,5,In progress,6987,2066,41401,50454
+Kerala,Kottayam,Kanjirappally,71241,Manimala,11112823951,55.0,15,6029,1212,12,12,12,12,26,26,26,26,In progress,4857,305,20858,26020
+Kerala,Kottayam,Kanjirappally,71241,Koottickal,11112823921,18.27,13,5325,1169,8,8,4,8,24,24,0,0,In progress,1683,329,21339,23351
+Kerala,Kottayam,Kanjirappally,71241,Edakkunnam,11112823991,100.0,16,8145,2397,8,8,2,8,28,28,0,9,In progress,1802,628,33880,36310
+Kerala,Kozhikode,Kozhikode,71351,Pantheeramkavu,11117792%3A41,100.0,10,6342,5953,10,10,0,10,23,23,23,23,In progress,371,8,30990,31369
+Kerala,Kozhikode,Kozhikode,71351,Olavanna,11117633861,70.0,13,9580,9580,8,8,1,8,33,33,29,33,100% Har Ghar Jal,421,10,44149,44580
+Kerala,Kozhikode,Kozhikode,71351,Kadalundi,11117634111,100.0,22,10190,10190,15,15,0,14,41,41,0,29,100% Har Ghar Jal,914,44,45638,46596
+Kerala,Kozhikode,Chelannoor,71331,Chelannur,11112816851,100.0,21,9379,2027,17,17,1,17,34,34,26,32,In progress,3828,151,39677,43656
+Kerala,Kozhikode,Chelannoor,71331,Thalakkulathur,11112816871,100.0,17,6715,3487,12,12,1,12,28,28,23,26,In progress,2473,48,28771,31292
+Kerala,Kozhikode,Chelannoor,71331,Nanmanda,11112816881,100.0,17,7033,4109,18,18,18,18,28,28,12,28,In progress,3323,1286,24476,29085
+Kerala,Kozhikode,Chelannoor,71331,Narikkuni,11112816861,100.0,15,8160,5693,13,13,0,13,26,26,0,1,In progress,3739,267,31044,35050
+Kerala,Kozhikode,Chelannoor,71331,Kakkur,11112816891,100.0,15,5020,4611,12,12,0,12,23,23,21,23,In progress,2929,219,21248,24396
+Kerala,Kozhikode,Chelannoor,71331,Kakkodi,111174672%3A1,100.0,21,9581,9581,14,14,2,14,33,33,26,31,100% Har Ghar Jal,3769,87,42388,46244
+Kerala,Kozhikode,Kunnamangalam,71361,Kodiyathur,11112816%3A31,55.0,16,6663,1392,13,13,0,12,26,26,0,5,In progress,2418,257,28633,31308
+Kerala,Kozhikode,Kunnamangalam,71361,Kumaranallur,11117184381,100.0,8,3241,907,4,4,0,4,12,12,0,4,In progress,1260,310,13890,15460
+Kerala,Kozhikode,Kunnamangalam,71361,Poolacode,11112816%3A51,100.0,12,5272,1712,9,9,0,9,23,23,0,3,In progress,3401,6,21398,24805
+Kerala,Kozhikode,Kunnamangalam,71361,Kakkad,11112817111,27.42,10,4166,1463,5,5,0,5,15,15,0,4,In progress,1357,43,17130,18530
+Kerala,Kozhikode,Kunnamangalam,71361,Chathamangalam,11112816%3A41,28.56,11,5432,1979,10,10,0,10,19,19,0,6,In progress,2305,69,22296,24670
+Kerala,Kozhikode,Kunnamangalam,71361,Mavoor,11117632%3A21,100.0,18,6545,3998,9,9,0,9,29,29,0,28,In progress,833,41,30837,31711
+Kerala,Kozhikode,Kunnamangalam,71361,Kuttikkattoor,11112816%3A61,55.0,9,4210,2596,5,5,0,5,16,16,9,16,In progress,1058,10,19279,20347
+Kerala,Kozhikode,Kunnamangalam,71361,Perumanna,11112816%3A71,100.0,18,10613,7901,6,6,0,6,24,24,12,24,In progress,2405,71,45545,48021
+Kerala,Kozhikode,Kunnamangalam,71361,Peruvayal,11117184461,100.0,13,6375,5060,9,9,0,9,24,24,23,24,In progress,2684,53,27704,30441
+Kerala,Kozhikode,Kunnamangalam,71361,Kunnamangalam,11117632%3A51,55.0,23,11325,10050,18,18,0,18,46,46,0,45,In progress,1127,59,55486,56672
+Kerala,Kozhikode,Kunnamangalam,71361,Kuruvattur,11112817121,100.0,18,8681,8681,11,11,0,11,32,32,25,31,100% Har Ghar Jal,3030,35,33375,36440
+Kerala,Kozhikode,Kunnummel,71371,Velom,11112816381,28.68,17,7083,574,12,12,12,12,29,29,0,18,In progress,1321,100,27050,28471
+Kerala,Kozhikode,Kunnummel,71371,Thinoor,11112816441,100.0,4,1486,191,0,0,0,0,11,11,0,9,In progress,254,39,6705,6998
+Kerala,Kozhikode,Kunnummel,71371,Maruthonkara,11112816451,55.0,18,6309,1451,12,12,12,12,40,40,9,16,In progress,1136,225,26075,27436
+Kerala,Kozhikode,Kunnummel,71371,Kavilumpara,11112816421,37.2,12,4203,1088,10,10,10,10,21,21,7,18,In progress,182,269,17605,18056
+Kerala,Kozhikode,Kunnummel,71371,KAYAKKODI,11112816411,100.0,16,5627,3734,45,45,45,45,27,27,2,1,In progress,799,70,25188,26057
+Kerala,Kozhikode,Kunnummel,71371,Kuttiadi,11112816391,55.0,14,4441,2975,20,20,20,20,48,48,42,46,In progress,544,52,20212,20808
+Kerala,Kozhikode,Kunnummel,71371,Narippatta,11112816431,100.0,13,4720,4208,9,9,9,9,24,24,15,18,In progress,738,55,20337,21130
+Kerala,Kozhikode,Kunnummel,71371,Kunnummal,111128163%3A1,100.0,13,5130,5130,10,10,10,10,22,22,21,22,100% Har Ghar Jal,418,29,18757,19204
+Kerala,Kozhikode,Thooneri,71421,Chekkiad,11112816321,55.0,15,5789,469,16,16,16,16,26,26,4,12,In progress,402,213,25194,25809
+Kerala,Kozhikode,Thooneri,71421,Vilangad,11112816341,55.0,2,760,107,2,2,2,2,6,6,0,6,In progress,400,20,2620,3040
+Kerala,Kozhikode,Thooneri,71421,Edacheri,11112816371,55.0,17,7046,1973,13,13,13,13,30,30,7,23,In progress,758,4,27795,28557
+Kerala,Kozhikode,Thooneri,71421,Purameri,111128162%3A1,55.0,17,7358,2207,28,28,28,28,31,31,16,27,In progress,616,48,28739,29403
+Kerala,Kozhikode,Thooneri,71421,Nadapuram,11112816461,100.0,22,9959,4517,26,26,26,26,37,37,14,8,In progress,859,4,41974,42837
+Kerala,Kozhikode,Thooneri,71421,Thuneri,11112816311,55.0,15,5627,2784,20,20,20,20,25,25,4,13,In progress,406,1,24532,24939
+Kerala,Kozhikode,Thooneri,71421,Vanimel,11112816331,26.32,19,7529,4418,18,18,17,18,33,33,12,30,In progress,303,497,30317,31117
+Kerala,Kozhikode,Thooneri,71421,Valayam,11112816351,55.0,9,3136,2003,8,8,8,8,10,10,1,8,In progress,343,5,12125,12473
+Kerala,Kozhikode,Melady,71381,Thikkody,11112816561,25.28,17,6242,115,12,12,12,12,27,27,8,27,In progress,1507,34,27262,28803
+Kerala,Kozhikode,Melady,71381,Meppayyur,11112816521,23.51,8,3279,108,9,9,9,9,12,12,5,7,In progress,934,23,14118,15075
+Kerala,Kozhikode,Melady,71381,Kozhukkallur,11112816511,29.29,9,3353,162,9,9,8,9,17,17,5,11,In progress,1005,40,13566,14611
+Kerala,Kozhikode,Melady,71381,Keezhariyur,11112816531,30.01,13,3743,1634,8,8,8,8,17,17,12,17,In progress,1461,25,14610,16096
+Kerala,Kozhikode,Melady,71381,Thurayur,11112816571,55.0,13,3717,3717,13,13,6,13,14,14,13,14,100% Har Ghar Jal,2255,13,12828,15096
+Kerala,Kozhikode,Koduvally,71341,Engapuzha,11117184321,1.22,7,3207,0,3,3,0,3,10,10,0,6,In progress,1886,95,14033,16014
+Kerala,Kozhikode,Koduvally,71341,Puthur,11112816931,5.59,6,3605,200,2,2,0,2,11,11,0,2,In progress,1835,164,16021,18020
+Kerala,Kozhikode,Koduvally,71341,Koodathayi,111171898%3A1,55.0,4,2100,300,5,5,0,5,5,5,0,5,In progress,381,93,6197,6671
+Kerala,Kozhikode,Koduvally,71341,Koodathayi,11117184251,100.0,9,4085,804,5,5,0,5,14,14,0,0,In progress,2180,119,15942,18241
+Kerala,Kozhikode,Koduvally,71341,Puthupapady,11112816951,11.24,14,6905,1633,6,6,0,6,27,27,0,16,In progress,2784,561,31706,35051
+Kerala,Kozhikode,Koduvally,71341,Raroth,111128168%3A1,21.12,13,6372,1557,10,10,0,10,23,23,0,4,In progress,4273,146,30729,35148
+Kerala,Kozhikode,Koduvally,71341,Kedavur,11112816911,22.92,10,4697,1189,5,5,0,5,16,16,0,3,In progress,2913,190,20530,23633
+Kerala,Kozhikode,Koduvally,71341,Kodenchery,11112816%3A81,21.06,10,4352,1152,5,5,0,5,19,19,0,9,In progress,1103,735,15276,17114
+Kerala,Kozhikode,Koduvally,71341,Nellipoyil,11112816%3A91,29.33,7,3202,927,8,8,0,8,9,9,0,3,In progress,510,241,11335,12086
+Kerala,Kozhikode,Koduvally,71341,Koodaranji,11112816961,21.67,14,4787,1449,12,12,0,10,19,19,0,7,In progress,1165,638,22133,23936
+Kerala,Kozhikode,Koduvally,71341,Thiruvambadi,11112816971,55.0,17,6883,2255,13,13,0,13,27,27,0,6,In progress,1986,375,31245,33606
+Kerala,Kozhikode,Koduvally,71341,Kizhakkoth,111128169%3A1,55.0,18,7465,2625,11,11,0,11,29,29,0,7,In progress,2341,95,33160,35596
+Kerala,Kozhikode,Koduvally,71341,Madavoor,11112816%3A11,55.0,17,7133,2813,14,14,0,14,26,26,0,5,In progress,3121,283,32287,35691
+Kerala,Kozhikode,Koduvally,71341,Kattipara,11117628521,100.0,15,2675,1447,9,9,0,9,23,23,0,10,In progress,740,91,12273,13104
+Kerala,Kozhikode,Permbra,713%3A1,Menhaniam,11112816581,44.01,9,3584,236,7,7,7,7,27,27,23,26,In progress,1549,56,15074,16679
+Kerala,Kozhikode,Permbra,713%3A1,Kayanna,11112816611,46.25,13,3426,378,8,8,8,8,18,18,1,9,In progress,654,95,13867,14616
+Kerala,Kozhikode,Permbra,713%3A1,Nochad,11112816681,38.26,17,6731,1221,8,8,8,8,27,27,8,0,In progress,2494,36,25960,28490
+Kerala,Kozhikode,Permbra,713%3A1,Perambra,11117184441,100.0,4,1178,217,2,2,2,2,4,4,0,0,In progress,465,30,5006,5501
+Kerala,Kozhikode,Permbra,713%3A1,Cheruvannur,111128165%3A1,28.38,15,5431,1115,15,15,14,14,26,26,19,19,In progress,1249,163,23492,24904
+Kerala,Kozhikode,Permbra,713%3A1,Eravattur,11112816591,100.0,10,4020,834,11,11,11,11,21,21,17,21,In progress,1289,88,16852,18229
+Kerala,Kozhikode,Permbra,713%3A1,Chakkittapara,11112816621,55.0,9,3180,675,52,52,50,51,6,6,0,6,In progress,1110,301,12016,13427
+Kerala,Kozhikode,Permbra,713%3A1,PERAMBRA,11112816641,100.0,3,924,226,2,2,2,2,7,7,4,7,In progress,169,30,4104,4303
+Kerala,Kozhikode,Permbra,713%3A1,Palery,11112816661,44.2,9,3262,1149,6,6,6,6,13,13,4,4,In progress,1020,102,14943,16065
+Kerala,Kozhikode,Permbra,713%3A1,Chembanoda,11112816631,47.4,3,1106,462,3,3,3,3,2,2,0,2,In progress,250,37,4439,4726
+Kerala,Kozhikode,Permbra,713%3A1,Koothali,11112816671,55.0,9,3260,1394,2,2,2,2,12,12,3,4,In progress,843,28,11996,12867
+Kerala,Kozhikode,Permbra,713%3A1,Changaroth,11112816651,55.0,10,3770,2017,12,12,12,12,10,10,0,2,In progress,1245,142,16569,17956
+Kerala,Kozhikode,Balussery,71321,Ulliyeri,11112816761,21.62,19,8188,0,20,20,20,20,30,30,3,30,In progress,4249,32,30288,34569
+Kerala,Kozhikode,Balussery,71321,Sivapuram,11112816791,31.7,11,5765,357,10,10,10,10,16,16,3,16,In progress,2701,70,22089,24860
+Kerala,Kozhikode,Balussery,71321,Unnikulam,111128167%3A1,55.0,12,6079,431,20,20,20,20,31,31,9,31,In progress,2389,219,25039,27647
+Kerala,Kozhikode,Balussery,71321,Kanthalode,11112816741,36.55,6,2659,195,6,6,6,6,12,12,1,12,In progress,1015,400,9246,10661
+Kerala,Kozhikode,Balussery,71321,Kinalur,11112816731,32.94,6,2746,234,4,4,4,4,10,10,3,10,In progress,1497,19,9963,11479
+Kerala,Kozhikode,Balussery,71321,Panangad,11112816721,29.08,8,3354,529,5,5,5,5,14,14,4,14,In progress,2104,15,11652,13771
+Kerala,Kozhikode,Balussery,71321,Koorachundu,11112816691,14.83,15,4924,844,10,10,10,10,20,20,11,20,In progress,1411,234,19588,21233
+Kerala,Kozhikode,Balussery,71321,Avitanallur,11112816771,18.08,9,3993,844,9,9,9,9,14,14,14,14,In progress,1995,615,14189,16799
+Kerala,Kozhikode,Balussery,71321,Kottur,11112816781,100.0,8,3096,723,8,8,8,8,13,13,11,13,In progress,1201,295,11499,12995
+Kerala,Kozhikode,Balussery,71321,Naduvannur,111128166%3A1,100.0,16,6417,2427,12,12,12,12,26,26,23,26,In progress,3125,58,24481,27664
+Kerala,Kozhikode,Balussery,71321,Balusseri,11112816751,55.0,17,6961,4550,20,20,19,20,31,31,5,30,In progress,3963,198,25065,29226
+Kerala,Kozhikode,Thodannur,71411,Thiruvallur,11112816491,24.88,9,3951,15,11,11,11,11,17,17,3,11,In progress,821,12,15869,16702
+Kerala,Kozhikode,Thodannur,71411,Kottappally,111128164%3A1,28.01,11,4788,24,16,16,16,16,18,18,0,9,In progress,398,0,20805,21203
+Kerala,Kozhikode,Thodannur,71411,Villiappaly,11117476421,55.0,19,9082,1489,19,19,19,19,33,33,5,13,In progress,1595,198,34945,36738
+Kerala,Kozhikode,Thodannur,71411,Ayancheri,111174748%3A1,100.0,17,7063,1649,20,20,20,20,25,25,3,12,In progress,2654,972,24371,27997
+Kerala,Kozhikode,Thodannur,71411,Maniyur,11117475371,25.6,14,7104,2069,18,18,18,18,26,26,3,3,In progress,2200,339,26634,29173
+Kerala,Kozhikode,Thodannur,71411,Palayad,11117635241,55.0,7,3366,1236,12,12,12,12,14,14,0,1,In progress,145,19,13213,13377
+Kerala,Kozhikode,Vadakara,71431,Eramala,11112816281,29.37,19,9404,177,24,24,24,24,34,34,3,18,In progress,908,0,35996,36904
+Kerala,Kozhikode,Vadakara,71431,Onchiam,11112816291,100.0,17,7746,567,16,16,16,16,27,27,4,17,In progress,477,48,29982,30507
+Kerala,Kozhikode,Vadakara,71431,Azhiyur,11112816261,100.0,18,7883,1146,17,17,17,17,28,28,2,10,In progress,1176,5,30787,31968
+Kerala,Kozhikode,Vadakara,71431,Chorode,11112816271,100.0,21,10091,2846,21,21,21,21,35,35,7,30,In progress,831,27,39865,40723
+Kerala,Kozhikode,Pandalayani,71391,Atholi,11112816711,24.93,17,7101,39,16,16,16,16,31,31,4,31,In progress,4774,51,25218,30043
+Kerala,Kozhikode,Pandalayani,71391,Moodadi,11112816841,20.53,18,7212,41,15,15,15,15,32,32,11,32,In progress,2312,48,29797,32157
+Kerala,Kozhikode,Pandalayani,71391,Chemancheri,11112816821,30.33,20,8267,365,16,16,16,16,34,34,10,34,In progress,1929,41,35105,37075
+Kerala,Kozhikode,Pandalayani,71391,Chengottukavu,11112816831,27.08,17,6704,1674,13,13,13,13,27,27,4,27,In progress,1417,64,27012,28493
+Kerala,Kozhikode,Pandalayani,71391,Arikkulam,11112816811,22.92,13,4613,1536,10,10,10,10,19,19,4,19,In progress,1662,47,17860,19569
+Kerala,Malappuram,Mankada,71481,Kuruvambalam,11112818241,100.0,9,3767,1460,6,6,6,6,15,15,15,15,In progress,1477,15,18222,19714
+Kerala,Malappuram,Mankada,71481,Puzhakkattiri,11112818271,100.0,17,7518,4677,13,13,9,12,25,25,25,25,In progress,2561,57,39141,41759
+Kerala,Malappuram,Mankada,71481,Pulamanthole,11112818231,66.36,11,4528,2879,7,7,7,7,19,19,19,19,In progress,1682,30,21407,23119
+Kerala,Malappuram,Mankada,71481,Moorkkanad,11112818251,55.0,19,9380,6976,13,13,12,13,34,34,31,30,In progress,4386,87,46078,50551
+Kerala,Malappuram,Mankada,71481,Vadakkangara,11112818221,55.0,13,4328,3550,14,14,14,14,18,18,18,18,In progress,1389,19,20243,21651
+Kerala,Malappuram,Mankada,71481,Koottilangadi,11112818261,55.0,19,8026,7099,19,19,19,19,36,36,36,36,In progress,2410,53,38875,41338
+Kerala,Malappuram,Mankada,71481,Mankada,11112818211,55.0,18,6193,5581,18,18,18,18,29,29,29,29,In progress,4069,130,30970,35169
+Kerala,Malappuram,Mankada,71481,Kuruva,111128181%3A1,55.0,22,11925,11925,17,17,17,17,45,45,39,39,100% Har Ghar Jal,2942,70,49108,52120
+Kerala,Malappuram,Kondotty,71451,Chelambra,11112817511,70.0,18,10482,5148,16,16,12,16,28,28,0,12,In progress,3300,35,35379,38714
+Kerala,Malappuram,Kondotty,71451,Pallikkal,11112817541,100.0,22,9690,5709,17,17,17,17,38,38,0,38,In progress,4789,142,48937,53868
+Kerala,Malappuram,Kondotty,71451,Vazhakkad,11112817561,55.0,19,9593,5798,27,27,27,27,31,31,3,30,In progress,4369,164,38043,42576
+Kerala,Malappuram,Kondotty,71451,Vazhayur,11112817551,55.0,25,9787,8226,14,14,14,14,28,28,0,28,In progress,5891,148,44280,50319
+Kerala,Malappuram,Kondotty,71451,Pulikkal,11112817571,100.0,21,8505,7974,25,25,25,25,37,37,0,37,In progress,3930,113,40716,44759
+Kerala,Malappuram,Kondotty,71451,Muduvallur,11117623251,100.0,15,5043,4921,11,11,11,11,25,25,25,25,In progress,3511,78,26346,29935
+Kerala,Malappuram,Kondotty,71451,Cherukavu,11112817521,60.28,11,4765,4765,14,14,14,14,35,35,1,35,100% Har Ghar Jal,1960,32,21901,23893
+Kerala,Malappuram,Ponnani,71521,Tavanur,11112817911,55.0,19,11633,6488,18,18,18,18,34,34,29,28,In progress,8891,145,49663,58699
+Kerala,Malappuram,Ponnani,71521,Kalady,11117624211,100.0,16,7226,4804,14,14,13,14,25,25,5,7,In progress,0,0,23984,23984
+Kerala,Malappuram,Ponnani,71521,Vattamkulam,11112817931,55.0,19,7762,6116,17,17,16,16,32,32,0,5,In progress,6093,115,37798,44006
+Kerala,Malappuram,Ponnani,71521,Edappal,11112817941,55.0,19,8349,6753,24,24,16,24,34,34,17,23,In progress,4979,3,33594,38576
+Kerala,Malappuram,Areecode,71441,Pulpatta,11112817461,7.41,21,9244,3416,18,18,18,18,42,42,23,0,In progress,5502,898,43271,49671
+Kerala,Malappuram,Areecode,71441,Areekode,11112817491,55.0,18,8068,5212,20,20,20,20,35,35,32,34,In progress,3827,54,33174,37055
+Kerala,Malappuram,Areecode,71441,Kavanoor,11112817441,100.0,19,9851,6514,23,23,23,23,38,38,2,2,In progress,4895,77,43214,48186
+Kerala,Malappuram,Areecode,71441,Urungattiri,11112817431,55.0,11,5487,3643,12,11,10,11,25,25,5,19,In progress,2250,170,23287,25707
+Kerala,Malappuram,Areecode,71441,Vettilappara,11112817421,48.51,22,9056,6043,8,8,8,8,19,19,5,16,In progress,3692,1319,39055,44066
+Kerala,Malappuram,Areecode,71441,Kuzhimanna,111128174%3A1,100.0,18,6843,4933,16,16,16,16,36,36,13,36,In progress,3727,79,33566,37372
+Kerala,Malappuram,Areecode,71441,Kizhuparamba,11112817451,100.0,14,5250,3819,18,18,18,18,21,21,21,21,In progress,2185,30,23088,25303
+Kerala,Malappuram,Areecode,71441,Cheekode,11112817471,100.0,6,2478,2412,16,16,16,16,39,39,38,39,In progress,882,13,11912,12807
+Kerala,Malappuram,Kuttipuram,71461,Melmuri,11112817%3A51,100.0,8,4387,1250,3,3,3,3,15,15,15,15,In progress,803,96,22076,22975
+Kerala,Malappuram,Kuttipuram,71461,Naduvattom,11112817%3A71,100.0,13,6303,2019,9,9,9,9,22,22,9,9,In progress,3418,0,35090,38508
+Kerala,Malappuram,Kuttipuram,71461,Marakkara,11112817%3A41,39.13,12,5603,1808,11,11,11,11,21,21,21,21,In progress,1402,82,34160,35644
+Kerala,Malappuram,Kuttipuram,71461,Kuttippuram,11112817%3A61,55.0,10,5669,2067,14,14,13,14,19,19,6,8,In progress,2573,0,25935,28508
+Kerala,Malappuram,Kuttipuram,71461,Kurumbathur,111128179%3A1,46.89,15,6444,3023,15,15,15,15,26,26,26,26,In progress,1859,74,40052,41985
+Kerala,Malappuram,Kuttipuram,71461,Athavanad,11112817%3A11,55.0,7,3838,1821,5,5,5,5,13,13,13,13,In progress,976,75,19984,21035
+Kerala,Malappuram,Kuttipuram,71461,Irimbiliyam,11112817%3A31,100.0,17,6899,5680,14,14,14,14,31,31,31,31,In progress,5004,17,29490,34511
+Kerala,Malappuram,Kuttipuram,71461,Edayoor,11112817%3A21,55.0,19,8058,8058,12,12,12,12,33,33,33,33,100% Har Ghar Jal,4350,100,36735,41185
+Kerala,Malappuram,Malappuram,71471,Pookkottur,11112818361,100.0,19,7951,2315,16,16,16,16,37,37,29,37,In progress,2545,78,39250,41873
+Kerala,Malappuram,Malappuram,71471,Morayur,11112818331,16.2,18,7403,2452,16,16,16,16,38,38,8,38,In progress,2645,52,36744,39441
+Kerala,Malappuram,Malappuram,71471,Kodur,11112818281,100.0,19,8081,3783,19,19,19,19,30,30,23,30,In progress,1216,80,41964,43260
+Kerala,Malappuram,Malappuram,71471,Ponmala,11112818351,55.0,18,7106,3622,23,23,23,23,30,30,22,30,In progress,1710,101,36761,38572
+Kerala,Malappuram,Malappuram,71471,Anakkayam,11117462611,100.0,17,6615,4501,21,21,21,21,27,27,27,27,In progress,1256,39,42576,43871
+Kerala,Malappuram,Malappuram,71471,Pandalur,11112818321,32.66,6,2659,2096,7,7,7,7,21,21,21,21,In progress,637,52,14772,15461
+Kerala,Malappuram,Malappuram,71471,Othukkungal,111128175%3A1,100.0,20,8033,6510,19,19,19,19,24,24,23,24,In progress,1773,46,43009,44828
+Kerala,Malappuram,Perumthalmanna,714%3A1,Keezhattur,11112818141,34.49,8,3470,5,15,15,15,15,13,13,13,13,In progress,1481,21,15602,17104
+Kerala,Malappuram,Perumthalmanna,714%3A1,Nenmini,11112818151,3.35,11,4447,23,6,6,6,6,19,19,19,19,In progress,2813,19,20036,22868
+Kerala,Malappuram,Perumthalmanna,714%3A1,Kariavattom,11112818191,100.0,11,5192,675,7,7,7,7,19,19,19,19,In progress,2924,11,23700,26635
+Kerala,Malappuram,Perumthalmanna,714%3A1,Vettathur,11112818181,3.68,5,2557,608,6,6,6,6,9,9,9,9,In progress,2023,18,11526,13567
+Kerala,Malappuram,Perumthalmanna,714%3A1,Melattur,11112818131,27.84,16,6394,2446,17,17,17,17,27,27,27,27,In progress,3835,32,27140,31007
+Kerala,Malappuram,Perumthalmanna,714%3A1,Valambur,111128182%3A1,100.0,13,7030,2801,12,12,12,12,26,26,26,26,In progress,2576,72,32118,34766
+Kerala,Malappuram,Perumthalmanna,714%3A1,Angadippuram,11112818291,42.71,10,5375,2352,15,15,15,15,17,17,17,17,In progress,2058,65,22616,24739
+Kerala,Malappuram,Perumthalmanna,714%3A1,Anamangad,11112817%3A91,2.92,11,5160,3189,9,9,9,9,20,20,20,20,In progress,2943,37,22013,24993
+Kerala,Malappuram,Perumthalmanna,714%3A1,Arakkuparamba,11112818171,100.0,6,2776,1786,10,10,10,10,9,9,9,9,In progress,2118,38,12593,14749
+Kerala,Malappuram,Perumthalmanna,714%3A1,Elamkulam,11112818121,100.0,16,5968,4310,13,13,13,13,27,27,27,27,In progress,3823,60,25855,29738
+Kerala,Malappuram,Perumthalmanna,714%3A1,Thazhekode,11112818161,14.57,15,6576,5337,13,13,13,13,19,19,19,19,In progress,3293,131,27750,31174
+Kerala,Malappuram,Perumthalmanna,714%3A1,Aliparamba,11112817%3A%3A1,55.0,10,6126,6126,8,8,8,8,20,20,20,20,100% Har Ghar Jal,2389,49,18500,20938
+Kerala,Malappuram,Vengara,71561,Oorakam,11112818341,100.0,17,7986,1255,20,20,20,20,28,28,0,28,In progress,2083,80,33603,35766
+Kerala,Malappuram,Vengara,71561,Thennala,11112817591,100.0,16,6913,1805,10,10,9,10,23,23,14,12,In progress,1522,0,29674,31196
+Kerala,Malappuram,Vengara,71561,Vengara,11112817631,100.0,23,12245,4754,16,16,16,16,39,39,0,39,In progress,2994,191,52879,56064
+Kerala,Malappuram,Vengara,71561,Thennala,11112817621,55.0,17,7219,3085,8,8,8,8,27,27,25,22,In progress,1533,1,34087,35621
+Kerala,Malappuram,Vengara,71561,Parappur,11112817611,100.0,19,8163,5192,20,20,20,20,36,36,36,36,In progress,700,61,40034,40795
+Kerala,Malappuram,Vengara,71561,Kannamangalm,11112817641,100.0,20,9804,7649,25,25,25,25,62,62,61,61,In progress,3819,193,41846,45858
+Kerala,Malappuram,Thanoor,71531,Niramaruthur,111128178%3A1,100.0,17,6940,68,17,17,12,17,28,28,20,28,In progress,2062,110,28890,31062
+Kerala,Malappuram,Thanoor,71531,Ponmundam,11112817891,10.16,16,6700,603,6,6,6,6,21,21,21,21,In progress,582,0,31158,31740
+Kerala,Malappuram,Thanoor,71531,Cheriyamundam,11112817821,25.01,18,7724,744,13,13,13,13,29,29,29,29,In progress,1140,0,33637,34777
+Kerala,Malappuram,Thanoor,71531,Tanalur,11112817851,55.0,23,11959,4417,11,11,11,11,40,40,40,40,In progress,2002,4,42574,44580
+Kerala,Malappuram,Thanoor,71531,Ozhur,11112817841,100.0,18,8874,3487,11,11,11,11,28,28,28,28,In progress,1823,102,39222,41147
+Kerala,Malappuram,Thanoor,71531,Perumanna,11112817811,55.0,16,7205,4569,11,11,11,11,25,25,8,12,In progress,1809,1,34166,35976
+Kerala,Malappuram,Thanoor,71531,Valavannur,11112817861,100.0,19,7466,5400,35,35,34,35,39,39,30,39,In progress,961,97,36300,37358
+Kerala,Malappuram,Thanoor,71531,Kalpakancheri,11112817831,55.0,19,7568,5799,29,29,29,29,36,36,30,34,In progress,414,118,37390,37922
+Kerala,Malappuram,Nilamboor,71491,Pullipadam,111171868%3A1,55.0,5,1841,140,5,5,5,5,9,9,9,9,In progress,561,740,7996,9297
+Kerala,Malappuram,Nilamboor,71491,Kurumbilangode,11112817221,55.0,19,7668,1716,13,13,13,13,34,34,34,34,In progress,2127,2211,34318,38656
+Kerala,Malappuram,Nilamboor,71491,Edakkara,111128171%3A1,55.0,18,7759,2156,15,15,15,15,28,28,28,28,In progress,2174,977,34847,37998
+Kerala,Malappuram,Nilamboor,71491,Akampadam,11112817151,28.06,8,2821,883,12,12,12,12,12,12,12,12,In progress,936,1517,10831,13284
+Kerala,Malappuram,Nilamboor,71491,Vazhikkadavu,11112817191,100.0,23,10347,3632,19,19,19,19,41,41,41,41,In progress,3469,977,47994,52440
+Kerala,Malappuram,Nilamboor,71491,Edakkara,11112817181,31.56,13,5003,1926,7,7,7,7,21,21,21,21,In progress,2327,930,22968,26225
+Kerala,Malappuram,Nilamboor,71491,Chungathara,11112817161,40.18,13,5742,3283,17,17,17,17,21,21,21,21,In progress,1509,1119,24377,27005
+Kerala,Malappuram,Nilamboor,71491,Edakkara,111171869%3A1,100.0,6,2244,1958,6,6,6,6,10,10,10,10,In progress,411,669,10133,11213
+Kerala,Malappuram,Vandoor,71571,Karakunnu,11112817371,10.61,6,2857,25,4,4,4,4,16,16,16,16,In progress,2031,52,13466,15549
+Kerala,Malappuram,Vandoor,71571,Elankur,11112817381,7.76,7,3480,52,2,2,2,2,14,14,14,14,In progress,1993,26,15620,17639
+Kerala,Malappuram,Vandoor,71571,Trikkalangode,11112817361,10.36,10,5062,86,26,26,26,26,19,19,19,19,In progress,3381,75,23087,26543
+Kerala,Malappuram,Vandoor,71571,Chembrasseri,11112817311,35.25,6,2780,49,5,5,5,5,14,14,14,14,In progress,2049,52,11797,13898
+Kerala,Malappuram,Vandoor,71571,Pandikkad,111128172%3A1,41.04,7,3305,161,14,14,14,14,14,14,14,14,In progress,2411,33,14443,16887
+Kerala,Malappuram,Vandoor,71571,Vettikkattiri,11112817321,55.0,10,5574,338,16,16,16,16,22,22,22,22,In progress,2148,36,26393,28577
+Kerala,Malappuram,Vandoor,71571,Porur,11112817351,11.15,17,6858,881,15,15,15,15,31,31,31,31,In progress,5416,114,29644,35174
+Kerala,Malappuram,Vandoor,71571,Mambad,11112817261,19.65,10,4843,966,26,26,26,26,17,17,17,17,In progress,1514,267,20560,22341
+Kerala,Malappuram,Vandoor,71571,Pullipadam,11112817271,100.0,32,15936,4218,29,29,29,29,66,66,66,66,In progress,9096,1601,65856,76553
+Kerala,Malappuram,Vandoor,71571,Thiruvali,11112817391,55.0,16,8453,5197,9,9,9,9,28,28,28,28,In progress,5619,56,22185,27860
+Kerala,Malappuram,Vandoor,71571,Edavanna,11112817331,3.75,9,4038,4038,21,21,21,21,16,16,16,16,100% Har Ghar Jal,799,106,18183,19088
+Kerala,Malappuram,Vandoor,71571,Perakamanna,11112817341,100.0,13,6292,6292,3,3,3,3,27,27,27,27,100% Har Ghar Jal,2782,296,29118,32196
+Kerala,Malappuram,Perumpadappu,71511,Perumpadappa,11112817981,55.0,18,7072,241,14,14,14,14,34,34,17,12,In progress,404,29,39905,40338
+Kerala,Malappuram,Perumpadappu,71511,Marancheri,11112817961,22.0,19,8432,402,13,13,12,13,33,33,22,23,In progress,2415,0,45523,47938
+Kerala,Malappuram,Perumpadappu,71511,Veliyankode,11112817991,100.0,18,8103,1009,13,13,13,13,32,32,8,10,In progress,852,36,34698,35586
+Kerala,Malappuram,Perumpadappu,71511,Nannamukku,11112817971,100.0,17,7881,3791,13,13,13,13,29,29,29,29,In progress,3011,46,13200,16257
+Kerala,Malappuram,Perumpadappu,71511,Alangode,11112817951,100.0,19,8484,5842,23,23,22,23,33,33,31,33,In progress,4925,5,30607,35537
+Kerala,Malappuram,Thiroorangadi,71551,Ariyallur,11112817691,15.59,13,7631,466,11,11,0,11,29,29,5,15,In progress,1823,45,29651,31519
+Kerala,Malappuram,Thiroorangadi,71551,A.r.nagar,11112817741,100.0,21,9103,688,13,13,13,13,41,41,41,41,In progress,2223,56,45247,47526
+Kerala,Malappuram,Thiroorangadi,71551,Nannambra,11112817721,100.0,21,9321,1441,19,19,19,19,37,37,0,37,In progress,1504,24,45715,47243
+Kerala,Malappuram,Thiroorangadi,71551,Peruvallur,11112817731,100.0,19,9030,1843,13,13,0,13,37,37,2,19,In progress,3079,62,37400,40541
+Kerala,Malappuram,Thiroorangadi,71551,Vallikkunnu,111128176%3A1,55.0,10,5919,2235,15,15,0,15,24,24,5,13,In progress,1947,27,20577,22551
+Kerala,Malappuram,Thiroorangadi,71551,Moonniyur,11112817711,100.0,23,14378,6426,14,14,0,14,47,47,2,9,In progress,3157,70,58371,61598
+Kerala,Malappuram,Thiroorangadi,71551,Thenhippalam,11112817661,28.38,17,11556,5205,9,9,0,9,29,29,2,15,In progress,3260,59,33690,37009
+Kerala,Malappuram,Kalikavu,77%3A31,Thuvvur,111128173%3A1,55.0,17,7066,427,10,10,10,10,34,34,34,34,In progress,4572,102,32111,36785
+Kerala,Malappuram,Kalikavu,77%3A31,Karulai,11112817171,1.19,15,5810,635,12,12,12,12,26,26,26,26,In progress,3353,1238,24317,28908
+Kerala,Malappuram,Kalikavu,77%3A31,Kerala Estate,11112817291,70.0,5,2214,403,5,5,5,5,7,7,7,7,In progress,669,62,10547,11278
+Kerala,Malappuram,Kalikavu,77%3A31,Chekkode,11112817231,12.57,8,3323,811,10,10,10,10,11,11,11,11,In progress,1243,613,15190,17046
+Kerala,Malappuram,Kalikavu,77%3A31,Vellayoor,11112817251,100.0,23,9951,3155,19,19,19,19,37,37,37,37,In progress,2688,67,46397,49152
+Kerala,Malappuram,Kalikavu,77%3A31,Edappatta,11112818111,100.0,15,5485,1752,11,11,11,11,25,25,25,25,In progress,2416,100,24990,27506
+Kerala,Malappuram,Kalikavu,77%3A31,Kalikavu,11112817241,45.75,6,2851,1039,11,11,11,11,8,8,8,8,In progress,369,57,12034,12460
+Kerala,Malappuram,Kalikavu,77%3A31,Amarambalam,11112817141,55.0,19,8584,3215,17,17,17,17,29,29,29,29,In progress,4623,1123,34889,40635
+Kerala,Malappuram,Kalikavu,77%3A31,Karuvarakundu,11112817281,55.0,16,7210,2829,14,14,14,13,29,29,29,29,In progress,3032,183,30982,34197
+Kerala,Malappuram,Thiroor,71541,Triprangode,11112817771,100.0,22,10824,0,21,21,21,21,34,34,34,34,In progress,3436,85,49709,53230
+Kerala,Malappuram,Thiroor,71541,Purathur,11112817751,6.59,19,7748,0,11,11,11,11,31,31,31,31,In progress,4733,65,33209,38007
+Kerala,Malappuram,Thiroor,71541,Talakkad,11112817761,100.0,19,9363,357,13,13,13,13,28,28,28,28,In progress,2943,0,42653,45596
+Kerala,Malappuram,Thiroor,71541,Mangalam,11117186%3A61,100.0,31,9818,2230,18,18,18,18,37,37,37,37,In progress,1917,117,49314,51348
+Kerala,Malappuram,Thiroor,71541,Vettom,11112817781,8.76,9,3124,731,12,12,12,12,37,37,37,37,In progress,1397,59,16916,18372
+Kerala,Malappuram,Thiroor,71541,Ananthavoor,11112817791,55.0,11,5053,2594,6,6,6,6,26,26,26,26,In progress,910,40,23061,24011
+Kerala,Malappuram,Thiroor,71541,Thirunavaya,111128177%3A1,55.0,11,5834,3297,11,11,11,11,20,20,20,20,In progress,1974,6,20614,22594
+Kerala,Palakkad,Chittoor,715%3A1,Thekkedesom,11112818811,25.6,6,2815,2202,3,3,3,3,14,14,14,14,In progress,2274,101,9044,11419
+Kerala,Palakkad,Chittoor,715%3A1,Elappully-i,111128191%3A1,17.95,13,6251,4955,8,8,8,8,17,17,17,17,In progress,3214,47,21641,24902
+Kerala,Palakkad,Chittoor,715%3A1,Nalleppilly,111128187%3A1,55.0,9,4508,3786,5,5,5,5,16,16,16,16,In progress,2073,65,15503,17641
+Kerala,Palakkad,Chittoor,715%3A1,Perumatty,11112818851,54.42,4,1853,1597,2,2,2,2,10,10,2,6,In progress,1230,577,5555,7362
+Kerala,Palakkad,Chittoor,715%3A1,Vandithavalam,11112818861,55.0,9,4287,3931,2,2,1,2,14,14,7,10,In progress,3129,22,14149,17300
+Kerala,Palakkad,Chittoor,715%3A1,Elappully-ii,11112819211,100.0,9,4303,4053,4,4,4,4,14,14,14,14,In progress,3908,27,16244,20179
+Kerala,Palakkad,Chittoor,715%3A1,Kozhipathy,11112818751,48.61,10,4765,4541,2,2,2,2,13,13,13,13,In progress,2900,279,13160,16339
+Kerala,Palakkad,Chittoor,715%3A1,Kozhinjampara,11112818771,55.0,10,4600,4482,6,6,6,6,23,23,22,22,In progress,1147,557,16473,18177
+Kerala,Palakkad,Chittoor,715%3A1,Vadakarapathy,11112818881,55.0,11,5552,5520,7,7,7,7,18,18,18,18,In progress,886,464,19302,20652
+Kerala,Palakkad,Chittoor,715%3A1,Polpully,11112819261,55.0,13,5145,5145,3,3,3,3,18,18,6,18,100% Har Ghar Jal,4240,83,16682,21005
+Kerala,Palakkad,Chittoor,715%3A1,Kozhipathy,11117189861,55.0,1,443,443,2,2,0,0,2,2,2,2,100% Har Ghar Jal,64,0,1628,1692
+Kerala,Palakkad,Chittoor,715%3A1,Valiyavallampathy,11112818781,57.38,7,3184,3184,2,2,2,2,4,4,4,4,100% Har Ghar Jal,1215,44,10681,11940
+Kerala,Palakkad,Chittoor,715%3A1,Eruthempathy,11112818761,55.0,8,3530,3530,5,5,5,5,11,11,11,11,100% Har Ghar Jal,1663,107,11010,12780
+Kerala,Palakkad,Chittoor,715%3A1,Ozhala Pathy,11112818871,54.58,6,2712,2712,3,3,3,3,9,9,9,9,100% Har Ghar Jal,1086,434,7931,9451
+Kerala,Palakkad,Chittoor,715%3A1,Moolathara,11112818841,55.0,5,3006,3006,2,2,1,1,9,9,2,6,100% Har Ghar Jal,1025,1695,6806,9526
+Kerala,Palakkad,Nenmara,71651,Nelliyampathy,11112819351,100.0,13,1871,613,5,5,5,5,15,15,5,15,In progress,1407,1082,3722,6211
+Kerala,Palakkad,Nenmara,71651,Pallassana,11112819391,55.0,16,6265,2254,10,10,10,10,22,22,3,18,In progress,6265,15,20524,26804
+Kerala,Palakkad,Nenmara,71651,Thiruvazhiyad,11112819341,100.0,6,2627,1718,2,2,2,2,14,14,1,2,In progress,1919,361,9258,11538
+Kerala,Palakkad,Nenmara,71651,Elavancherry,111128193%3A1,100.0,14,4826,3439,5,5,5,5,20,20,13,7,In progress,4761,87,15455,20303
+Kerala,Palakkad,Nenmara,71651,Melarcode,11112819381,100.0,16,7088,6310,7,7,7,7,26,26,15,10,In progress,4336,76,24793,29205
+Kerala,Palakkad,Nenmara,71651,Kairady,11112819331,22.88,6,3083,2869,5,5,4,4,18,18,3,4,In progress,1263,107,9181,10551
+Kerala,Palakkad,Nenmara,71651,Ayiloor,11112819321,55.0,5,2392,2392,4,4,4,4,10,10,2,2,100% Har Ghar Jal,1156,75,8410,9641
+Kerala,Palakkad,Nenmara,71651,Nenmara,11112819361,121.01,10,5098,5098,10,10,9,10,22,22,1,2,100% Har Ghar Jal,1774,67,17633,19474
+Kerala,Palakkad,Nenmara,71651,Vallanghy,11112819371,55.0,10,4977,4977,6,6,6,6,25,25,1,9,100% Har Ghar Jal,3056,170,19301,22527
+Kerala,Palakkad,Sreekrishnapuram,71691,Thrikkadeeri-i,11112819831,9.24,11,4258,59,7,7,7,7,16,16,16,16,In progress,1818,11,18896,20725
+Kerala,Palakkad,Sreekrishnapuram,71691,Thrikkadeeri -ii,11112819841,100.0,5,1971,73,3,3,3,3,7,7,7,7,In progress,1731,11,7553,9295
+Kerala,Palakkad,Sreekrishnapuram,71691,Kadampazhipuram-ii,11112819761,55.0,9,3970,2849,5,5,5,5,10,10,10,10,In progress,2187,13,15193,17393
+Kerala,Palakkad,Sreekrishnapuram,71691,Karimpuzha-ii,11112819781,100.0,7,2909,2109,5,5,5,5,11,11,11,11,In progress,1918,67,11694,13679
+Kerala,Palakkad,Sreekrishnapuram,71691,Karakurissi,111128184%3A1,100.0,16,6670,5090,8,8,8,8,25,25,25,25,In progress,4098,24,28294,32416
+Kerala,Palakkad,Sreekrishnapuram,71691,Kadampazhipuram-i,11112819751,67.91,9,4340,3541,7,7,7,7,19,19,19,19,In progress,2905,52,15372,18329
+Kerala,Palakkad,Sreekrishnapuram,71691,Karimpuzha-i,11112819771,73.25,11,5063,4182,13,13,13,13,25,25,25,25,In progress,2334,27,19559,21920
+Kerala,Palakkad,Sreekrishnapuram,71691,Sreekrishnapuram-ii,111128197%3A1,100.0,6,2624,2304,4,4,4,4,7,7,7,7,In progress,1718,10,8722,10450
+Kerala,Palakkad,Sreekrishnapuram,71691,Pookkottukavu,11117632711,100.0,13,4147,3870,9,9,9,9,17,17,17,17,In progress,4414,1,12958,17373
+Kerala,Palakkad,Sreekrishnapuram,71691,Sreekrishnapuram-i,11112819791,75.7,8,3507,3346,8,8,8,8,14,14,14,14,In progress,2120,360,12261,14741
+Kerala,Palakkad,Sreekrishnapuram,71691,Vellinezhi,11112819811,100.0,13,5041,4888,18,18,18,18,19,19,19,19,In progress,3123,101,16307,19531
+Kerala,Palakkad,Malampuzha,71631,Puthuppariyaram-i,11112819271,23.31,7,3322,834,3,3,1,3,19,19,5,5,In progress,1652,101,13872,15625
+Kerala,Palakkad,Malampuzha,71631,Pudussery West,11112819311,100.0,10,8228,4358,7,7,7,7,16,16,16,16,In progress,3821,82,22030,25933
+Kerala,Palakkad,Malampuzha,71631,Pudussery Central,111128192%3A1,100.0,7,5185,2787,3,3,3,3,11,11,11,11,In progress,1073,311,14948,16332
+Kerala,Palakkad,Malampuzha,71631,Pudussery East,11112819291,36.58,6,4358,2637,4,4,4,4,12,12,11,12,In progress,1160,774,10993,12927
+Kerala,Palakkad,Malampuzha,71631,Malampuzha-ii,11112819231,43.99,8,4031,2448,6,6,6,6,12,12,7,9,In progress,2352,10,10797,13159
+Kerala,Palakkad,Malampuzha,71631,Marutharode,11117515711,55.0,13,7612,5001,10,10,10,10,22,22,22,22,In progress,3300,116,23096,26512
+Kerala,Palakkad,Malampuzha,71631,Malampuzha-i,11112819221,100.0,11,4556,3046,6,6,3,6,16,16,0,8,In progress,2708,1366,12420,16494
+Kerala,Palakkad,Malampuzha,71631,Akathethara,11112819191,100.0,17,8925,7859,5,5,0,5,26,26,2,7,In progress,2839,590,36744,40173
+Kerala,Palakkad,Malampuzha,71631,Puthuppariyaram - Ii,11117518631,55.0,14,7256,6505,7,7,7,7,21,21,8,6,In progress,3839,409,27530,31778
+Kerala,Palakkad,Thrithala,716%3A1,Chalissery,11112819671,55.0,15,7150,3389,8,8,8,8,19,19,19,19,In progress,4499,67,23341,27907
+Kerala,Palakkad,Thrithala,716%3A1,Thrithala,11112819711,100.0,17,8772,4294,7,7,7,7,22,22,22,22,In progress,6062,19,25762,31843
+Kerala,Palakkad,Thrithala,716%3A1,Nagalassery,11112819691,100.0,17,8657,4452,9,7,7,7,22,22,22,22,In progress,6429,42,25266,31737
+Kerala,Palakkad,Thrithala,716%3A1,Thirumittacode -ii,11112819731,100.0,8,3388,2181,6,6,6,6,14,14,14,14,In progress,2370,11,13425,15806
+Kerala,Palakkad,Thrithala,716%3A1,Thirumittacode-i,11112819721,36.16,10,4399,3002,6,6,6,6,16,16,16,16,In progress,3432,60,17409,20901
+Kerala,Palakkad,Thrithala,716%3A1,Anakkara,11112819661,100.0,16,5894,4674,12,12,12,12,24,24,24,24,In progress,6097,47,22123,28267
+Kerala,Palakkad,Thrithala,716%3A1,Kappur,11112819681,100.0,18,7373,6480,10,10,10,10,33,33,33,33,In progress,4478,48,31523,36049
+Kerala,Palakkad,Thrithala,716%3A1,Pattithara,111128196%3A1,100.0,18,7891,6956,10,10,10,10,33,33,33,33,In progress,7662,98,29909,37669
+Kerala,Palakkad,Pattambi,71681,Ongallur -ii,111128195%3A1,100.0,12,5250,1078,7,7,7,7,0,0,0,0,In progress,3241,31,23951,27223
+Kerala,Palakkad,Pattambi,71681,Ongallur -i,11112819591,55.0,10,4462,1554,7,7,7,7,41,41,41,41,In progress,3330,3,19180,22513
+Kerala,Palakkad,Pattambi,71681,Parudur,11112819641,100.0,16,6212,2344,10,10,10,10,26,26,26,26,In progress,5959,42,24695,30696
+Kerala,Palakkad,Pattambi,71681,Muthuthala,11112819571,55.0,15,5984,2347,11,11,11,11,22,22,22,22,In progress,6076,43,22386,28505
+Kerala,Palakkad,Pattambi,71681,Thiruvegapura,11112819651,100.0,18,7148,4890,12,12,12,12,31,31,31,31,In progress,4290,50,34625,38965
+Kerala,Palakkad,Pattambi,71681,Kulukkallur,11112819561,100.0,17,6419,6230,14,14,14,14,27,27,27,27,In progress,4068,53,28456,32577
+Kerala,Palakkad,Pattambi,71681,Vilayur,11112819631,55.0,15,5642,5605,13,13,13,13,23,23,23,23,In progress,3218,0,26219,29437
+Kerala,Palakkad,Pattambi,71681,Koppam,11112819551,55.0,17,7102,7102,11,11,11,11,26,26,26,26,100% Har Ghar Jal,4468,70,30553,35091
+Kerala,Palakkad,Ottapalam,71661,Chalavara,11112818371,13.82,15,5412,1150,11,11,11,11,27,27,27,27,In progress,5460,16,20770,26246
+Kerala,Palakkad,Ottapalam,71661,Vaniyamkulam-i,111128183%3A1,12.01,9,3815,1588,4,4,4,4,16,16,16,16,In progress,3038,7,14700,17745
+Kerala,Palakkad,Ottapalam,71661,Vaniyamkulam-ii,11112818411,55.0,9,3947,1688,7,7,7,7,17,17,17,17,In progress,3116,8,15299,18423
+Kerala,Palakkad,Ottapalam,71661,Vallapuzha,11112819621,55.0,16,6091,2896,14,14,14,14,27,27,27,27,In progress,3220,29,28936,32185
+Kerala,Palakkad,Ottapalam,71661,Ananganadi,11112818441,100.0,15,5173,2768,12,12,12,12,26,26,26,26,In progress,3957,48,23172,27177
+Kerala,Palakkad,Ottapalam,71661,Lakkidiperur- I,11112818381,60.98,14,5587,3353,8,8,8,8,21,21,21,21,In progress,3609,26,23959,27594
+Kerala,Palakkad,Ottapalam,71661,Lakkidiperur- Ii,11112818391,100.0,5,1877,1461,4,4,4,4,10,10,10,10,In progress,1256,35,8485,9776
+Kerala,Palakkad,Ottapalam,71661,Nellaya,11112819581,100.0,19,8335,7288,19,19,19,19,43,43,43,43,In progress,2343,11,37469,39823
+Kerala,Palakkad,Ottapalam,71661,Ambalapara - Ii,11112818431,100.0,14,6294,5563,12,12,12,12,24,24,24,24,In progress,4370,29,25280,29679
+Kerala,Palakkad,Ottapalam,71661,Ambalapara - I,11112818421,55.0,6,2645,2583,6,6,6,6,14,14,14,14,In progress,2058,7,10825,12890
+Kerala,Palakkad,Kollamkode,71611,Koduvayur-ii,11117184671,40.88,8,3083,97,4,4,3,4,12,12,2,7,In progress,3115,3,9668,12786
+Kerala,Palakkad,Kollamkode,71611,Vadavannur,11112819181,100.0,13,4713,1259,9,9,9,9,17,17,8,10,In progress,4705,9,14783,19497
+Kerala,Palakkad,Kollamkode,71611,Muthalamada-ii,11112819171,100.0,10,5026,2384,7,7,7,7,23,23,8,9,In progress,4938,443,17379,22760
+Kerala,Palakkad,Kollamkode,71611,Koduvayur - I,111175772%3A1,100.0,10,4180,2367,8,8,7,8,10,10,3,4,In progress,3567,9,13707,17283
+Kerala,Palakkad,Kollamkode,71611,Puthunagaram,111175764%3A1,70.0,13,4635,2768,9,9,7,8,17,17,10,14,In progress,3350,21,17967,21338
+Kerala,Palakkad,Kollamkode,71611,Thathamangalam (part),11112818831,55.0,5,2153,1435,0,0,0,0,10,10,0,3,In progress,3462,19,5917,9398
+Kerala,Palakkad,Kollamkode,71611,Muthalamada-i,11112819161,55.0,10,5815,3968,7,7,7,7,19,19,4,7,In progress,2609,4599,15442,22650
+Kerala,Palakkad,Kollamkode,71611,Peruvemba,11112819251,100.0,14,5350,3823,5,5,5,5,17,17,6,11,In progress,5982,32,17250,23264
+Kerala,Palakkad,Kollamkode,71611,Kollengode-ii,11112819151,100.0,8,3913,2864,4,4,4,4,10,10,3,8,In progress,3597,212,11872,15681
+Kerala,Palakkad,Kollamkode,71611,PATTANCHERY,11112818821,32.93,11,4856,4300,5,5,5,4,17,17,1,4,In progress,3833,297,15541,19671
+Kerala,Palakkad,Kollamkode,71611,Kollengode-i,11112819141,61.56,10,4689,4402,8,8,8,8,19,19,14,16,In progress,4527,301,12515,17343
+Kerala,Palakkad,Attappady,71591,Kallamala,11112819111,100.0,6,2629,130,8,8,8,8,20,20,20,20,In progress,416,4137,5577,10130
+Kerala,Palakkad,Attappady,71591,Pudur,11112818%3A61,12.24,9,2817,502,6,6,6,6,38,38,38,38,In progress,541,6406,2620,9567
+Kerala,Palakkad,Attappady,71591,Agali,11112818%3A%3A1,24.13,15,7171,2615,13,13,13,13,44,44,44,44,In progress,1221,8172,18733,28126
+Kerala,Palakkad,Attappady,71591,Padavayal,11112818%3A71,100.0,4,1391,900,5,5,5,5,19,19,19,19,In progress,107,3049,1011,4167
+Kerala,Palakkad,Attappady,71591,Sholayur,11112818%3A81,17.04,5,1805,1300,9,9,9,9,19,19,19,19,In progress,663,3198,2433,6294
+Kerala,Palakkad,Attappady,71591,Kottathara,11112818%3A91,100.0,9,3501,2626,11,11,11,11,35,35,35,35,In progress,543,6717,5359,12619
+Kerala,Palakkad,Kuzhalmannam,71621,Kottayi-i,11112819531,55.0,8,3216,0,4,4,4,4,13,13,2,3,In progress,3947,6,10591,14544
+Kerala,Palakkad,Kuzhalmannam,71621,Kottayi-ii,11112819541,100.0,7,2712,1,3,3,3,3,10,10,5,3,In progress,3367,0,7976,11343
+Kerala,Palakkad,Kuzhalmannam,71621,Kannadi-ii,11112819421,125.0,7,4007,463,4,4,4,4,9,9,4,3,In progress,3329,10,14040,17379
+Kerala,Palakkad,Kuzhalmannam,71621,Mathur -ii,111128194%3A1,100.0,8,3427,402,4,4,4,4,15,15,10,11,In progress,4054,12,10920,14986
+Kerala,Palakkad,Kuzhalmannam,71621,Kannadi-i,11112819411,12.04,8,4353,539,3,3,3,3,12,12,2,1,In progress,3094,11,15832,18937
+Kerala,Palakkad,Kuzhalmannam,71621,Mathur -i,11112819491,0.0,8,3362,500,5,5,1,2,11,11,4,6,In progress,2788,8,11201,13997
+Kerala,Palakkad,Kuzhalmannam,71621,Thenkurissi-ii,11112819521,100.0,9,4589,1790,4,4,4,4,12,12,1,1,In progress,4484,25,15555,20064
+Kerala,Palakkad,Kuzhalmannam,71621,Kuzhalmannam-ii,11112819461,125.0,6,3165,1348,3,3,3,3,12,12,0,4,In progress,2772,9,10925,13706
+Kerala,Palakkad,Kuzhalmannam,71621,Kuzhalmannam-i,11112819451,24.58,11,5787,2572,6,6,5,6,11,11,0,1,In progress,4226,18,20703,24947
+Kerala,Palakkad,Kuzhalmannam,71621,Kuthannur-ii,11112819481,100.0,2,860,502,1,1,1,1,3,3,2,2,In progress,887,0,2853,3740
+Kerala,Palakkad,Kuzhalmannam,71621,Thenkurissi-i,11112819511,22.44,8,4208,2608,4,4,4,4,13,13,2,1,In progress,4498,2,13801,18301
+Kerala,Palakkad,Kuzhalmannam,71621,Kuthannur-i,11112819471,23.08,14,6523,4823,10,10,10,10,19,19,6,6,In progress,5063,34,22560,27657
+Kerala,Palakkad,Kuzhalmannam,71621,Peringottukurissi-i,11112819431,27.45,10,3579,3579,5,5,5,5,17,17,17,11,100% Har Ghar Jal,3813,15,22887,26715
+Kerala,Palakkad,Kuzhalmannam,71621,Peringottukurissi-ii,11112819441,125.0,6,2591,2591,5,5,5,5,9,9,9,8,100% Har Ghar Jal,1898,3,14059,15960
+Kerala,Palakkad,Mannarkkad,71641,Kumaramputhur,11112818541,10.65,10,4011,1,7,7,7,7,17,17,17,17,In progress,2263,16,17140,19419
+Kerala,Palakkad,Mannarkkad,71641,Payyanadam,11112818551,100.0,8,3657,22,4,4,4,4,21,21,21,21,In progress,1540,201,16191,17932
+Kerala,Palakkad,Mannarkkad,71641,Alanallur-ii,11112818461,12.58,5,3083,137,4,4,4,4,10,10,9,9,In progress,2140,35,13075,15250
+Kerala,Palakkad,Mannarkkad,71641,Alanallur-iii,11112818471,100.0,9,4136,242,9,9,9,9,20,20,20,20,In progress,2157,74,18362,20593
+Kerala,Palakkad,Mannarkkad,71641,Palakkayam,11117184751,100.0,4,1556,188,2,2,2,2,7,7,7,7,In progress,350,629,6183,7162
+Kerala,Palakkad,Mannarkkad,71641,Kottoppadam-ii,11112818521,6.55,6,2601,332,4,4,4,4,10,10,10,10,In progress,1538,15,13356,14909
+Kerala,Palakkad,Mannarkkad,71641,Palakkayam,11112818611,100.0,4,1382,189,1,1,1,1,6,6,6,6,In progress,381,128,5386,5895
+Kerala,Palakkad,Mannarkkad,71641,Kottoppadam-iii,11112818531,100.0,8,3457,507,4,4,4,4,13,13,13,13,In progress,1120,212,16423,17755
+Kerala,Palakkad,Mannarkkad,71641,Thachanattukara-i,111171847%3A1,21.15,10,3806,746,8,8,8,8,16,16,16,16,In progress,2370,33,17847,20250
+Kerala,Palakkad,Mannarkkad,71641,Mannarkkad 2,11117633371,100.0,15,6590,1488,7,7,7,7,20,20,20,20,In progress,2990,452,26141,29583
+Kerala,Palakkad,Mannarkkad,71641,Kottoppadam-i,11112818511,9.66,8,3407,841,5,5,5,5,17,17,17,17,In progress,1024,444,16318,17786
+Kerala,Palakkad,Mannarkkad,71641,Alanallur-i,11112818451,14.35,9,4643,1308,6,6,6,6,20,20,20,20,In progress,2147,85,20866,23098
+Kerala,Palakkad,Mannarkkad,71641,Pottassery- Ii,11112818491,18.12,6,2689,1153,6,6,6,6,12,12,12,12,In progress,1548,88,11313,12949
+Kerala,Palakkad,Mannarkkad,71641,Karimba -i,11112818621,59.27,9,4351,2744,7,7,7,7,15,15,15,15,In progress,1843,74,16406,18323
+Kerala,Palakkad,Mannarkkad,71641,Thachanattukara-ii,11117184811,100.0,6,2219,1574,5,5,5,5,10,10,10,10,In progress,1024,16,9068,10108
+Kerala,Palakkad,Mannarkkad,71641,Pottassery- I,11112818481,51.38,11,4794,3831,5,5,5,5,15,15,15,15,In progress,2056,164,19154,21374
+Kerala,Palakkad,Mannarkkad,71641,Thachampara,111128185%3A1,58.09,11,3496,2817,6,6,6,6,15,15,15,15,In progress,1719,75,13912,15706
+Kerala,Palakkad,Mannarkkad,71641,Karimba -ii,11112818631,55.0,8,2961,2448,5,5,5,5,12,12,12,12,In progress,1105,198,11721,13024
+Kerala,Palakkad,Alathur,71581,Vadakkancheri-ii,11112818921,100.0,8,3776,0,3,3,3,3,16,16,16,16,In progress,3321,31,13033,16385
+Kerala,Palakkad,Alathur,71581,Mangalam Dam,11112818971,100.0,5,2121,1,3,3,3,3,9,9,9,9,In progress,1304,341,7334,8979
+Kerala,Palakkad,Alathur,71581,Vadakkancheri-i,11112818911,23.1,12,5326,3,13,13,13,13,16,16,16,16,In progress,2170,62,20570,22802
+Kerala,Palakkad,Alathur,71581,Vandazhi-ii,11112818961,15.14,8,3597,34,4,4,4,4,10,10,10,10,In progress,1774,16,13520,15310
+Kerala,Palakkad,Alathur,71581,Vandazhi-i,11112818951,18.94,6,2454,44,2,2,2,2,12,12,12,12,In progress,1187,35,9899,11121
+Kerala,Palakkad,Alathur,71581,Kavasseri-ii,11112818%3A21,55.0,7,3197,238,4,4,4,4,11,11,11,11,In progress,1790,5,11522,13317
+Kerala,Palakkad,Alathur,71581,Kavasseri-i,11112818%3A11,17.4,10,4422,569,5,5,5,5,16,16,16,16,In progress,3424,53,15876,19353
+Kerala,Palakkad,Alathur,71581,Alathur,11112818%3A31,55.0,16,7054,1210,14,14,14,14,24,24,24,24,In progress,3354,24,27170,30548
+Kerala,Palakkad,Alathur,71581,Kannambra-i,11112818981,33.63,8,3511,1244,4,4,2,4,15,15,15,15,In progress,1341,179,13265,14785
+Kerala,Palakkad,Alathur,71581,Kizhakkencheri-ii,11112818%3A51,100.0,10,4863,1808,4,4,4,4,19,19,18,19,In progress,2490,290,17715,20495
+Kerala,Palakkad,Alathur,71581,Tarur-i,11112818891,26.99,8,2954,1150,5,5,5,5,10,10,10,10,In progress,1738,21,10743,12502
+Kerala,Palakkad,Alathur,71581,Kizhakkencheri-i,11112818%3A41,45.08,12,5708,2300,7,7,7,7,24,24,21,24,In progress,2668,152,21889,24709
+Kerala,Palakkad,Alathur,71581,Puducode,111128189%3A1,100.0,15,5740,2986,9,9,9,9,21,21,21,21,In progress,3331,58,22448,25837
+Kerala,Palakkad,Alathur,71581,Erimayur-ii,11112818941,55.0,8,3481,2148,5,5,5,5,10,10,10,10,In progress,2438,12,11919,14369
+Kerala,Palakkad,Alathur,71581,Erimayur-i,11112818931,53.66,10,4534,2945,4,4,4,4,15,15,15,15,In progress,4893,16,13900,18809
+Kerala,Palakkad,Alathur,71581,Kannambra-ii,11112818991,55.0,8,3515,2733,6,6,4,6,10,10,10,10,In progress,1878,25,11143,13046
+Kerala,Palakkad,Alathur,71581,Tarur-ii,111128188%3A1,100.0,8,3065,3065,4,4,4,4,15,15,15,15,100% Har Ghar Jal,1648,100,12055,13803
+Kerala,Palakkad,Palakkad,71671,Kongad-ii,11112818651,27.61,9,4758,15,6,6,5,6,18,18,0,7,In progress,2530,40,13436,16006
+Kerala,Palakkad,Palakkad,71671,Keralassery,11112818661,100.0,13,4341,41,7,7,6,7,21,21,0,10,In progress,2995,14,14685,17694
+Kerala,Palakkad,Palakkad,71671,Mundur-ii,11112818681,135.0,6,2541,40,2,2,2,2,17,17,3,2,In progress,1701,13,9024,10738
+Kerala,Palakkad,Palakkad,71671,Mundur-i,11112818671,17.06,12,5272,220,5,5,2,5,34,34,3,7,In progress,3920,13,17802,21735
+Kerala,Palakkad,Palakkad,71671,Mankara,11112818691,100.0,14,6860,1214,6,6,6,6,27,27,26,27,In progress,3630,31,16635,20296
+Kerala,Palakkad,Palakkad,71671,Mannur,111128186%3A1,100.0,14,7750,1401,6,6,6,6,26,26,26,26,In progress,3134,24,18251,21409
+Kerala,Palakkad,Palakkad,71671,Parli-i,11112818711,39.83,10,5336,1052,6,6,6,5,19,19,16,19,In progress,4214,39,15124,19377
+Kerala,Palakkad,Palakkad,71671,Kongad-i,11112818641,55.0,9,5213,1907,6,6,5,6,18,18,1,6,In progress,2546,27,14907,17480
+Kerala,Palakkad,Palakkad,71671,Parli-ii,11112818721,100.0,10,4875,2206,3,3,2,3,23,23,22,23,In progress,2463,53,14497,17013
+Kerala,Palakkad,Palakkad,71671,Kannadi-ii,11117185391,55.0,1,493,236,2,2,2,2,1,1,1,1,In progress,165,9,1661,1835
+Kerala,Palakkad,Palakkad,71671,Pirayiri,11112818731,55.0,21,12874,6267,13,13,13,13,42,42,40,42,In progress,4436,45,39141,43622
+Kerala,Palakkad,Palakkad,71671,Kodumba,11112818741,34.8,14,8385,4337,8,8,7,8,25,25,24,25,In progress,4871,63,18965,23899
+Kerala,Pathanamthitta,Pulikeezhu,71781,Kuttoor,11112826321,55.0,14,7111,4828,11,11,0,11,20,20,20,20,In progress,2557,48,16576,19181
+Kerala,Pathanamthitta,Pulikeezhu,71781,Kavubhagom,11117185371,100.0,7,2964,2059,8,8,8,8,13,13,13,13,In progress,1054,11,8292,9357
+Kerala,Pathanamthitta,Pulikeezhu,71781,Kadapra,111128262%3A1,100.0,18,8584,6236,16,16,16,16,27,27,26,27,In progress,3251,35,20604,23890
+Kerala,Pathanamthitta,Pulikeezhu,71781,Peringara,11112826311,74.55,8,3950,2998,6,6,6,6,14,14,14,14,In progress,913,29,10434,11376
+Kerala,Pathanamthitta,Pulikeezhu,71781,NEDUMPURAM,11112826331,100.0,16,6034,4920,11,11,10,11,20,20,20,20,In progress,1388,50,15135,16573
+Kerala,Pathanamthitta,Pulikeezhu,71781,Niranam,11112826291,84.4,10,2899,2899,5,5,5,5,14,14,12,14,100% Har Ghar Jal,1239,11,9132,10382
+Kerala,Pathanamthitta,Mallappally,71751,Perumpetty,11112826131,55.0,13,5004,1202,14,14,14,14,19,19,6,19,In progress,1827,38,12781,14646
+Kerala,Pathanamthitta,Mallappally,71751,Kottangal,11112826111,100.0,13,5816,2886,16,16,16,16,19,19,0,19,In progress,1497,46,15613,17156
+Kerala,Pathanamthitta,Mallappally,71751,Kallooppara,11112825%3A81,100.0,14,6167,3677,16,16,14,16,20,20,20,20,In progress,2079,52,14714,16845
+Kerala,Pathanamthitta,Mallappally,71751,Anicad,11112826121,100.0,13,4808,3017,12,12,12,12,17,17,17,17,In progress,1942,96,12380,14418
+Kerala,Pathanamthitta,Mallappally,71751,Kaviyoor,11112825%3A%3A1,100.0,14,6059,4133,16,16,16,16,18,18,18,18,In progress,2869,0,13983,16852
+Kerala,Pathanamthitta,Mallappally,71751,Kunnamthanam,11112825%3A91,55.0,15,7017,4884,11,11,11,11,21,21,21,21,In progress,2857,58,17658,20573
+Kerala,Pathanamthitta,Mallappally,71751,Mallappally,11112825%3A71,55.0,14,6358,4777,17,17,17,17,19,19,17,19,In progress,1620,186,16509,18315
+Kerala,Pathanamthitta,Koipram,71721,Koipuram,11112825851,100.0,17,10733,3479,21,21,16,19,30,30,27,30,In progress,2194,90,24142,26426
+Kerala,Pathanamthitta,Koipram,71721,Ezhumattoor,11112825891,36.31,8,3916,1358,2,2,1,2,14,14,8,14,In progress,1229,63,9304,10596
+Kerala,Pathanamthitta,Koipram,71721,Eraviperoor,11112825861,100.0,17,9189,3227,23,23,18,21,29,29,18,29,In progress,2028,95,23202,25325
+Kerala,Pathanamthitta,Koipram,71721,Puramattam,11112825881,55.0,13,5155,2780,3,3,3,3,17,17,14,17,In progress,1269,26,12774,14069
+Kerala,Pathanamthitta,Koipram,71721,Thottapuzhassery,111128258%3A1,100.0,13,5280,3016,11,11,11,11,21,21,14,20,In progress,664,35,14965,15664
+Kerala,Pathanamthitta,Koipram,71721,Thelliyoor,11117185321,100.0,6,3032,2087,3,3,3,3,9,9,3,9,In progress,611,25,7569,8205
+Kerala,Pathanamthitta,Koipram,71721,Ayiroor,11112825871,100.0,16,7712,6713,15,15,15,15,28,28,26,26,In progress,790,33,20968,21791
+Kerala,Pathanamthitta,Konni,71731,Pramadom,11112825941,24.89,11,7268,1893,13,13,13,13,27,27,27,27,In progress,1750,31,19149,20930
+Kerala,Pathanamthitta,Konni,71731,Vallicode-kottayam,11112825951,100.0,8,4480,1180,3,3,3,3,14,14,14,14,In progress,1869,160,10859,12888
+Kerala,Pathanamthitta,Konni,71731,"Konni Thazham, Malayalapuzha",11117475381,100.0,1,402,129,3,3,3,3,2,2,2,2,In progress,115,1,1290,1406
+Kerala,Pathanamthitta,Konni,71731,MYLAPRA,11112825811,28.35,14,4093,1523,6,6,6,6,14,14,14,14,In progress,1698,12,10722,12432
+Kerala,Pathanamthitta,Konni,71731,Thannithode,11112825921,48.73,12,3316,1256,13,13,13,13,23,23,23,23,In progress,1110,63,12884,14057
+Kerala,Pathanamthitta,Konni,71731,Aruvappulam,111128259%3A1,100.0,11,4422,1818,7,7,7,7,28,28,28,28,In progress,2396,196,12955,15547
+Kerala,Pathanamthitta,Konni,71731,Malayalapuzha,11112825961,29.82,9,3232,1703,13,13,13,13,17,17,17,16,In progress,1591,29,9512,11132
+Kerala,Pathanamthitta,Konni,71731,Vallicode,11112825911,55.0,15,5707,3643,15,15,15,15,29,29,29,29,In progress,3569,41,18341,21951
+Kerala,Pathanamthitta,Konni,71731,Konnithazham,11112825%3A11,100.0,9,3482,2369,7,7,7,7,18,18,18,18,In progress,3340,63,12545,15948
+Kerala,Pathanamthitta,Konni,71731,Iravan,11112825991,64.55,7,2710,2057,3,3,3,3,17,17,17,17,In progress,463,12,9919,10394
+Kerala,Pathanamthitta,Konni,71731,Konni,11112825%3A21,65.16,8,2680,2666,20,20,20,20,14,14,14,14,In progress,738,8,12382,13128
+Kerala,Pathanamthitta,Elamthoor,71711,Cherukole,11112825781,55.0,13,4483,1532,15,15,15,15,20,20,20,20,In progress,688,48,11433,12169
+Kerala,Pathanamthitta,Elamthoor,71711,Naranganam,11112825791,55.0,14,6383,2556,11,11,11,11,18,18,18,18,In progress,1646,144,14668,16458
+Kerala,Pathanamthitta,Elamthoor,71711,Chenneerkara,11112825761,55.0,14,6533,2758,20,20,20,20,22,22,22,21,In progress,3849,25,16463,20337
+Kerala,Pathanamthitta,Elamthoor,71711,Elanthoor,11112825831,55.0,13,5456,2586,10,10,10,10,18,18,18,18,In progress,2729,58,14178,16965
+Kerala,Pathanamthitta,Elamthoor,71711,Omalloor,11112825821,100.0,14,6615,3147,13,13,13,13,19,19,19,19,In progress,2676,49,16598,19323
+Kerala,Pathanamthitta,Elamthoor,71711,Mallapuzhassery,11112825841,55.0,13,4025,2305,11,11,11,11,13,13,13,13,In progress,2091,21,10491,12603
+Kerala,Pathanamthitta,Elamthoor,71711,Kozhenchery,111128257%3A1,55.0,13,4667,2926,12,12,12,12,17,17,17,17,In progress,1354,39,11591,12984
+Kerala,Pathanamthitta,Ranni,71791,CHITTAR-SEETHATHODU,11112826461,100.0,13,4732,190,11,11,11,11,26,26,26,26,In progress,1411,127,14235,15773
+Kerala,Pathanamthitta,Ranni,71791,ATHIKKAYAM,11112826431,100.0,8,2972,501,10,10,10,10,11,11,11,11,In progress,527,852,7700,9079
+Kerala,Pathanamthitta,Ranni,71791,Kollamula,11112826391,100.0,15,7408,2139,16,16,16,16,32,32,32,32,In progress,1776,1220,18084,21080
+Kerala,Pathanamthitta,Ranni,71791,Chittar-seethathodu,11112826441,55.0,13,5984,2227,11,11,11,11,23,23,23,20,In progress,2472,790,13263,16525
+Kerala,Pathanamthitta,Ranni,71791,Pazhavangadi,11112826361,100.0,11,5458,2385,12,12,12,12,28,28,28,28,In progress,1247,307,14679,16233
+Kerala,Pathanamthitta,Ranni,71791,Chethakkal,11112826351,35.79,15,6703,2942,28,28,28,28,27,27,27,27,In progress,1778,390,18072,20240
+Kerala,Pathanamthitta,Ranni,71791,Vadasserikkara,11112826471,100.0,15,7421,3521,24,24,24,24,32,32,32,32,In progress,2557,197,19001,21755
+Kerala,Pathanamthitta,Ranni,71791,Perunad,111128263%3A1,100.0,11,5591,2716,13,13,13,13,22,22,22,22,In progress,1877,667,12934,15478
+Kerala,Pathanamthitta,Ranni,71791,Ranny-angadi,11112826371,100.0,13,5130,3286,14,14,14,14,21,21,21,21,In progress,810,33,14005,14848
+Kerala,Pathanamthitta,Ranni,71791,Ranni,11112826341,100.0,13,4983,3418,11,11,11,11,18,18,18,18,In progress,1132,106,12207,13445
+Kerala,Pathanamthitta,Pandalam,71761,Kidangannur,11112825%3A51,100.0,3,1656,188,1,1,1,1,0,0,0,0,In progress,1477,22,3783,5282
+Kerala,Pathanamthitta,Pandalam,71761,Pandalam-thekkekara,11112826171,55.0,15,6756,1066,15,15,11,15,21,21,20,21,In progress,4454,41,16053,20548
+Kerala,Pathanamthitta,Pandalam,71761,Thumpamon,111174%3A6%3A21,100.0,13,2999,953,9,9,6,9,10,10,10,10,In progress,1905,4,6940,8849
+Kerala,Pathanamthitta,Pandalam,71761,Kulanada,11112825%3A61,55.0,16,8189,2974,19,19,4,19,31,31,31,31,In progress,4479,47,20359,24885
+Kerala,Pathanamthitta,Pandalam,71761,Aranmula,11112825%3A41,11.23,15,8768,3706,22,22,22,22,39,39,39,39,In progress,5724,50,19447,25221
+Kerala,Pathanamthitta,Pandalam,71761,Mezhuveli,11112825771,22.71,11,4645,1978,10,10,8,10,22,22,22,22,In progress,3112,31,10985,14128
+Kerala,Pathanamthitta,Parakkode,71771,Koodal,11112826281,100.0,17,9904,623,6,6,6,6,25,25,25,25,In progress,4033,77,24203,28313
+Kerala,Pathanamthitta,Parakkode,71771,Pallickal,11112826211,97.06,12,7246,851,10,10,10,10,20,20,4,18,In progress,4214,83,18695,22992
+Kerala,Pathanamthitta,Parakkode,71771,Peringanadu,11112826221,100.0,12,8069,1075,11,11,11,10,20,20,8,18,In progress,4949,41,18787,23777
+Kerala,Pathanamthitta,Parakkode,71771,Kalanjoor,11112826271,49.83,3,1859,301,10,10,10,10,4,4,4,4,In progress,1069,1,4613,5683
+Kerala,Pathanamthitta,Parakkode,71771,Angadickal,11112826251,56.41,8,3365,951,2,2,2,2,11,11,11,11,In progress,2686,76,9921,12683
+Kerala,Pathanamthitta,Parakkode,71771,Enadimangalam,11112826181,55.0,15,8513,2408,16,16,16,16,21,21,9,21,In progress,6003,53,18320,24376
+Kerala,Pathanamthitta,Parakkode,71771,Erathu,11112826231,100.0,17,9429,3030,14,14,14,14,25,25,11,16,In progress,5305,88,22663,28056
+Kerala,Pathanamthitta,Parakkode,71771,Ezhamkulam,111128261%3A1,55.0,12,6959,2318,11,11,11,11,20,20,10,16,In progress,3340,38,16032,19410
+Kerala,Pathanamthitta,Parakkode,71771,Enathu,11112826191,92.41,8,4874,1856,11,11,11,11,13,13,6,12,In progress,2459,32,10893,13384
+Kerala,Pathanamthitta,Parakkode,71771,Kadampanadu,11112826241,100.0,17,7424,3460,16,16,16,16,24,24,7,21,In progress,4927,20,23588,28535
+Kerala,Pathanamthitta,Parakkode,71771,Kodumon,11112826261,100.0,9,3288,1656,0,0,0,0,17,17,17,17,In progress,4290,8,10142,14440
+Kerala,Thiruvananthapuram,Chirayinkil,71811,Ilamba,11112827571,40.0,10,5735,3846,5,5,5,5,19,19,19,19,In progress,3773,30,17130,20933
+Kerala,Thiruvananthapuram,Chirayinkil,71811,Azhoor,11112827591,100.0,18,8881,6175,11,11,11,11,25,25,1,25,In progress,5270,50,23000,28320
+Kerala,Thiruvananthapuram,Chirayinkil,71811,Kizhuvillom,111128275%3A1,100.0,20,10388,8804,22,19,7,19,25,25,4,25,In progress,6856,37,27860,34753
+Kerala,Thiruvananthapuram,Chirayinkil,71811,Edakkode,11112827561,40.0,5,2320,2067,6,6,6,6,12,12,12,12,In progress,2147,5,6278,8430
+Kerala,Thiruvananthapuram,Chirayinkil,71811,Vakkom,11112827631,100.0,14,4566,4277,12,12,12,12,19,19,8,19,In progress,1908,19,16266,18193
+Kerala,Thiruvananthapuram,Chirayinkil,71811,Sarkara,11112827581,100.0,19,8275,7824,34,34,34,34,34,34,34,33,In progress,5252,32,26710,31994
+Kerala,Thiruvananthapuram,Chirayinkil,71811,Attingal-avanavancherry,11117184491,100.0,5,2330,2299,1,1,1,1,9,9,9,9,In progress,1796,18,6590,8404
+Kerala,Thiruvananthapuram,Chirayinkil,71811,Kadakkavoor,11112827641,50.69,7,3010,3010,9,9,7,9,10,10,0,10,100% Har Ghar Jal,1970,14,8491,10475
+Kerala,Thiruvananthapuram,Chirayinkil,71811,Kizhattingal,11117184481,100.0,9,3906,3906,4,4,2,4,12,12,7,12,100% Har Ghar Jal,2673,20,11741,14434
+Kerala,Thiruvananthapuram,Chirayinkil,71811,Anchuthengu,11112827621,100.0,14,4184,4184,8,8,8,8,23,23,0,23,100% Har Ghar Jal,1780,804,16423,19007
+Kerala,Thiruvananthapuram,Varkkala,718%3A1,Ottoor,11112827431,100.0,13,4616,3361,8,8,4,8,17,17,5,5,In progress,3138,33,14891,18062
+Kerala,Thiruvananthapuram,Varkkala,718%3A1,Vettoor-cherunniyoor,11117185781,100.0,14,5052,3798,10,10,8,10,18,18,11,17,In progress,4611,53,15584,20248
+Kerala,Thiruvananthapuram,Varkkala,718%3A1,Manamboor,11112827451,100.0,16,6035,4568,8,8,8,8,23,23,6,9,In progress,4158,68,20512,24738
+Kerala,Thiruvananthapuram,Varkkala,718%3A1,Chemmaruthy,11112827411,100.0,19,8586,6705,10,10,7,10,31,31,21,11,In progress,7725,67,26774,34566
+Kerala,Thiruvananthapuram,Varkkala,718%3A1,Vettoor-cherunniyoor,11117185811,100.0,14,4547,3967,9,9,8,9,20,20,20,20,In progress,2187,47,18160,20394
+Kerala,Thiruvananthapuram,Varkkala,718%3A1,Edava,11112827421,100.0,17,6372,5625,12,11,11,11,25,25,15,12,In progress,2571,57,25395,28023
+Kerala,Thiruvananthapuram,Varkkala,718%3A1,Ayiroor,111171857%3A1,100.0,16,6913,6178,14,14,9,14,24,24,8,8,In progress,4395,20,23010,27425
+Kerala,Thiruvananthapuram,Nemom,71851,Malayinkeezhu,11117185671,55.0,20,16888,8014,27,27,27,27,35,35,34,35,In progress,3819,121,34813,38753
+Kerala,Thiruvananthapuram,Nemom,71851,Maranalloor,11117185681,100.0,21,14829,9276,20,20,20,20,41,41,41,41,In progress,5648,130,32768,38546
+Kerala,Thiruvananthapuram,Nemom,71851,Athiyannur,11117185631,43.84,10,5929,3876,7,7,7,7,26,26,26,26,In progress,2547,34,15917,18498
+Kerala,Thiruvananthapuram,Nemom,71851,Kottukal,11117185641,100.0,7,4031,2775,2,2,2,2,12,12,12,12,In progress,866,9,11473,12348
+Kerala,Thiruvananthapuram,Nemom,71851,Pallichal,11112827%3A51,55.0,23,16741,11907,16,16,16,16,42,42,42,42,In progress,6700,80,40689,47469
+Kerala,Thiruvananthapuram,Nemom,71851,Vilavoorkkal,11112827%3A81,100.0,17,12991,9928,12,12,12,12,30,30,30,30,In progress,2562,78,30383,33023
+Kerala,Thiruvananthapuram,Nemom,71851,Vilappil,11112827%3A71,100.0,20,15212,12432,13,13,13,13,39,39,39,39,In progress,3561,334,44920,48815
+Kerala,Thiruvananthapuram,Nemom,71851,Kalliyoor,11112827%3A41,55.0,21,12075,12075,12,12,12,12,35,35,30,34,100% Har Ghar Jal,6919,149,39192,46260
+Kerala,Thiruvananthapuram,Nedumangad,71841,Anad,11112827881,100.0,19,8801,2027,14,14,14,13,31,31,17,11,In progress,2704,125,30619,33448
+Kerala,Thiruvananthapuram,Nedumangad,71841,Theakada,11112827931,100.0,7,3800,2494,6,6,6,6,17,17,10,13,In progress,1551,20,14010,15581
+Kerala,Thiruvananthapuram,Nedumangad,71841,Vembayam,11112827921,49.46,12,6436,4332,7,7,7,6,16,16,14,10,In progress,2058,241,24333,26632
+Kerala,Thiruvananthapuram,Nedumangad,71841,Vattappara,111128278%3A1,100.0,10,5621,4106,5,5,5,5,14,14,10,11,In progress,2582,97,20258,22937
+Kerala,Thiruvananthapuram,Nedumangad,71841,Karakulam,11112827891,41.52,15,10030,7891,14,14,14,13,34,34,27,21,In progress,2710,132,33820,36662
+Kerala,Thiruvananthapuram,Nedumangad,71841,Panavoor,11112827911,100.0,15,7303,5975,8,8,8,7,22,22,22,16,In progress,2830,1090,25387,29307
+Kerala,Thiruvananthapuram,Nedumangad,71841,Aruvikkara,11112827871,100.0,20,11248,9388,12,12,12,12,34,34,25,23,In progress,2303,163,32687,35153
+Kerala,Thiruvananthapuram,Pothencodu,71821,Pallipuram,111171844%3A1,100.0,11,4888,2327,10,10,10,10,18,18,17,14,In progress,4190,25,17612,21827
+Kerala,Thiruvananthapuram,Pothencodu,71821,Kazhakuttam-menamkulam,11117184511,100.0,7,3680,1792,9,9,8,9,13,13,13,13,In progress,1498,28,13986,15512
+Kerala,Thiruvananthapuram,Pothencodu,71821,Keezhthonnakkal,11112827951,47.44,7,3086,1776,5,5,5,5,14,14,14,12,In progress,1259,23,10011,11293
+Kerala,Thiruvananthapuram,Pothencodu,71821,Melthonnakkal,11112827991,100.0,11,5894,3589,12,12,12,12,21,21,21,15,In progress,3248,142,19911,23301
+Kerala,Thiruvananthapuram,Pothencodu,71821,Iroopara,11112827961,40.0,2,783,566,4,4,4,4,4,4,4,3,In progress,111,2,3028,3141
+Kerala,Thiruvananthapuram,Pothencodu,71821,Kadinamkulam,11112827971,56.77,16,7448,5435,15,15,15,15,37,37,37,33,In progress,2418,77,30269,32764
+Kerala,Thiruvananthapuram,Pothencodu,71821,Andoorkonam,11112827941,40.93,12,5455,4129,9,9,9,9,20,20,19,16,In progress,2836,120,17908,20864
+Kerala,Thiruvananthapuram,Pothencodu,71821,Veiloor,111128279%3A1,100.0,13,5822,4790,9,9,9,9,24,24,24,18,In progress,4706,44,18691,23441
+Kerala,Thiruvananthapuram,Athiyannoor,717%3A1,Venganoor,11112828241,100.0,20,15777,7697,38,38,38,38,34,34,34,33,In progress,6669,86,31215,37970
+Kerala,Thiruvananthapuram,Athiyannoor,717%3A1,Kottukal,11112828221,100.0,22,16741,8258,27,27,25,26,38,38,37,38,In progress,4717,83,38465,43265
+Kerala,Thiruvananthapuram,Athiyannoor,717%3A1,Athiyannur,11112828231,100.0,17,9720,6721,20,20,20,20,28,28,25,22,In progress,3729,47,24939,28715
+Kerala,Thiruvananthapuram,Athiyannoor,717%3A1,Karumkulam,11112828251,100.0,18,7691,6220,12,12,11,11,29,29,28,29,In progress,1802,13,30286,32101
+Kerala,Thiruvananthapuram,Athiyannoor,717%3A1,KANJIRAMKULAM,111128281%3A1,100.0,14,6897,6189,16,16,15,16,18,18,18,17,In progress,1645,17,18628,20290
+Kerala,Thiruvananthapuram,Perumkadavila,71871,Keezharur,11112828141,100.0,16,7918,1246,13,13,13,13,31,31,13,8,In progress,2483,77,23051,25611
+Kerala,Thiruvananthapuram,Perumkadavila,71871,Ottasekharamangalam,11112828161,100.0,14,6696,2867,12,12,12,12,22,22,11,7,In progress,2158,152,18473,20783
+Kerala,Thiruvananthapuram,Perumkadavila,71871,Anavoor,11112828191,100.0,10,5978,3422,4,2,2,2,16,16,10,11,In progress,1645,64,19745,21454
+Kerala,Thiruvananthapuram,Perumkadavila,71871,Kollayil,11112828311,100.0,16,9157,5307,15,15,12,15,32,32,18,15,In progress,4000,21,22521,26542
+Kerala,Thiruvananthapuram,Perumkadavila,71871,Vazhichal,11112828131,100.0,6,2662,1596,7,7,5,6,19,19,10,14,In progress,367,871,5807,7045
+Kerala,Thiruvananthapuram,Perumkadavila,71871,Amboori,11112828111,47.23,9,4122,2648,4,4,4,4,11,11,5,8,In progress,700,197,11067,11964
+Kerala,Thiruvananthapuram,Perumkadavila,71871,Perumkadavila,11112828171,100.0,16,7894,5387,7,7,7,7,25,25,15,12,In progress,2248,34,22553,24835
+Kerala,Thiruvananthapuram,Perumkadavila,71871,Vellarada,11112828151,54.49,18,9284,6442,10,10,10,10,29,29,16,14,In progress,1839,282,29777,31898
+Kerala,Thiruvananthapuram,Perumkadavila,71871,Kunnathukal,11112828181,49.57,16,10292,7442,17,11,7,11,34,34,23,23,In progress,2967,49,26353,29369
+Kerala,Thiruvananthapuram,Perumkadavila,71871,KALLIKKAD,11112828121,47.36,11,3932,3310,11,11,10,10,16,16,14,15,In progress,821,744,11421,12986
+Kerala,Thiruvananthapuram,KILIMANOOR,71831,Pulimath,11112827551,40.0,13,5903,1071,15,15,15,15,21,21,11,5,In progress,3912,156,18275,22343
+Kerala,Thiruvananthapuram,KILIMANOOR,71831,Vellalloor,11112827521,100.0,6,2457,522,4,4,4,4,11,11,5,4,In progress,1979,6,7159,9144
+Kerala,Thiruvananthapuram,KILIMANOOR,71831,Nagaroor,11112827511,40.0,11,4824,1128,7,7,7,7,19,19,8,3,In progress,3274,52,15242,18568
+Kerala,Thiruvananthapuram,KILIMANOOR,71831,Koduvazhannur,11117185541,100.0,6,3147,1010,2,2,2,2,12,12,7,3,In progress,2012,9,9529,11550
+Kerala,Thiruvananthapuram,KILIMANOOR,71831,Pazhayakunnummel,111128274%3A1,100.0,17,6966,3802,14,14,14,14,27,27,13,7,In progress,5324,120,20574,26018
+Kerala,Thiruvananthapuram,KILIMANOOR,71831,Pallickal,11112827541,100.0,13,4584,2971,9,9,9,8,18,18,9,1,In progress,2092,37,16051,18180
+Kerala,Thiruvananthapuram,KILIMANOOR,71831,Alamcode,11117185481,55.0,3,1350,962,5,5,5,5,6,6,3,0,In progress,1009,7,4165,5181
+Kerala,Thiruvananthapuram,KILIMANOOR,71831,Karavaram,11112827531,38.78,15,6732,4889,11,11,11,11,26,26,1,1,In progress,4420,53,23151,27624
+Kerala,Thiruvananthapuram,KILIMANOOR,71831,Navaikulam,11112827471,36.08,12,5931,4447,12,12,12,12,20,20,10,3,In progress,3841,79,19828,23748
+Kerala,Thiruvananthapuram,KILIMANOOR,71831,Madavoor,11112827481,100.0,15,5791,4361,9,9,9,9,22,22,7,4,In progress,3206,20,20020,23246
+Kerala,Thiruvananthapuram,KILIMANOOR,71831,Kudavoor,11117185521,100.0,10,4743,3656,4,4,4,4,21,21,9,4,In progress,3262,63,15419,18744
+Kerala,Thiruvananthapuram,KILIMANOOR,71831,Kilimanoor,11112827491,40.0,15,5717,4516,17,17,16,17,23,23,10,6,In progress,4198,21,17496,21715
+Kerala,Thiruvananthapuram,Vamanapuram,71891,Thennoor,11112827681,100.0,6,2238,268,9,9,9,9,10,10,4,5,In progress,1082,711,7140,8933
+Kerala,Thiruvananthapuram,Vamanapuram,71891,Peringamala,11112827671,10.17,14,6644,1314,19,19,15,19,27,27,6,23,In progress,3357,1131,21897,26385
+Kerala,Thiruvananthapuram,Vamanapuram,71891,Kurupuzha,11117185761,100.0,6,2733,599,3,3,3,3,11,11,3,5,In progress,891,1385,8088,10364
+Kerala,Thiruvananthapuram,Vamanapuram,71891,Koliyakode,11112827711,14.94,11,6027,2076,7,7,7,7,17,17,4,14,In progress,3438,40,20288,23766
+Kerala,Thiruvananthapuram,Vamanapuram,71891,Palode,11112827731,11.0,11,5765,2331,11,11,11,11,19,19,11,7,In progress,2358,885,18531,21774
+Kerala,Thiruvananthapuram,Vamanapuram,71891,Vamanapuram,11112827691,55.0,15,8283,3396,8,8,8,8,17,17,14,16,In progress,2116,44,20678,22838
+Kerala,Thiruvananthapuram,Vamanapuram,71891,Manikkal,111128276%3A1,23.18,10,5257,2308,7,7,7,6,17,17,8,14,In progress,2218,113,18209,20540
+Kerala,Thiruvananthapuram,Vamanapuram,71891,Pangode,11112827651,47.81,19,9718,6922,9,9,9,8,32,32,23,17,In progress,4985,881,32721,38587
+Kerala,Thiruvananthapuram,Vamanapuram,71891,Pullampara,11112827751,55.0,15,7476,6023,10,10,10,10,25,25,16,17,In progress,4433,207,24736,29376
+Kerala,Thiruvananthapuram,Vamanapuram,71891,Kallara,11112827661,55.0,17,8951,7679,13,13,13,13,28,28,20,9,In progress,3632,101,30259,33992
+Kerala,Thiruvananthapuram,Vamanapuram,71891,Nellanad,11112827741,100.0,16,7985,6882,6,6,6,6,24,24,9,11,In progress,4006,58,23769,27833
+Kerala,Thiruvananthapuram,Vellanad,71911,Mannoorkara,11112827861,100.0,14,6865,2033,13,13,13,13,24,24,22,18,In progress,2322,1886,21837,26045
+Kerala,Thiruvananthapuram,Vellanad,71911,ARYANAD,11112827831,100.0,18,11602,4337,13,13,13,13,33,33,25,25,In progress,3894,1034,30070,34998
+Kerala,Thiruvananthapuram,Vellanad,71911,Uzhamalakkal,11112827781,55.0,15,8131,3617,12,12,12,12,24,24,12,4,In progress,2256,178,26471,28905
+Kerala,Thiruvananthapuram,Vellanad,71911,Perumkulam,11112827841,100.0,17,10224,4951,11,11,11,11,27,27,27,26,In progress,2185,592,35141,37918
+Kerala,Thiruvananthapuram,Vellanad,71911,Veeranakavu,11112827851,55.0,13,7737,3937,11,11,11,11,24,24,24,24,In progress,3450,160,25628,29238
+Kerala,Thiruvananthapuram,Vellanad,71911,Tholicode,11112827771,100.0,20,10922,5718,19,19,19,19,26,26,17,9,In progress,2426,3274,39172,44872
+Kerala,Thiruvananthapuram,Vellanad,71911,Vithura,11112827791,55.0,13,6161,4042,11,11,11,11,32,32,32,31,In progress,2674,3495,17659,23828
+Kerala,Thiruvananthapuram,Vellanad,71911,Kulathummal,11112827761,55.0,21,14457,9508,15,15,15,15,38,38,26,24,In progress,4521,147,37258,41926
+Kerala,Thiruvananthapuram,Vellanad,71911,Vellanad,11112827821,56.04,11,7922,6563,13,13,13,13,20,20,11,11,In progress,1770,556,22305,24631
+Kerala,Thiruvananthapuram,Parassala,71861,Karode,11112828271,55.0,19,11878,319,9,2,1,2,34,34,23,6,In progress,2453,58,30646,33157
+Kerala,Thiruvananthapuram,Parassala,71861,Kulathoor,11112828281,55.0,20,9989,1337,15,15,14,15,33,33,24,17,In progress,2361,38,30985,33384
+Kerala,Thiruvananthapuram,Parassala,71861,Chenkal,11112828291,100.0,21,12759,2708,0,0,0,0,35,35,28,4,In progress,3962,67,34011,38040
+Kerala,Thiruvananthapuram,Parassala,71861,Parassala,111128282%3A1,55.0,14,11739,3336,27,15,12,15,33,33,10,13,In progress,2999,75,30444,33518
+Kerala,Thiruvananthapuram,Parassala,71861,Parasuvaikkal,11117185691,100.0,9,6964,4012,2,0,0,0,18,18,15,13,In progress,3457,42,16205,19704
+Kerala,Thiruvananthapuram,Parassala,71861,Thirupuram,11112828321,100.0,15,5906,4713,10,10,10,10,31,31,7,4,In progress,2601,23,18507,21131
+Kerala,Thiruvananthapuram,Parassala,71861,Thirupuram,11112828261,100.0,14,5382,5382,10,10,10,10,22,22,13,7,100% Har Ghar Jal,1433,90,21685,23208
+Kerala,Thrissur,Cherpu,71951,Pallissery,11117794541,100.0,6,2538,1098,1,1,1,1,3,3,3,3,In progress,635,4,9862,10501
+Kerala,Thrissur,Cherpu,71951,Paralam,1111281%3A221,55.0,7,2398,1044,7,7,7,7,8,8,8,8,In progress,1332,17,10862,12211
+Kerala,Thrissur,Cherpu,71951,Venginissery,1111281%3A231,55.0,3,1207,645,1,1,1,1,5,5,5,5,In progress,730,26,4440,5196
+Kerala,Thrissur,Cherpu,71951,Pallippuram,1111281%3A211,55.0,1,433,233,1,1,1,1,3,3,3,3,In progress,346,0,1323,1669
+Kerala,Thrissur,Cherpu,71951,Kodannur,1111281%3A241,100.0,4,1385,799,0,0,0,0,8,8,8,8,In progress,1000,0,5818,6818
+Kerala,Thrissur,Cherpu,71951,Avinissery,11117794451,55.0,8,3099,1958,3,3,3,3,16,16,16,16,In progress,1023,27,11882,12932
+Kerala,Thrissur,Cherpu,71951,Arattupuzha,1111281%3A291,55.0,4,2090,1797,2,2,2,2,9,9,9,9,In progress,1539,9,3643,5191
+Kerala,Thrissur,Cherpu,71951,Chevoor,11117475111,100.0,7,3210,2891,2,2,2,2,9,8,8,8,In progress,1655,113,11491,13259
+Kerala,Thrissur,Cherpu,71951,Vallachira,11117631481,70.0,10,2237,2237,5,5,5,5,11,11,11,11,100% Har Ghar Jal,2339,9,18571,20919
+Kerala,Thrissur,Cherpu,71951,Oorakam,1111281%3A251,55.0,3,1535,1535,3,2,2,2,15,14,14,14,100% Har Ghar Jal,985,7,4516,5508
+Kerala,Thrissur,Cherpu,71951,Cherpu,1111281%3A271,55.0,11,3803,3803,13,12,12,12,19,17,17,17,100% Har Ghar Jal,2738,12,17970,20720
+Kerala,Thrissur,MATHILAKOM,71%3A11,Panangad,1111281%3A741,23.02,8,3823,1528,5,5,5,5,13,13,13,13,In progress,2058,8,12906,14972
+Kerala,Thrissur,MATHILAKOM,71%3A11,Kaipamangalm,1111281%3A781,100.0,20,9000,4015,13,13,13,11,33,33,33,33,In progress,3444,82,33289,36815
+Kerala,Thrissur,MATHILAKOM,71%3A11,West Vemballur,1111281%3A761,22.61,8,3943,1808,8,8,8,8,14,14,14,14,In progress,1185,18,15148,16351
+Kerala,Thrissur,MATHILAKOM,71%3A11,Pappinivattom,11117187%3A%3A1,100.0,9,4089,1986,11,11,11,11,17,17,17,17,In progress,2143,42,14318,16503
+Kerala,Thrissur,MATHILAKOM,71%3A11,Ala,1111281%3A771,100.0,5,1980,1029,8,8,8,8,9,9,9,9,In progress,846,8,6251,7105
+Kerala,Thrissur,MATHILAKOM,71%3A11,Perinjanam,1111281%3A791,100.0,15,5679,2990,10,10,10,10,23,23,23,23,In progress,2745,75,18954,21774
+Kerala,Thrissur,MATHILAKOM,71%3A11,EDATHIRUTHY,1111281%3A731,100.0,8,3391,1852,9,9,9,9,19,19,19,19,In progress,2691,39,12252,14982
+Kerala,Thrissur,MATHILAKOM,71%3A11,CHENDRAPPINI,1111281%3A721,24.12,10,4231,2858,8,8,8,8,11,11,11,11,In progress,2401,42,14769,17212
+Kerala,Thrissur,MATHILAKOM,71%3A11,Koolimuttam,11117187%3A91,42.84,8,3288,2619,5,5,5,5,12,12,12,12,In progress,817,39,11967,12823
+Kerala,Thrissur,MATHILAKOM,71%3A11,Eriyad,11117631731,70.0,13,6686,6686,6,6,6,6,26,26,26,26,100% Har Ghar Jal,1859,53,26531,28443
+Kerala,Thrissur,MATHILAKOM,71%3A11,AZHIKODE,11112821%3A91,49.98,10,6026,6026,5,5,5,5,20,20,20,20,100% Har Ghar Jal,878,19,18974,19871
+Kerala,Thrissur,MATHILAKOM,71%3A11,EDAVILANGU,11112821%3A%3A1,55.0,14,5512,5512,6,6,6,6,21,21,21,21,100% Har Ghar Jal,1309,68,20083,21460
+Kerala,Thrissur,Vellangalloor,71%3A71,Kottanellur,11112821591,100.0,7,3008,21,4,4,4,4,12,12,11,6,In progress,1716,17,9762,11495
+Kerala,Thrissur,Vellangalloor,71%3A71,Kaduppassery,11112821571,45.63,5,2476,89,4,4,4,4,6,6,4,3,In progress,1250,5,8265,9520
+Kerala,Thrissur,Vellangalloor,71%3A71,Vellookkara,11112821581,70.0,6,2446,90,5,5,5,5,9,9,8,7,In progress,2044,42,7717,9803
+Kerala,Thrissur,Vellangalloor,71%3A71,Thekkumkara,11112821561,55.0,8,4188,2952,2,0,0,0,14,14,14,14,In progress,2331,22,14045,16398
+Kerala,Thrissur,Vellangalloor,71%3A71,Karumathra,11112821531,68.53,5,2291,1647,0,0,0,0,6,6,6,6,In progress,863,14,8264,9141
+Kerala,Thrissur,Vellangalloor,71%3A71,Puthenchira,11112821521,70.0,15,6118,4553,9,9,9,9,19,19,19,19,In progress,3135,31,20446,23612
+Kerala,Thrissur,Vellangalloor,71%3A71,Vadakkumkara,11112821551,68.29,5,2394,1960,0,0,0,0,8,8,8,8,In progress,874,17,8281,9172
+Kerala,Thrissur,Vellangalloor,71%3A71,Vallivattom,11112821541,70.62,3,1748,1448,0,0,0,0,5,5,5,5,In progress,776,2,4544,5322
+Kerala,Thrissur,Vellangalloor,71%3A71,Poomangalam,11112821511,100.0,13,3551,3264,8,8,8,8,11,11,11,11,In progress,2783,3,10867,13653
+Kerala,Thrissur,Vellangalloor,71%3A71,Padiyur,11112821491,41.49,6,2615,2615,4,4,2,4,8,8,8,8,100% Har Ghar Jal,1282,23,7812,9117
+Kerala,Thrissur,Vellangalloor,71%3A71,Edathirinji,111128214%3A1,55.0,8,3111,3111,3,3,2,3,12,12,12,12,100% Har Ghar Jal,1133,27,10253,11413
+Kerala,Thrissur,MALA,719%3A1,KALLETTUMKARA,1111281%3A671,37.84,7,3251,943,4,4,4,4,11,11,11,11,In progress,1980,9,11649,13638
+Kerala,Thrissur,MALA,719%3A1,ALUR,1111281%3A661,54.07,11,5321,1853,9,9,9,9,20,20,20,20,In progress,2094,15,18926,21035
+Kerala,Thrissur,MALA,719%3A1,THAZHEKKAD,1111281%3A681,100.0,5,2888,1171,5,5,5,5,15,10,10,10,In progress,1346,30,9995,11371
+Kerala,Thrissur,MALA,719%3A1,Alathur,1111281%3A591,55.0,6,2895,1182,4,4,4,4,11,11,11,11,In progress,1553,3,9875,11431
+Kerala,Thrissur,MALA,719%3A1,Annallur,1111281%3A691,28.19,3,1502,751,1,1,1,1,3,3,3,3,In progress,666,4,5342,6012
+Kerala,Thrissur,MALA,719%3A1,Kallur Thekkummuri,1111281%3A5%3A1,70.0,12,5434,2768,1,1,1,1,20,20,20,20,In progress,2215,18,18913,21146
+Kerala,Thrissur,MALA,719%3A1,Thirumukkulam,1111281%3A611,38.31,7,3035,1631,1,1,1,1,11,11,11,11,In progress,1464,0,10803,12267
+Kerala,Thrissur,MALA,719%3A1,Kakkulissery,1111281%3A621,100.0,7,2818,1758,6,6,6,6,8,8,8,8,In progress,652,5,10608,11265
+Kerala,Thrissur,MALA,719%3A1,Kuruvilassery,1111281%3A6%3A1,27.36,5,2581,1687,3,3,3,3,7,7,7,7,In progress,1052,20,9253,10325
+Kerala,Thrissur,MALA,719%3A1,Vadakkumbhagam,11117187%3A81,55.0,4,1798,1267,3,3,3,3,7,7,7,7,In progress,1335,1,5856,7192
+Kerala,Thrissur,MALA,719%3A1,Vadama,1111281%3A711,30.79,8,3626,2664,9,9,9,9,13,13,13,13,In progress,1623,6,13049,14678
+Kerala,Thrissur,MALA,719%3A1,Pallippuram,1111281%3A641,27.1,5,2492,1962,1,1,1,1,12,12,12,12,In progress,680,5,9796,10481
+Kerala,Thrissur,MALA,719%3A1,Poyya,1111281%3A631,31.77,8,3539,2791,5,5,5,5,11,11,11,11,In progress,1688,20,12593,14301
+Kerala,Thrissur,MALA,719%3A1,Madathumpady,1111281%3A651,55.0,2,788,631,2,2,2,2,1,1,1,1,In progress,450,15,2687,3152
+Kerala,Thrissur,Anthikkad,71921,Thanniyam,11112819%3A81,25.0,9,3983,1229,8,8,8,8,17,15,15,15,In progress,2414,18,13380,15812
+Kerala,Thrissur,Anthikkad,71921,Pullu,111128199%3A1,25.0,1,419,144,1,1,1,1,3,3,3,3,In progress,423,0,1300,1723
+Kerala,Thrissur,Anthikkad,71921,Kizhuppillikkara,11112819%3A71,25.0,2,821,291,4,4,4,4,3,3,3,3,In progress,791,0,2583,3374
+Kerala,Thrissur,Anthikkad,71921,VADAKKUMMURI,11112819%3A91,100.0,4,1555,614,0,0,0,0,8,7,7,7,In progress,870,5,5555,6430
+Kerala,Thrissur,Anthikkad,71921,Kizhakkummuri,11112819%3A61,25.0,3,1358,548,0,0,0,0,3,3,3,3,In progress,761,10,4613,5384
+Kerala,Thrissur,Anthikkad,71921,Alappad,11112819991,25.0,2,860,359,1,1,1,1,4,4,4,4,In progress,568,4,2863,3435
+Kerala,Thrissur,Anthikkad,71921,Kurumpilavu,11112819%3A11,100.0,5,2146,912,2,2,2,2,9,9,9,9,In progress,1213,4,7508,8725
+Kerala,Thrissur,Anthikkad,71921,Chazhoor,11112819981,25.0,9,3909,2085,6,6,6,6,10,10,10,10,In progress,2612,27,13103,15742
+Kerala,Thrissur,Anthikkad,71921,Manalur,11112819%3A31,55.0,11,5187,3020,7,7,7,7,19,19,19,19,In progress,2672,23,18271,20966
+Kerala,Thrissur,Anthikkad,71921,Karamuck,11112819%3A21,70.0,8,3428,2194,6,6,6,6,13,13,13,13,In progress,1596,2,11965,13563
+Kerala,Thrissur,Anthikkad,71921,Inchamudi,11112819971,25.0,1,399,256,0,0,0,0,4,4,4,4,In progress,459,0,1180,1639
+Kerala,Thrissur,Anthikkad,71921,Anthikkad,11112819%3A41,25.0,7,2748,1829,6,6,6,6,14,14,14,14,In progress,1365,42,9795,11202
+Kerala,Thrissur,Anthikkad,71921,Padiyam,11112819%3A51,100.0,8,2931,2098,1,1,1,1,8,8,8,8,In progress,1118,13,11123,12254
+Kerala,Thrissur,Chavakkad,71941,Edakkazhiyur,11112821971,55.0,4,1459,354,3,3,3,3,6,6,3,6,In progress,654,26,6131,6811
+Kerala,Thrissur,Chavakkad,71941,Punnayur,11112821961,39.38,16,6474,1747,10,10,10,10,27,27,7,25,In progress,1810,43,29990,31843
+Kerala,Thrissur,Chavakkad,71941,Punnayurkulam,11112821%3A21,100.0,19,7195,3321,14,14,14,14,32,32,7,30,In progress,2207,53,32962,35222
+Kerala,Thrissur,Chavakkad,71941,Kadappuram,11112821%3A11,40.0,16,4884,2966,10,10,10,10,29,29,29,29,In progress,695,31,24782,25508
+Kerala,Thrissur,Chavakkad,71941,Vadakkekad,11112821%3A41,38.41,11,4220,2732,7,7,7,7,18,18,7,18,In progress,836,12,18544,19392
+Kerala,Thrissur,Chavakkad,71941,Vylathur,11112821%3A51,55.0,5,1926,1325,5,5,5,5,5,5,5,5,In progress,434,13,8011,8458
+Kerala,Thrissur,Chavakkad,71941,Orumanayur,11112821%3A71,100.0,13,2772,2462,4,4,4,4,14,14,14,14,In progress,1219,23,12656,13898
+Kerala,Thrissur,Kodakara,71981,Nandipulam,11112819931,36.24,3,1643,482,1,1,1,1,2,2,2,2,In progress,364,11,5962,6337
+Kerala,Thrissur,Kodakara,71981,Trikkur,11112819961,33.76,2,645,212,4,4,4,4,0,0,0,0,In progress,231,3,2469,2703
+Kerala,Thrissur,Kodakara,71981,VELLIKULANGARA,11112819911,55.0,9,4813,1709,12,12,12,12,16,16,16,16,In progress,1619,431,16901,18951
+Kerala,Thrissur,Kodakara,71981,Nenmanikkara,11117579431,100.0,13,4960,1982,5,5,4,4,20,20,20,20,In progress,2108,39,18270,20417
+Kerala,Thrissur,Kodakara,71981,MATTATHUR,111128198%3A1,49.32,14,7895,3319,6,6,6,6,33,32,32,32,In progress,3781,53,27164,30998
+Kerala,Thrissur,Kodakara,71981,KODAKARA,11112819861,55.0,19,8448,3649,10,10,10,10,32,32,32,32,In progress,4061,30,29781,33872
+Kerala,Thrissur,Kodakara,71981,Mupliyam,11112819921,56.86,5,2359,1022,2,2,2,2,9,9,9,9,In progress,616,13,8721,9350
+Kerala,Thrissur,Kodakara,71981,Chengallur,11112819851,45.23,7,3105,1416,2,2,2,2,11,11,11,11,In progress,2171,15,10121,12307
+Kerala,Thrissur,Kodakara,71981,Trikkur,11112819871,49.95,5,2219,1014,2,2,2,2,9,9,9,9,In progress,527,20,8611,9158
+Kerala,Thrissur,Kodakara,71981,Varandarappilly,11112819941,100.0,14,6469,3581,11,11,11,11,30,30,30,30,In progress,1915,482,24495,26892
+Kerala,Thrissur,Kodakara,71981,Thoravu,111175739%3A1,135.0,8,3238,1935,7,7,7,7,11,11,11,11,In progress,1673,0,11961,13634
+Kerala,Thrissur,Kodakara,71981,Amballur,11112819891,55.0,17,7823,5712,8,8,8,8,26,26,26,26,In progress,2352,96,29143,31591
+Kerala,Thrissur,Kodakara,71981,Kallur,11112819881,120.0,12,4800,3711,6,6,6,6,16,16,16,16,In progress,1947,44,17836,19827
+Kerala,Thrissur,Mullassery,71%3A21,Pavaratty,1111281%3A891,100.0,15,4960,802,16,16,16,16,23,23,23,23,In progress,823,21,21201,22045
+Kerala,Thrissur,Mullassery,71%3A21,Mullassery,1111281%3A821,11.64,12,4471,1353,10,10,10,10,20,20,0,2,In progress,2434,4,16108,18546
+Kerala,Thrissur,Mullassery,71%3A21,Annakara,1111281%3A831,55.0,3,1150,350,1,1,1,1,5,5,0,0,In progress,639,2,4114,4755
+Kerala,Thrissur,Mullassery,71%3A21,Elavally,11117631141,55.0,16,6757,3555,4,4,4,4,25,25,25,25,In progress,1466,30,27820,29316
+Kerala,Thrissur,Mullassery,71%3A21,Venkitangu,1111281%3A861,40.0,10,4013,3406,6,6,6,6,13,13,0,0,In progress,2468,19,13929,16416
+Kerala,Thrissur,Mullassery,71%3A21,Irimbranallur,1111281%3A881,70.0,1,354,308,2,2,2,2,1,1,0,0,In progress,169,2,1285,1456
+Kerala,Thrissur,Mullassery,71%3A21,Kundazhiyur,1111281%3A871,33.63,6,2371,2151,4,4,4,4,13,13,0,0,In progress,1204,40,8967,10211
+Kerala,Thrissur,Chalakkudy,71931,Elangipra,11117186121,55.0,3,1426,0,0,0,0,0,5,5,5,5,In progress,479,9,5153,5641
+Kerala,Thrissur,Chalakkudy,71931,Kodassery,11112819%3A%3A1,45.0,5,2410,1,3,3,3,3,8,8,8,8,In progress,1796,208,7634,9638
+Kerala,Thrissur,Chalakkudy,71931,Kuttichira,1111281%3A111,55.0,12,5336,885,6,6,6,6,23,23,23,23,In progress,2725,548,17471,20744
+Kerala,Thrissur,Chalakkudy,71931,Melur,1111281%3A191,55.0,14,6045,3159,9,9,9,9,22,22,22,22,In progress,1637,25,22136,23798
+Kerala,Thrissur,Chalakkudy,71931,Pariyaram,1111281%3A1%3A1,55.0,15,6285,3316,9,9,9,9,30,30,30,30,In progress,2268,97,21942,24307
+Kerala,Thrissur,Chalakkudy,71931,Kadukutty,11117631951,100.0,16,6673,3593,11,11,11,11,25,25,25,25,In progress,2969,43,23826,26838
+Kerala,Thrissur,Chalakkudy,71931,Muringur Vadakkummuri,1111281%3A181,55.0,3,1254,770,1,1,1,1,5,5,5,5,In progress,298,4,5053,5355
+Kerala,Thrissur,Chalakkudy,71931,Muringoor Thekkummury,1111281%3A141,55.0,10,4606,3034,10,10,10,10,17,17,17,17,In progress,1943,39,16352,18334
+Kerala,Thrissur,Chalakkudy,71931,Athirapilly,1111762%3A941,55.0,13,2494,1901,5,5,5,5,22,22,22,22,In progress,2555,1053,5566,9174
+Kerala,Thrissur,Chalakkudy,71931,Koratty Kizhakummuri,1111281%3A131,55.0,9,3832,2923,6,6,6,6,12,12,12,12,In progress,1572,13,14698,16283
+Kerala,Thrissur,Pazhayannnur,71%3A41,Pangarappilly,1111281%3A%3A71,9.17,3,1450,3,3,3,3,3,7,7,7,7,In progress,557,80,5538,6175
+Kerala,Thrissur,Pazhayannnur,71%3A41,Chelakode,11112821141,100.0,4,1520,124,2,2,2,2,7,7,7,7,In progress,1210,1,5370,6581
+Kerala,Thrissur,Pazhayannnur,71%3A41,Kurumala,1111281%3A%3A%3A1,17.83,2,905,151,1,1,1,1,3,3,3,3,In progress,511,1,3319,3831
+Kerala,Thrissur,Pazhayannnur,71%3A41,Pulakode,1111281%3A%3A61,3.89,3,1494,379,1,1,1,1,8,8,8,8,In progress,1351,7,4759,6117
+Kerala,Thrissur,Pazhayannnur,71%3A41,Killimangalam,11112821231,41.24,6,2511,671,2,2,2,2,7,7,7,7,In progress,1495,12,8560,10067
+Kerala,Thrissur,Pazhayannnur,71%3A41,Kondazhy,11112821131,15.0,5,2136,596,3,3,3,3,6,6,6,6,In progress,1821,52,7058,8931
+Kerala,Thrissur,Pazhayannnur,71%3A41,Thonnurkara,1111281%3A%3A81,5.34,4,1752,632,3,3,3,3,7,7,7,7,In progress,1365,1,6205,7571
+Kerala,Thrissur,Pazhayannnur,71%3A41,Vallathol Nagar,11117584991,100.0,9,3185,1181,1,1,0,1,11,11,5,11,In progress,1761,0,17712,19473
+Kerala,Thrissur,Pazhayannnur,71%3A41,Vennur,11112821171,53.97,3,1248,495,2,2,2,2,7,7,7,7,In progress,649,64,4825,5538
+Kerala,Thrissur,Pazhayannnur,71%3A41,Venganellur,1111281%3A%3A91,9.3,6,2830,1127,1,1,1,1,11,11,11,11,In progress,2092,0,10263,12355
+Kerala,Thrissur,Pazhayannnur,71%3A41,Thiruvilwamala,111128211%3A1,23.61,6,2559,1067,4,4,4,4,12,12,12,12,In progress,2269,6,8454,10729
+Kerala,Thrissur,Pazhayannnur,71%3A41,Mayannur,11112821121,36.74,6,2461,1029,5,5,5,5,8,8,8,8,In progress,1121,10,7877,9008
+Kerala,Thrissur,Pazhayannnur,71%3A41,Chelakkara,11112821111,55.0,4,1900,805,5,5,5,5,7,7,7,7,In progress,652,4,5796,6452
+Kerala,Thrissur,Pazhayannnur,71%3A41,Painkulam,11112821221,55.94,6,2094,949,1,1,1,1,10,10,10,10,In progress,1527,0,8117,9644
+Kerala,Thrissur,Pazhayannnur,71%3A41,Elanad,11112821181,54.52,5,2377,1093,4,4,4,4,8,8,8,8,In progress,2008,160,8186,10354
+Kerala,Thrissur,Pazhayannnur,71%3A41,Pazhayannur,11112821151,55.44,10,4604,2253,5,5,5,5,13,13,13,13,In progress,3054,58,17552,20664
+Kerala,Thrissur,Pazhayannnur,71%3A41,Vadakkethara,11112821161,43.31,4,1525,1039,1,1,1,1,10,10,10,10,In progress,1244,2,5115,6361
+Kerala,Thrissur,Pazhayannnur,71%3A41,Pampady,11112821191,15.53,3,1080,789,2,2,2,2,3,3,3,3,In progress,1813,1,4057,5871
+Kerala,Thrissur,Pazhayannnur,71%3A41,Kaniyarkode,11112821211,100.0,8,3373,2611,2,2,2,2,13,13,13,13,In progress,2603,7,11851,14461
+Kerala,Thrissur,Pazhayannnur,71%3A41,Panjal,11112821241,55.0,4,1576,1506,2,2,2,2,6,6,6,6,In progress,823,1,6491,7315
+Kerala,Thrissur,Pazhayannnur,71%3A41,Cheruthuruthy,11112821711,55.0,2,964,964,2,2,1,2,5,5,2,5,100% Har Ghar Jal,396,7,2216,2619
+Kerala,Thrissur,Pazhayannnur,71%3A41,Nedumpura,11112821721,56.7,5,2873,2873,3,3,0,3,8,8,4,7,100% Har Ghar Jal,1207,10,7590,8807
+Kerala,Thrissur,Irinjalakkuda,71971,Muriyad,1111281%3A521,46.91,7,2936,237,2,2,2,2,11,11,10,11,In progress,2206,22,9109,11337
+Kerala,Thrissur,Irinjalakkuda,71971,Parappukkara,1111281%3A571,41.8,11,4796,499,10,10,10,10,19,19,19,19,In progress,2892,29,15869,18790
+Kerala,Thrissur,Irinjalakkuda,71971,Nellayi,1111281%3A561,41.0,3,1469,157,1,1,1,1,3,3,2,3,In progress,1069,5,4754,5828
+Kerala,Thrissur,Irinjalakkuda,71971,Thottippal,1111281%3A581,100.0,4,1744,291,1,1,1,1,7,7,7,7,In progress,1359,9,5573,6941
+Kerala,Thrissur,Irinjalakkuda,71971,Anandapuram,1111281%3A541,55.0,2,636,145,2,2,2,2,2,2,2,2,In progress,816,5,2043,2864
+Kerala,Thrissur,Irinjalakkuda,71971,Pullur,1111281%3A531,36.02,8,3564,1197,3,3,3,3,13,13,11,12,In progress,2343,35,11861,14239
+Kerala,Thrissur,Irinjalakkuda,71971,Karalam,1111281%3A4%3A1,50.04,14,5438,4348,6,6,6,6,17,17,16,17,In progress,3419,27,18016,21462
+Kerala,Thrissur,Irinjalakkuda,71971,Kattur,1111281%3A551,100.0,14,5201,4722,6,6,6,6,18,18,18,18,In progress,2930,22,16759,19711
+Kerala,Thrissur,Irinjalakkuda,71971,Manavalassery,1111281%3A511,100.0,1,434,432,0,0,0,0,3,3,3,3,In progress,124,1,1601,1726
+Kerala,Thrissur,THALIKKULAM,71%3A61,TALIKKULAM,11112821451,100.0,16,6739,2123,11,11,11,11,26,26,26,26,In progress,1478,30,26384,27892
+Kerala,Thrissur,THALIKKULAM,71%3A61,VALAPPAD,11112821461,55.0,20,9222,3572,17,17,17,17,36,36,36,36,In progress,1199,32,36361,37592
+Kerala,Thrissur,THALIKKULAM,71%3A61,NATTIKA,11112821441,100.0,14,5295,2667,14,14,14,14,20,20,20,20,In progress,1364,40,20778,22182
+Kerala,Thrissur,THALIKKULAM,71%3A61,VATANAPILLY,11112821471,100.0,18,7444,3769,14,14,14,14,28,28,28,28,In progress,1053,10,32031,33094
+Kerala,Thrissur,THALIKKULAM,71%3A61,ENGANDIYUR,11112821481,100.0,16,6260,3659,12,12,12,12,23,23,23,23,In progress,877,45,25075,25997
+Kerala,Thrissur,Chovannur,71961,Kandanassery,1111281%3A351,35.56,12,4305,151,6,6,6,6,15,15,15,15,In progress,1467,29,17261,18757
+Kerala,Thrissur,Chovannur,71961,Alur,1111281%3A361,55.0,4,1629,285,2,2,2,2,5,5,5,5,In progress,483,6,6514,7003
+Kerala,Thrissur,Chovannur,71961,Chiranellur,1111281%3A421,55.0,4,1895,357,3,3,3,3,7,7,4,7,In progress,738,15,7440,8193
+Kerala,Thrissur,Chovannur,71961,Choondal,1111281%3A411,38.68,10,4385,843,5,5,5,5,18,18,7,14,In progress,1851,24,16758,18633
+Kerala,Thrissur,Chovannur,71961,Eranellur,1111281%3A3%3A1,39.3,4,1792,354,4,4,4,4,5,5,5,5,In progress,758,2,6836,7596
+Kerala,Thrissur,Chovannur,71961,Chemmanthatta,1111281%3A391,0.01,2,649,166,0,0,0,0,2,2,2,2,In progress,311,5,2536,2852
+Kerala,Thrissur,Chovannur,71961,Kattakampal,1111281%3A471,55.0,11,4547,2236,7,7,7,7,18,18,7,16,In progress,3243,22,16317,19582
+Kerala,Thrissur,Chovannur,71961,Mangad,1111281%3A321,38.57,2,656,341,1,1,1,1,3,3,3,3,In progress,324,0,2364,2688
+Kerala,Thrissur,Chovannur,71961,Chowwannur,1111281%3A381,0.02,10,3196,1663,2,2,2,2,13,13,13,13,In progress,1347,25,12201,13573
+Kerala,Thrissur,Chovannur,71961,Pazhanji,1111281%3A461,39.72,5,1927,1012,2,2,2,2,8,8,8,8,In progress,883,14,7151,8048
+Kerala,Thrissur,Chovannur,71961,Porkulam,1111281%3A331,55.0,11,3630,1928,2,2,2,2,13,13,6,13,In progress,2541,1,12441,14983
+Kerala,Thrissur,Chovannur,71961,Karikkad,1111281%3A441,41.79,4,1974,1087,3,3,3,3,6,6,3,6,In progress,1065,9,7526,8600
+Kerala,Thrissur,Chovannur,71961,Kadavallur,1111281%3A451,55.0,12,5174,2976,11,11,11,11,23,23,10,23,In progress,3648,23,18904,22575
+Kerala,Thrissur,Chovannur,71961,Perumpilavu,1111281%3A431,39.73,4,1607,1105,4,4,4,4,5,5,5,5,In progress,1043,9,6242,7294
+Kerala,Thrissur,Chovannur,71961,Kanipayyur,1111281%3A371,0.01,1,343,248,1,1,1,1,2,2,2,2,In progress,96,0,1560,1656
+Kerala,Thrissur,Olloorkara,71%3A31,Kainoor,1111281%3A941,40.0,4,2218,0,1,1,1,1,14,14,14,14,In progress,1008,34,8120,9162
+Kerala,Thrissur,Olloorkara,71%3A31,Mannamangalam,1111281%3A971,23.06,5,2515,6,3,3,3,3,14,14,14,14,In progress,830,233,9303,10366
+Kerala,Thrissur,Olloorkara,71%3A31,Marathakkara,11117794471,100.0,7,3570,202,3,3,3,3,14,14,14,14,In progress,1526,43,13959,15528
+Kerala,Thrissur,Olloorkara,71%3A31,Madakkathara,1111281%3A931,4.03,16,7121,1473,6,6,6,6,25,25,25,25,In progress,2262,40,26236,28538
+Kerala,Thrissur,Olloorkara,71%3A31,Puthur,1111281%3A951,0.02,7,3930,848,2,2,2,2,10,10,10,10,In progress,1864,38,14383,16285
+Kerala,Thrissur,Olloorkara,71%3A31,Kolazhi,11117631961,55.0,17,8028,2925,9,9,9,9,27,27,26,27,In progress,2453,59,30631,33143
+Kerala,Thrissur,Olloorkara,71%3A31,Pananchery,1111281%3A%3A21,55.0,12,6324,2315,7,7,7,7,26,26,25,26,In progress,2429,455,22619,25503
+Kerala,Thrissur,Olloorkara,71%3A31,Peechi,1111281%3A%3A11,5.78,11,5607,2653,11,11,11,11,24,24,23,24,In progress,1579,834,20136,22549
+Kerala,Thrissur,Olloorkara,71%3A31,Nadathara,11117631451,100.0,17,8345,6361,7,7,7,7,30,30,30,29,In progress,2338,254,32438,35030
+Kerala,Thrissur,Vadakkamchery,71%3A81,Velur,11112821861,26.71,11,3606,1,3,3,3,3,11,11,9,11,In progress,3911,0,27730,31641
+Kerala,Thrissur,Vadakkamchery,71%3A81,Vellattanjur,11112821871,24.01,3,1428,14,1,1,1,1,7,7,4,7,In progress,890,5,5188,6083
+Kerala,Thrissur,Vadakkamchery,71%3A81,Kadangode,11112821911,39.94,12,4457,45,2,2,2,2,5,5,5,5,In progress,3817,0,19208,23025
+Kerala,Thrissur,Vadakkamchery,71%3A81,Thichur,11112821831,40.0,2,883,96,1,1,1,1,8,8,8,8,In progress,806,3,3279,4088
+Kerala,Thrissur,Vadakkamchery,71%3A81,Erumapetty,11117576331,33.24,9,3193,482,0,0,0,0,0,0,0,0,In progress,1848,2644,10204,14696
+Kerala,Thrissur,Vadakkamchery,71%3A81,Attoor,11112821691,62.94,4,1369,294,2,2,2,2,8,8,8,8,In progress,783,0,5461,6244
+Kerala,Thrissur,Vadakkamchery,71%3A81,Thayyur,11112821881,55.0,2,830,184,1,1,1,1,4,4,1,4,In progress,364,2,3141,3507
+Kerala,Thrissur,Vadakkamchery,71%3A81,Arangottukara,11112821781,40.0,1,700,190,1,1,1,1,3,3,3,3,In progress,641,2,2400,3043
+Kerala,Thrissur,Vadakkamchery,71%3A81,Thekkumkara,11112821621,43.08,12,3857,1175,5,5,5,5,15,15,4,15,In progress,2207,0,16811,19018
+Kerala,Thrissur,Vadakkamchery,71%3A81,Kiralur,11112821851,40.0,1,460,164,1,1,1,1,2,2,2,2,In progress,169,2,1759,1930
+Kerala,Thrissur,Vadakkamchery,71%3A81,Nedumpura,11117188131,100.0,1,351,131,0,0,0,0,0,0,0,0,In progress,150,0,1540,1690
+Kerala,Thrissur,Vadakkamchery,71%3A81,Pallur,11112821811,70.0,4,1427,539,0,0,0,0,6,6,3,5,In progress,1631,6,5123,6760
+Kerala,Thrissur,Vadakkamchery,71%3A81,Karumathra,111128215%3A1,59.66,1,364,139,1,1,1,1,3,3,1,3,In progress,292,0,1532,1824
+Kerala,Thrissur,Vadakkamchery,71%3A81,Chiramanangad,11112821891,46.24,3,1591,677,4,4,3,4,8,8,8,8,In progress,672,4,6992,7668
+Kerala,Thrissur,Vadakkamchery,71%3A81,Mullurkara,111128216%3A1,40.57,9,2920,1269,5,5,5,5,12,12,11,12,In progress,1252,0,13243,14495
+Kerala,Thrissur,Vadakkamchery,71%3A81,Thalassery,111128217%3A1,40.0,1,336,147,0,0,0,0,1,1,0,0,In progress,412,0,1056,1468
+Kerala,Thrissur,Vadakkamchery,71%3A81,Desamangalam,11112821791,38.69,9,2714,1265,2,2,2,2,9,9,1,8,In progress,1911,1,11913,13825
+Kerala,Thrissur,Vadakkamchery,71%3A81,Vellarakkad,11112821921,70.0,2,862,464,0,0,0,0,9,9,9,9,In progress,544,1,3227,3772
+Kerala,Thrissur,Vadakkamchery,71%3A81,Kanjirakode,11112821741,33.04,1,458,268,1,1,1,1,3,3,2,3,In progress,386,0,1844,2230
+Kerala,Thrissur,Vadakkamchery,71%3A81,Varavoor,11112821821,56.92,11,3480,2069,2,2,2,2,22,22,22,22,In progress,2535,0,15291,17826
+Kerala,Thrissur,Vadakkamchery,71%3A81,Kariyannur,11112821751,13.07,1,544,352,2,2,2,2,3,3,0,2,In progress,393,0,2331,2724
+Kerala,Thrissur,Vadakkamchery,71%3A81,Nelluwaya,11112821771,37.13,2,817,552,1,1,1,1,6,6,0,6,In progress,579,7,3225,3811
+Kerala,Thrissur,Vadakkamchery,71%3A81,Kottappuram,11112821761,15.21,2,930,635,3,3,3,3,8,8,6,8,In progress,890,1,3751,4642
+Kerala,Thrissur,Vadakkamchery,71%3A81,Kundannur,11117576481,100.0,1,350,263,0,0,0,0,1,1,1,1,In progress,84,0,563,647
+Kerala,Thrissur,Vadakkamchery,71%3A81,Chittanda,11112821731,46.91,2,851,659,1,1,1,1,5,5,4,5,In progress,393,0,2475,2868
+Kerala,Thrissur,Vadakkamchery,71%3A81,Manalithara,11112821631,100.0,4,1720,1337,1,1,1,1,8,8,4,7,In progress,656,2,6162,6820
+Kerala,Thrissur,Vadakkamchery,71%3A81,Pilakkad,11112821841,70.0,1,315,252,0,0,0,0,0,0,0,0,In progress,325,1,1090,1416
+Kerala,Thrissur,Vadakkamchery,71%3A81,Viruppakka,11112821611,59.11,1,408,373,0,0,0,0,2,2,2,2,In progress,195,51,1455,1701
+Kerala,Thrissur,Vadakkamchery,71%3A81,Eyyal,111128218%3A1,40.41,1,423,417,1,1,1,1,4,4,3,4,In progress,364,0,1549,1913
+Kerala,Thrissur,Puzhakkal,71%3A51,Edakkalathur,11112821371,55.0,3,1037,4,4,4,4,4,4,4,4,4,In progress,647,2,4013,4662
+Kerala,Thrissur,Puzhakkal,71%3A51,Tholur,11112821361,37.0,10,3351,313,4,4,4,4,17,17,17,17,In progress,2309,7,13004,15320
+Kerala,Thrissur,Puzhakkal,71%3A51,Peramangalam,111128212%3A1,8.42,8,3770,472,2,2,2,2,16,16,16,16,In progress,1131,10,13936,15077
+Kerala,Thrissur,Puzhakkal,71%3A51,Kaiparamba,11112821291,9.46,4,1694,350,1,1,1,1,10,10,10,10,In progress,598,10,6512,7120
+Kerala,Thrissur,Puzhakkal,71%3A51,Avanur,11112821351,55.0,15,5846,1301,8,8,8,8,32,32,32,32,In progress,3319,60,20224,23603
+Kerala,Thrissur,Puzhakkal,71%3A51,Killannur,11112821431,100.0,14,5265,2020,5,5,5,5,33,33,31,30,In progress,1999,33,19235,21267
+Kerala,Thrissur,Puzhakkal,71%3A51,Puranattukara,11117635261,100.0,4,2101,809,5,5,4,5,4,4,4,4,In progress,1042,48,7526,8616
+Kerala,Thrissur,Puzhakkal,71%3A51,Chittilappilly,11112821271,31.0,4,1804,696,3,3,3,3,6,6,6,6,In progress,622,10,6677,7309
+Kerala,Thrissur,Puzhakkal,71%3A51,Puzhakkal,11112821261,31.0,6,2583,1025,2,2,2,2,10,10,10,10,In progress,1332,17,9130,10479
+Kerala,Thrissur,Puzhakkal,71%3A51,Parakkad,11112821421,55.0,4,2305,969,6,6,6,6,7,7,7,7,In progress,1266,14,7803,9083
+Kerala,Thrissur,Puzhakkal,71%3A51,Adat,11112821281,31.0,4,1744,738,1,1,1,1,7,7,7,7,In progress,1182,2,5980,7164
+Kerala,Thrissur,Puzhakkal,71%3A51,Veluthur,111128213%3A1,31.0,6,3140,1339,0,0,0,0,10,10,10,10,In progress,1440,11,11173,12624
+Kerala,Thrissur,Puzhakkal,71%3A51,Anjur,11112821311,8.22,6,2615,1136,4,4,4,4,13,13,13,13,In progress,1037,8,9621,10666
+Kerala,Thrissur,Puzhakkal,71%3A51,Eravu,11112821391,31.0,3,1285,594,2,2,2,2,6,6,6,6,In progress,628,0,4542,5170
+Kerala,Thrissur,Puzhakkal,71%3A51,Manakkody,11112821411,31.0,4,1712,851,2,2,2,2,10,10,10,10,In progress,610,2,6416,7028
+Kerala,Wayanad,Panamaram,77%3A41,Nadavayal,11112815931,100.0,9,4641,1170,7,7,7,7,13,13,8,3,In progress,572,3862,13541,17975
+Kerala,Wayanad,Panamaram,77%3A41,Cherukottur,11112815881,27.14,4,2076,592,1,1,1,1,8,8,3,0,In progress,70,1803,7595,9468
+Kerala,Wayanad,Panamaram,77%3A41,Panamaram,11112815891,32.93,6,2803,861,7,7,7,7,13,13,1,1,In progress,507,3003,8192,11702
+Kerala,Wayanad,Panamaram,77%3A41,Irulam,11112815971,29.03,8,3803,1325,3,3,3,3,26,26,17,2,In progress,368,3422,11389,15179
+Kerala,Wayanad,Panamaram,77%3A41,Poothadi,11112815961,27.65,11,5394,1966,10,10,10,10,13,13,12,3,In progress,477,3607,17826,21910
+Kerala,Wayanad,Panamaram,77%3A41,Anchukunnu,111128158%3A1,31.02,12,5822,2165,6,6,6,6,17,17,5,4,In progress,424,5817,18606,24847
+Kerala,Wayanad,Panamaram,77%3A41,Kaniambetta,11112816121,100.0,16,9482,4864,4,4,4,4,26,26,13,1,In progress,577,4705,25199,30481
+Kerala,Wayanad,Panamaram,77%3A41,Padichira,11112815951,100.0,16,6829,3989,11,11,11,11,33,33,17,8,In progress,1195,2775,23710,27680
+Kerala,Wayanad,Panamaram,77%3A41,Pulpalli,11112815941,55.0,19,8490,5154,14,14,13,14,25,25,21,14,In progress,1228,6660,26451,34339
+Kerala,Wayanad,Sulthan Bathery,72111,Noolpuzha,111128159%3A1,30.36,9,3481,817,10,10,10,10,20,20,0,0,In progress,563,6128,8569,15260
+Kerala,Wayanad,Sulthan Bathery,72111,Kuppadi,11112815%3A21,100.0,6,2888,725,3,3,3,3,7,7,0,0,In progress,314,4094,7602,12010
+Kerala,Wayanad,Sulthan Bathery,72111,Krishnagiri,11112815991,89.94,6,3050,1040,7,7,7,7,8,8,0,0,In progress,437,2011,9836,12284
+Kerala,Wayanad,Sulthan Bathery,72111,Thomattuchal,11112815%3A81,55.0,9,4057,1472,6,6,5,4,12,12,0,1,In progress,373,1765,14549,16687
+Kerala,Wayanad,Sulthan Bathery,72111,Cheeral,11112815%3A51,37.77,7,3817,1428,9,9,9,9,15,15,2,6,In progress,401,2546,12769,15716
+Kerala,Wayanad,Sulthan Bathery,72111,Ambalavayal,11112815%3A71,65.23,10,4714,2118,7,7,7,7,24,24,1,1,In progress,553,3942,14747,19242
+Kerala,Wayanad,Sulthan Bathery,72111,Kidanganad,11112815%3A11,59.78,5,2323,1169,4,4,4,4,4,4,0,0,In progress,109,3734,5601,9444
+Kerala,Wayanad,Sulthan Bathery,72111,Nenmeni,11112815%3A61,100.0,16,8366,4259,7,7,7,7,34,34,9,13,In progress,1571,5741,27430,34742
+Kerala,Wayanad,Sulthan Bathery,72111,Purakkadi,11112815981,96.92,11,4993,2942,3,3,3,3,18,18,0,0,In progress,488,4195,15241,19924
+Kerala,Wayanad,Mananthavady,71%3A%3A1,Vellamunda,11112815921,20.48,9,4160,689,9,9,9,9,19,19,0,1,In progress,221,2844,16496,19561
+Kerala,Wayanad,Mananthavady,71%3A%3A1,Valat,11112815831,16.89,7,3237,543,5,5,5,5,14,14,4,4,In progress,68,3018,11494,14580
+Kerala,Wayanad,Mananthavady,71%3A%3A1,Periya,11112815821,20.84,8,3437,633,3,3,3,3,17,17,4,5,In progress,266,2405,11331,14002
+Kerala,Wayanad,Mananthavady,71%3A%3A1,Thrissilery,11112815781,150.0,11,4598,977,7,7,7,7,20,20,15,20,In progress,268,7431,12358,20057
+Kerala,Wayanad,Mananthavady,71%3A%3A1,Kanjirangad,11112815851,13.96,6,2441,536,6,6,6,5,11,11,5,9,In progress,303,1960,8231,10494
+Kerala,Wayanad,Mananthavady,71%3A%3A1,Porunnanore,11112815911,17.25,12,5168,1136,10,10,9,10,20,20,4,4,In progress,562,4508,18377,23447
+Kerala,Wayanad,Mananthavady,71%3A%3A1,Thirunelly,11112815771,37.22,6,2538,560,8,8,8,8,20,20,16,20,In progress,190,5786,4907,10883
+Kerala,Wayanad,Mananthavady,71%3A%3A1,Thavinhal,11112815811,26.12,7,3415,765,11,11,10,11,18,18,13,8,In progress,1322,2285,10939,14546
+Kerala,Wayanad,Mananthavady,71%3A%3A1,Thondernad,11112815841,18.71,9,3725,1141,5,5,5,5,14,14,12,13,In progress,301,4560,11537,16398
+Kerala,Wayanad,Mananthavady,71%3A%3A1,Nalloornad,11112815871,100.0,7,3488,1947,6,6,6,5,15,15,7,6,In progress,147,2845,12450,15442
+Kerala,Wayanad,Mananthavady,71%3A%3A1,Edavaka,11112815861,70.0,12,5412,4429,9,9,8,9,18,18,8,8,In progress,295,4154,20098,24547
+Kerala,Wayanad,Kalpetta,71%3A91,Vellarimala,11112816241,9.68,3,1754,0,4,4,3,4,9,9,1,8,In progress,817,321,5536,6674
+Kerala,Wayanad,Kalpetta,71%3A91,Thrikkaipetta,11112816231,9.77,5,2788,10,2,2,2,2,8,8,1,8,In progress,416,2153,7177,9746
+Kerala,Wayanad,Kalpetta,71%3A91,Thariyode,11112816171,55.00,3,854,35,1,1,1,1,8,8,2,8,In progress,113,891,1744,2748
+Kerala,Wayanad,Kalpetta,71%3A91,Kottapadi,11112816221,10.47,14,7967,476,9,9,9,9,23,23,6,23,In progress,2691,2163,22865,27719
+Kerala,Wayanad,Kalpetta,71%3A91,Muppainad,11112816251,100.00,16,8646,839,5,5,5,5,23,23,4,23,In progress,1726,1488,23329,26543
+Kerala,Wayanad,Kalpetta,71%3A91,Achooranam,11112816181,41.36,6,3286,424,3,3,2,3,23,23,0,23,In progress,555,1521,9756,11832
+Kerala,Wayanad,Kalpetta,71%3A91,Kuppadithara,11112815%3A%3A1,100.00,5,2242,370,4,4,4,4,10,10,0,1,In progress,869,1088,7777,9734
+Kerala,Wayanad,Kalpetta,71%3A91,Pozhuthana,11112816191,100.00,7,3032,547,5,5,5,4,21,21,1,21,In progress,808,2351,7756,10915
+Kerala,Wayanad,Kalpetta,71%3A91,Chundale,11112816211,450.00,8,2863,535,3,3,3,3,11,11,7,11,In progress,2114,304,9053,11471
+Kerala,Wayanad,Kalpetta,71%3A91,Kunnathidavaka,111128161%3A1,40.32,6,2228,543,3,3,3,3,13,13,9,13,In progress,1186,997,6063,8246
+Kerala,Wayanad,Kalpetta,71%3A91,Vengappally,11112816151,55.00,13,3984,972,5,5,5,5,15,15,5,6,In progress,286,3144,10116,13546
+Kerala,Wayanad,Kalpetta,71%3A91,Kavumannam,11112816161,38.53,10,2899,746,5,5,5,5,16,16,10,16,In progress,112,2005,7864,9981
+Kerala,Wayanad,Kalpetta,71%3A91,Padinharethara,11112815%3A91,49.91,11,5425,1559,7,7,7,7,21,21,12,14,In progress,1249,2603,15316,19168
+Kerala,Wayanad,Kalpetta,71%3A91,Anchukunnu,11117189941,100.00,3,971,429,0,0,0,0,6,6,1,3,In progress,0,376,3700,4076
+Kerala,Wayanad,Kalpetta,71%3A91,Muttil North,11112816131,40.14,7,3907,1900,4,4,4,4,13,13,1,1,In progress,508,2012,11540,14060
+Kerala,Wayanad,Kalpetta,71%3A91,Kottathara,11112816111,70.00,12,4386,2483,8,8,8,8,27,27,1,4,In progress,561,4220,12895,17676
+Kerala,Wayanad,Kalpetta,71%3A91,Muttil South,11112816141,34.84,10,5428,3851,10,10,10,10,17,17,5,1,In progress,532,3448,16896,20876

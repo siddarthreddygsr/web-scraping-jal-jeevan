@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 
 url = "https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx/JJM_StateDistrictSearch"
-state_code = "481"
+state_code = "3%3A1"
 headers = {
     "Accept": "application/json, text/javascript, */*; q=0.01",
     "Accept-Encoding": "gzip, deflate, br",
@@ -48,7 +48,7 @@ for i in data:
             dtcode11 += str(int(i)+1)
     dtcode11 += "1"
     info_dict = {
-            "state_name" : "Maharashtra",
+            "state_name" : "Karnataka",
             "district_name" : dist_name,
         }
     block_info_arr = dist2bl(state_code=state_code, 
@@ -73,6 +73,22 @@ for i in data:
             data_dict = vil_d(state_code, dtcode11, village['vil_encode'],proxies=proxies)
             # pdb.set_trace()
             final_info_dict['service_level'] = data_dict["service_level_data"]
+            final_info_dict['TotalHab'] = data_dict["TotalHab"]
+            final_info_dict['TotalNoofHouseholds'] = data_dict["TotalNoofHouseholds"]
+            final_info_dict['HousesWithTaps'] = data_dict["HousesWithTaps"]
+            final_info_dict['NoofSchool'] = data_dict["NoofSchool"]
+            final_info_dict['School_TapCon'] = data_dict["School_TapCon"]
+            final_info_dict['RunningWater_In_Toilet_Urinals_School'] = data_dict["RunningWater_In_Toilet_Urinals_School"]
+            final_info_dict['hand_wash_avail_School'] = data_dict["hand_wash_avail_School"]
+            final_info_dict['NoofBal_Agan'] = data_dict["NoofBal_Agan"]
+            final_info_dict['Bal_Agan_TapCon'] = data_dict["Bal_Agan_TapCon"]
+            final_info_dict['RunningWater_In_Toilet_Urinals_Agan'] = data_dict["RunningWater_In_Toilet_Urinals_Agan"]
+            final_info_dict['hand_wash_avail_Agan'] = data_dict["hand_wash_avail_Agan"]
+            final_info_dict['JJMStatus'] = data_dict["JJMStatus"]
+            final_info_dict['SCCurrentPop'] = data_dict["SCCurrentPop"]
+            final_info_dict['STCurrentPop'] = data_dict["STCurrentPop"]
+            final_info_dict['GENCurrentPop'] = data_dict["GENCurrentPop"]
+            final_info_dict['TotalCurrentPop'] = data_dict["TotalCurrentPop"]
             # print(final_info_dict)
             dataframe.append(final_info_dict)
         blocks_dframe.append({

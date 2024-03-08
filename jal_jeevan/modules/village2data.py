@@ -31,7 +31,24 @@ def vil_d(
     }
     response = requests.post(url, headers=headers, json=data,proxies=proxies)
     data_dict = {
-        "service_level_data" : response.json()['d'][0]['ServiceLevel']
+        "service_level_data" : response.json()['d'][0]['ServiceLevel'],
+        "TotalHab": response.json()['d'][0]['TotalHab'],
+        "TotalNoofHouseholds": response.json()['d'][0]['Total'],
+        "HousesWithTaps": response.json()['d'][0]['Value'],
+        "NoofSchool": response.json()['d'][0]['NoofSchool'],
+        "School_TapCon": response.json()['d'][0]['School_TapCon'],
+        "RunningWater_In_Toilet_Urinals_School": response.json()['d'][0]['RunningWater_In_Toilet_Urinals_School'],
+        "hand_wash_avail_School": response.json()['d'][0]['hand_wash_avail_School'],
+        "NoofBal_Agan": response.json()['d'][0]['NoofBal_Agan'],
+        "Bal_Agan_TapCon": response.json()['d'][0]['Bal_Agan_TapCon'],
+        "RunningWater_In_Toilet_Urinals_Agan": response.json()['d'][0]['RunningWater_In_Toilet_Urinals_Agan'],
+        "hand_wash_avail_Agan": response.json()['d'][0]['hand_wash_avail_Agan'],
+        "JJMStatus": response.json()['d'][0]['VillageStatus'],
+        "SCCurrentPop": response.json()['d'][0]['SCCurrentPop'],
+        "STCurrentPop": response.json()['d'][0]['STCurrentPop'],
+        "GENCurrentPop": response.json()['d'][0]['GENCurrentPop'],
+        "TotalCurrentPop": response.json()['d'][0]['TotalCurrentPop']
 
     }
     return data_dict
+# print(vil_d(state_code=471,dt_code="64%3A1",vil_code="11111364371"))
