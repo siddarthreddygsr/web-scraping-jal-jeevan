@@ -1,24 +1,10 @@
 from bs4 import BeautifulSoup
 import requests
 import re
+import pdb
+import json
 
 def parse(url):
-    response = requests.get(url)
-    
-    soup = BeautifulSoup(response.text, 'html.parser')
-    cand_dict = {}
-    cand_dict["name"] = soup.find_all(class_="w3-panel")[2].find("h2").get_text(strip=True)
-    cand_dict["constituency"] = soup.find_all(class_="w3-panel")[2].find("h5").get_text(strip=True)
-    cand_dict["district"] = re.findall(r'\((.*?)\)', cand_dict["constituency"])[-1]
-    cand_dict["so_do_wo"] = soup.find_all(class_="w3-panel")[2].find_all("div")[3].get_text(strip=True).split(":")[-1]
-    cand_dict["age"] = soup.find_all(class_="w3-panel")[2].find_all("div")[4].get_text(strip=True).replace('Age:', '').strip()
-    cand_dict["party"] = soup.find_all(class_="w3-panel")[2].find_all('div')[1].find('div').get_text(strip=True).replace('Part:','').split(":")[-1]
-    cand_dict["assets"], cand_dict["liabilities"] = [value.get_text(strip = True).replace('\xa0', ' ') for value in soup.find_all(class_="w3-table")[0].find_all('b')]
-    # print(soup.find_all(class_="w3-table")[0].find_all('b'))
-    print(cand_dict)
-
-
-def parse1(url):
     response = requests.get(url)
     
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -47,6 +33,24 @@ def parse1(url):
     except:
         print(f"{url}\n{url}\n{url}\n{url}\n{url}\n")
     return cand_dict
-# print(parse1("https://myneta.info/telangana2023/candidate.php?candidate_id=309"))
+# print(parse("https://myneta.info/telangana2023/candidate.php?candidate_id=309"))
 
-# state,year,constituency,ac_no,district,sub_region,reservations,candidate_name,party,party_eci,url,winner,gender,age,so_do,address,profession,spouse_profession,criminal_cases,serious_criminal_cases,education,assets,liabilities,net_assets,filed_itr,declared_pan,recontest_url,recontest_assets_this,recontest_assets_last,recontest_assets_change,recontest_remarks
+def table1(url):
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    table_rows = soup.find('table', attrs={'id':'income_tax'}).find_all('tr')
+    meta_data = [cell.text for cell in table_rows[0].find_all('th')]
+    json_data = []
+    for row in table_rows:
+        row_data = {}
+        flag = 0
+        for cell in row.find_all('td'):
+            row_data[meta_data[flag]] = cell.text.replace('\xa0', ' ')
+            flag += 1
+        if bool(row_data):
+            json_data.append(row_data)
+    income_tax_data = json.dumps(json_data)
+    return income_tax_data
+
+
+print(table1("https://myneta.info/telangana2023/candidate.php?candidate_id=309"))
