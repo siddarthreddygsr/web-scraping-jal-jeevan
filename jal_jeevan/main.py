@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 
 url = "https://ejalshakti.gov.in/jjmreport/JJMIndia.aspx/JJM_StateDistrictSearch"
-state_code = "3%3A1"
+state_code = "191"
 headers = {
     "Accept": "application/json, text/javascript, */*; q=0.01",
     "Accept-Encoding": "gzip, deflate, br",
@@ -48,7 +48,7 @@ for i in data:
             dtcode11 += str(int(i)+1)
     dtcode11 += "1"
     info_dict = {
-            "state_name" : "Karnataka",
+            "state_name" : "Rajasthan",
             "district_name" : dist_name,
         }
     block_info_arr = dist2bl(state_code=state_code, 

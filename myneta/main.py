@@ -7,7 +7,7 @@ from tqdm import tqdm
 dataframe = []
 candidate_urls_main =  []
 progress_bar = tqdm(total=50, position=0, desc="Processing Districts", unit="district", dynamic_ncols=True, ascii=" ▖▘▝▗▚▞█", colour="GREEN")
-dist_cnt = 1
+dist_cnt = 100
 progress_made = 0
 for district in range(dist_cnt):
     response = requests.get(f"https://myneta.info/telangana2023/index.php?action=show_constituencies&state_id={district+1}")
@@ -30,8 +30,8 @@ progress_bar.close()
 
 for candidate_url in tqdm(candidate_urls_main, desc="Processing candidates", unit="candidate",  ascii=" ▖▘▝▗▚▞█", colour="RED"):
     parsed_data = parse(url=candidate_url)
-    print(parsed_data)
+    # print(parsed_data)
     dataframe.append(parsed_data)
 
 df = pd.DataFrame(dataframe)
-df.to_csv("CANDYdeez.csv")
+df.to_csv("Telangana_2023.csv")

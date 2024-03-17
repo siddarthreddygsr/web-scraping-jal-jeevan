@@ -37,6 +37,7 @@ def bl2vl(
     village_data = response.json()['d']
     info_dict_arr = []
     village_codes = []
+    # print(village_data)
     village_codes.append(village_data[0]['Name'])
     village_codes.append([])
     for village in village_data:

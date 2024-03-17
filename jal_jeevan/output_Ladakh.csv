@@ -1,0 +1,241 @@
+state_name,district_name,block_name,blcode11,village_name,vil_encode,service_level,TotalHab,TotalNoofHouseholds,HousesWithTaps,NoofSchool,School_TapCon,RunningWater_In_Toilet_Urinals_School,hand_wash_avail_School,NoofBal_Agan,Bal_Agan_TapCon,RunningWater_In_Toilet_Urinals_Agan,hand_wash_avail_Agan,JJMStatus,SCCurrentPop,STCurrentPop,GENCurrentPop,TotalCurrentPop
+Ladakh,Kargil,Karsha,81541,Akshoo,11112491341,55.0,5,64,64,2,2,0,0,2,2,0,1,100% Har Ghar Jal,0,375,0,375
+Ladakh,Kargil,Karsha,81541,Abran,11112491351,55.0,10,70,70,2,2,0,0,3,3,0,0,100% Har Ghar Jal,0,451,0,451
+Ladakh,Kargil,Karsha,81541,Hamiling,11112491361,55.0,4,39,39,0,0,0,0,1,1,0,1,100% Har Ghar Jal,0,168,0,168
+Ladakh,Kargil,Karsha,81541,Phay,11112491381,55.0,22,153,153,3,3,0,2,5,5,0,2,100% Har Ghar Jal,0,746,0,746
+Ladakh,Kargil,Karsha,81541,Rantaq Shah,11112491391,55.0,2,63,63,2,2,0,1,1,1,0,0,100% Har Ghar Jal,0,402,0,402
+Ladakh,Kargil,Karsha,81541,ATING,111124913%3A1,55.0,12,103,103,4,4,1,1,3,3,0,0,100% Har Ghar Jal,0,644,0,644
+Ladakh,Kargil,Karsha,81541,KARSHA,11112491431,55.0,12,180,180,2,2,0,0,3,3,0,0,100% Har Ghar Jal,0,833,0,833
+Ladakh,Kargil,Karsha,81541,LANGMI RIJING,11112491451,55.0,3,32,32,1,1,0,0,2,2,0,0,100% Har Ghar Jal,0,140,0,140
+Ladakh,Kargil,Karsha,81541,TONGRI,11112491461,55.0,13,123,123,3,3,0,1,2,2,0,0,100% Har Ghar Jal,0,1018,0,1018
+Ladakh,Kargil,Karsha,81541,TACHA KHASAR,11117795491,55.0,5,95,95,2,2,0,1,2,2,0,0,100% Har Ghar Jal,0,600,0,600
+Ladakh,Kargil,Karsha,81541,REMALA/SKYGAM,11117795611,55.0,4,109,109,2,2,0,0,3,3,0,0,100% Har Ghar Jal,0,557,0,557
+Ladakh,Kargil,Lungnuk,76521,Pipcha,11112491541,55.0,3,34,34,1,1,0,0,1,1,0,0,100% Har Ghar Jal,0,169,0,169
+Ladakh,Kargil,Lungnuk,76521,Itchar,11112491561,55.0,3,39,39,1,1,0,0,1,1,1,1,100% Har Ghar Jal,0,244,0,244
+Ladakh,Kargil,Lungnuk,76521,Cha,11112491581,55.0,11,80,80,3,3,1,1,4,4,0,0,100% Har Ghar Jal,0,445,0,445
+Ladakh,Kargil,Lungnuk,76521,SHUNSHADY,11112491591,55.0,1,46,46,1,1,0,1,1,1,0,1,100% Har Ghar Jal,0,180,0,180
+Ladakh,Kargil,Lungnuk,76521,Testa,111124915%3A1,55.0,11,74,74,4,4,0,0,4,4,3,3,100% Har Ghar Jal,0,471,0,471
+Ladakh,Kargil,Lungnuk,76521,Kargiak,11117795621,55.0,4,70,70,2,2,0,0,3,3,1,2,100% Har Ghar Jal,0,434,0,434
+Ladakh,Kargil,Lungnuk,76521,RARU-MONAY,11117795641,55.0,3,62,62,1,1,0,0,2,2,1,1,100% Har Ghar Jal,0,365,0,365
+Ladakh,Kargil,ZANSKAR,841,PADUM,11112491491,55.0,14,336,335,10,10,0,1,6,6,0,0,In progress,0,1730,0,1730
+Ladakh,Kargil,ZANSKAR,841,SLAPI/GYAPAK,11112491521,55.0,8,138,138,2,2,0,0,4,4,0,1,100% Har Ghar Jal,0,819,0,819
+Ladakh,Kargil,ZANSKAR,841,SANI,11112491531,55.0,9,125,125,2,2,0,0,3,3,0,1,100% Har Ghar Jal,0,628,0,628
+Ladakh,Kargil,ZANSKAR,841,UFTI PIPITING,1111762%3A%3A%3A1,55.0,9,183,183,4,4,0,0,2,2,0,1,100% Har Ghar Jal,0,977,0,977
+Ladakh,Kargil,ZANSKAR,841,Ruk Ruk,11117795411,55.0,5,69,69,2,2,0,2,1,1,0,1,100% Har Ghar Jal,0,414,0,414
+Ladakh,Kargil,ZANSKAR,841,Zangla,11112491471,55.0,9,196,196,6,6,0,0,5,5,0,2,100% Har Ghar Jal,0,1094,0,1094
+Ladakh,Kargil,ZANSKAR,841,STONGDAY/KUMIK,11112491481,55.0,11,204,204,4,4,1,1,3,3,0,0,100% Har Ghar Jal,0,1075,0,1075
+Ladakh,Kargil,Bhimbat Drass,814%3A1,Shimsha,11117531321,55.0,8,129,121,3,3,2,2,4,4,0,4,In progress,0,1051,0,1051
+Ladakh,Kargil,Bhimbat Drass,814%3A1,Chowkiyal,1111248%3A7%3A1,55.0,5,157,151,4,4,1,0,6,6,0,5,In progress,0,1165,0,1165
+Ladakh,Kargil,Bhimbat Drass,814%3A1,Youlboo,11117556581,55.0,2,139,139,2,2,2,2,2,2,0,0,100% Har Ghar Jal,0,865,0,865
+Ladakh,Kargil,Bhimbat Drass,814%3A1,JASGUND,11117853261,55.0,3,63,63,5,5,2,5,6,6,0,4,100% Har Ghar Jal,0,470,0,470
+Ladakh,Kargil,Bhimbat Drass,814%3A1,Thasgaam,11117853%3A71,55.0,2,55,55,0,0,0,0,1,1,0,1,100% Har Ghar Jal,0,530,0,530
+Ladakh,Kargil,Bhimbat Drass,814%3A1,Kharboo,1111248%3A711,55.0,7,194,194,3,3,0,0,6,6,0,5,100% Har Ghar Jal,0,1313,0,1313
+Ladakh,Kargil,Bhimbat Drass,814%3A1,Gindiyal,1111248%3A761,55.0,4,127,127,4,4,0,2,4,4,0,2,100% Har Ghar Jal,0,751,0,751
+Ladakh,Kargil,Bhimbat Drass,814%3A1,Bhimbet,1111248%3A771,55.0,8,188,188,8,8,4,7,6,6,0,0,100% Har Ghar Jal,0,1547,0,1547
+Ladakh,Kargil,Bhimbat Drass,814%3A1,THRONGOS,1111248%3A791,33.8,4,55,55,2,2,0,2,3,3,0,0,100% Har Ghar Jal,0,446,0,446
+Ladakh,Kargil,Drass,781,Trankuchan (tronjen,1111248%3A821,55.0,8,195,151,6,6,0,4,6,6,0,6,In progress,0,1324,0,1324
+Ladakh,Kargil,Drass,781,Holiyal,1111248%3A831,55.0,3,120,120,2,2,2,2,2,2,0,1,100% Har Ghar Jal,0,690,0,690
+Ladakh,Kargil,Drass,781,Murad Bagh,1111248%3A841,55.0,5,118,118,4,4,0,2,3,3,0,2,100% Har Ghar Jal,0,730,0,730
+Ladakh,Kargil,Drass,781,Mushkoo,1111248%3A851,55.0,7,94,94,2,2,1,2,2,2,0,2,100% Har Ghar Jal,0,634,0,634
+Ladakh,Kargil,Drass,781,Goshan,1111248%3A861,55.0,12,235,235,8,8,4,5,8,8,0,8,100% Har Ghar Jal,0,1651,0,1651
+Ladakh,Kargil,Drass,781,Matayan,1111248%3A871,55.0,1,62,62,2,2,2,2,2,2,0,2,100% Har Ghar Jal,0,609,0,609
+Ladakh,Kargil,Drass,781,Pandrass,1111248%3A881,55.0,7,154,154,1,1,0,1,2,2,0,2,100% Har Ghar Jal,0,946,0,946
+Ladakh,Kargil,Drass,781,RAMBIRPORA,1111248%3A811,55.0,7,191,191,9,9,3,5,5,5,0,4,100% Har Ghar Jal,0,1295,0,1295
+Ladakh,Kargil,Taisuru,831,Choskore,11112491751,55.0,3,74,54,3,3,0,0,3,3,0,0,In progress,0,474,0,474
+Ladakh,Kargil,Taisuru,831,Namsuru,11112491671,55.0,8,159,136,6,6,0,1,4,4,0,1,In progress,0,1165,0,1165
+Ladakh,Kargil,Taisuru,831,Rangdum,11112491721,55.0,4,75,65,1,1,0,0,3,3,0,0,In progress,0,469,0,469
+Ladakh,Kargil,Taisuru,831,Karpokhar,11117512311,55.0,4,27,24,1,1,0,0,1,1,0,0,In progress,0,153,0,153
+Ladakh,Kargil,Taisuru,831,Yuljuk,11112491641,55.0,9,220,207,6,6,0,2,7,7,0,0,In progress,0,1434,16,1450
+Ladakh,Kargil,Taisuru,831,PURTIKCHEY,11117514721,55.0,8,188,177,4,4,0,0,5,5,0,0,In progress,0,1108,0,1108
+Ladakh,Kargil,Taisuru,831,Tangole,11112491611,55.0,7,112,107,5,5,1,1,6,6,0,2,In progress,0,942,0,942
+Ladakh,Kargil,Taisuru,831,Taisuru,11112491651,55.0,5,96,93,3,3,0,1,3,3,0,0,In progress,0,764,0,764
+Ladakh,Kargil,Taisuru,831,Parkachik,11112491711,55.0,8,157,154,7,7,0,0,6,6,0,0,In progress,0,1335,0,1335
+Ladakh,Kargil,Taisuru,831,Khows,11117515511,55.0,6,113,111,4,4,0,1,4,4,0,0,In progress,0,1041,0,1041
+Ladakh,Kargil,Taisuru,831,Thulus Pursa,11117517171,55.0,3,60,59,2,2,0,0,2,2,0,0,In progress,0,470,0,470
+Ladakh,Kargil,Taisuru,831,Achambur,11117518561,55.0,5,68,68,2,2,0,0,3,3,0,0,100% Har Ghar Jal,0,693,0,693
+Ladakh,Kargil,Taisuru,831,Kochik,11117516271,55.0,4,49,49,2,2,0,0,2,2,0,0,100% Har Ghar Jal,0,423,0,423
+Ladakh,Kargil,Taisuru,831,Kargee,11112491661,55.0,6,101,101,4,4,0,0,3,3,0,0,100% Har Ghar Jal,0,787,0,787
+Ladakh,Kargil,Taisuru,831,Panikhar,11112491731,33.23,5,49,49,2,2,0,0,3,3,0,0,100% Har Ghar Jal,0,373,0,373
+Ladakh,Kargil,Taisuru,831,Prantee,11112491741,55.0,3,86,86,4,4,0,1,3,3,0,0,100% Har Ghar Jal,0,604,0,604
+Ladakh,Kargil,Taisuru,831,Gailing,111175122%3A1,55.0,2,41,41,2,2,0,0,2,2,0,1,100% Har Ghar Jal,0,321,0,321
+Ladakh,Kargil,Shakar-chiktan,811,LAMOO  SANDOO,11112491331,55.0,5,78,62,2,2,0,0,4,4,0,0,In progress,0,587,0,587
+Ladakh,Kargil,Shakar-chiktan,811,Shakar,11112491261,55.0,10,200,166,7,7,0,1,13,13,0,2,In progress,0,1366,0,1366
+Ladakh,Kargil,Shakar-chiktan,811,Hagniss,11112491311,55.0,12,290,241,9,9,0,0,10,10,0,7,In progress,0,1729,0,1729
+Ladakh,Kargil,Shakar-chiktan,811,Yokma Kharboo,11112491321,55.0,4,97,84,3,3,0,0,3,3,0,0,In progress,0,712,0,712
+Ladakh,Kargil,Shakar-chiktan,811,SANJAK MAIN,11117536531,55.0,10,190,167,6,6,0,3,6,6,0,2,In progress,0,1252,0,1252
+Ladakh,Kargil,Shakar-chiktan,811,Samrah,111124912%3A1,55.0,7,214,189,8,8,0,0,10,10,0,6,In progress,0,1868,0,1868
+Ladakh,Kargil,Shakar-chiktan,811,KUKSHOW,11112491291,55.0,5,95,85,2,2,0,1,4,4,0,1,In progress,0,753,0,753
+Ladakh,Kargil,Shakar-chiktan,811,Bodhkharboo,11112491231,55.0,4,91,84,4,4,0,1,3,3,0,0,In progress,0,816,0,816
+Ladakh,Kargil,Shakar-chiktan,811,Chiktan,11112491281,55.0,11,217,201,8,8,0,1,10,10,0,0,In progress,0,1557,0,1557
+Ladakh,Kargil,Shakar-chiktan,811,STAKTSE,11112491251,55.0,7,176,164,8,8,0,1,6,6,0,2,In progress,0,1196,0,1196
+Ladakh,Kargil,Shakar-chiktan,811,Haniskot (hinkaku),11112491241,55.0,5,45,45,1,1,0,0,3,3,0,0,100% Har Ghar Jal,0,306,0,306
+Ladakh,Kargil,SANKOO,7%3A1,Nagmakusar,11117515761,31.71,16,172,119,3,3,1,1,6,6,0,3,In progress,0,1231,0,1231
+Ladakh,Kargil,SANKOO,7%3A1,THASGAM,11117733681,55.0,17,394,312,13,13,0,0,9,9,0,2,In progress,0,2800,0,2800
+Ladakh,Kargil,SANKOO,7%3A1,Lankarchay,11117789781,55.0,10,377,319,13,13,1,2,14,14,0,0,In progress,0,2867,0,2867
+Ladakh,Kargil,SANKOO,7%3A1,Stakpa,11117511831,55.0,9,137,127,4,4,1,1,6,6,0,1,In progress,0,979,0,979
+Ladakh,Kargil,SANKOO,7%3A1,Sangrah,1111248%3A%3A71,55.0,8,200,189,6,6,0,0,7,7,0,1,In progress,0,1403,0,1403
+Ladakh,Kargil,SANKOO,7%3A1,Umba,1111248%3A971,55.0,10,174,166,5,5,0,3,7,7,0,0,In progress,0,1190,0,1190
+Ladakh,Kargil,SANKOO,7%3A1,Faroona,11117556521,55.0,6,162,155,3,3,0,0,7,7,0,1,In progress,0,1070,0,1070
+Ladakh,Kargil,SANKOO,7%3A1,Thangdumbur,1111755%3A671,55.0,21,376,360,16,16,3,4,12,12,0,11,In progress,0,2955,0,2955
+Ladakh,Kargil,Barsoo,81531,Bartoo,1111248%3A%3A31,55.0,9,130,97,5,5,0,3,5,5,0,5,In progress,0,1151,0,1151
+Ladakh,Kargil,Barsoo,81531,Sher Gandi,1111248%3A%3A41,55.0,7,59,46,2,2,0,1,2,2,0,1,In progress,0,685,0,685
+Ladakh,Kargil,Barsoo,81531,Barsoo,1111248%3A%3A21,55.0,12,234,195,10,10,2,8,8,8,0,8,In progress,0,2321,0,2321
+Ladakh,Kargil,Barsoo,81531,TAIKET/ KHANDI,1111248%3A%3A61,55.0,12,222,201,9,9,0,5,9,9,0,8,In progress,0,1969,0,1969
+Ladakh,Kargil,Barsoo,81531,Karchay Khar,1111248%3A991,55.0,6,145,145,4,4,0,3,4,4,0,2,100% Har Ghar Jal,0,1282,0,1282
+Ladakh,Kargil,Barsoo,81531,Ichoo,1111248%3A%3A51,55.0,1,15,15,1,1,0,0,1,1,0,0,100% Har Ghar Jal,0,237,0,237
+Ladakh,Kargil,Pashkum,81511,PASHKUM,1111248%3A%3A81,55.0,15,575,479,15,15,0,1,17,17,0,2,In progress,0,2562,0,2562
+Ladakh,Kargil,Shargole,821,Kahachay,11112491171,33.07,3,74,52,3,3,0,0,3,3,0,0,In progress,1,556,0,557
+Ladakh,Kargil,Shargole,821,Wakha,11112491211,55.0,16,279,201,11,11,1,0,12,12,0,7,In progress,0,1888,0,1888
+Ladakh,Kargil,Shargole,821,Mulbekh,111175294%3A1,55.0,11,210,160,7,7,1,0,8,8,0,6,In progress,0,1518,0,1518
+Ladakh,Kargil,Shargole,821,Fokar/foo,11112491181,55.0,8,106,103,2,2,0,1,3,3,0,1,In progress,0,873,0,873
+Ladakh,Kargil,Shargole,821,Tingdo,111124911%3A1,55.0,2,48,48,2,2,0,0,2,2,0,1,100% Har Ghar Jal,0,352,0,352
+Ladakh,Kargil,Shargole,821,Shargole,11117558581,55.0,12,77,77,3,3,0,0,3,3,0,2,100% Har Ghar Jal,0,520,0,520
+Ladakh,Kargil,Shargole,821,Karamba,11112491161,23.58,3,58,58,3,3,0,0,3,3,0,1,100% Har Ghar Jal,0,443,0,443
+Ladakh,Kargil,Tsg,76511,Kanoor,1111248%3A911,55.0,8,243,145,7,7,0,5,8,8,0,0,In progress,0,1724,0,1724
+Ladakh,Kargil,Tsg,76511,TAMBIS,1111248%3A891,55.0,13,380,254,8,8,0,5,12,12,0,5,In progress,0,2833,0,2833
+Ladakh,Kargil,Tsg,76511,SALISKOTE,1111248%3A931,55.0,16,396,333,10,10,3,8,14,14,0,4,In progress,0,2531,178,2709
+Ladakh,Kargil,Tsg,76511,GUND MANGALPUR,1111248%3A8%3A1,55.0,11,327,284,7,7,0,3,6,6,0,0,In progress,0,2324,0,2324
+Ladakh,Kargil,Tsg,76511,TRESPONE,11117518551,55.0,16,520,497,12,12,0,5,19,19,0,4,In progress,0,3769,0,3769
+Ladakh,Kargil,Kargil,791,Chuliskamboo,1111749%3A141,55.0,7,155,53,5,5,1,5,5,5,0,5,In progress,0,1210,0,1210
+Ladakh,Kargil,Kargil,791,Sapi,1111248%3A581,55.0,7,134,88,5,5,0,1,6,6,0,3,In progress,0,838,0,838
+Ladakh,Kargil,Kargil,791,Shilikchay,1111248%3A4%3A1,55.0,6,174,120,4,4,0,4,7,7,4,7,In progress,0,1113,0,1113
+Ladakh,Kargil,Kargil,791,KARKIT,1111248%3A671,55.0,6,253,187,5,5,5,5,7,7,0,6,In progress,0,2215,0,2215
+Ladakh,Kargil,Kargil,791,Poyan Rural,11117855251,55.0,1,32,24,1,1,0,0,1,1,0,1,In progress,0,231,0,231
+Ladakh,Kargil,Kargil,791,CHOSKORE,1111248%3A571,55.0,19,554,417,14,14,0,4,15,15,0,10,In progress,0,4561,0,4561
+Ladakh,Kargil,Kargil,791,MINJI,1111248%3A661,55.0,14,421,388,9,9,0,3,13,13,6,10,In progress,0,2656,0,2656
+Ladakh,Kargil,Kargil,791,Hardass,1111248%3A691,55.0,8,254,242,5,5,2,4,5,5,0,4,In progress,0,1724,0,1724
+Ladakh,Kargil,Kargil,791,Kaksar,1111248%3A751,55.0,6,150,150,2,2,2,2,3,3,0,3,100% Har Ghar Jal,0,1276,91,1367
+Ladakh,Kargil,Kargil,791,LATOO(Fultuks),1111248%3A681,55.0,7,146,146,3,3,1,3,5,5,0,5,100% Har Ghar Jal,0,1037,0,1037
+Ladakh,Kargil,Kargil,791,Batambis,111175422%3A1,55.0,6,60,60,2,2,0,1,2,2,0,1,100% Har Ghar Jal,0,401,0,401
+Ladakh,Kargil,Lotsum,81521,Nunamchay,11112491121,55.0,3,27,10,1,1,0,1,3,3,0,1,In progress,0,226,0,226
+Ladakh,Kargil,Lotsum,81521,Skambo,11117494841,55.0,5,87,53,2,2,0,0,3,3,0,1,In progress,0,659,0,659
+Ladakh,Kargil,Lotsum,81521,Lochum,1111248%3A%3A91,37.41,6,72,51,4,4,0,2,3,3,0,0,In progress,0,575,0,575
+Ladakh,Kargil,Lotsum,81521,Tacha,11112491131,55.0,4,67,51,3,3,0,2,3,3,0,0,In progress,0,526,0,526
+Ladakh,Kargil,Lotsum,81521,Kukstay,11112491141,55.0,6,50,42,3,3,0,1,1,1,0,0,In progress,0,374,0,374
+Ladakh,Kargil,Lotsum,81521,Darket,11112491111,34.6,4,41,35,1,1,0,0,3,3,0,0,In progress,0,290,0,290
+Ladakh,Kargil,Lotsum,81521,Karit,11112491151,55.0,4,63,63,2,2,0,1,2,2,0,0,100% Har Ghar Jal,0,547,0,547
+Ladakh,Kargil,Sodh,81491,Silmo,11117542291,55.0,7,243,39,6,6,0,1,5,5,0,4,In progress,0,1834,0,1834
+Ladakh,Kargil,Sodh,81491,Lalung,1111248%3A631,55.0,3,88,46,2,2,1,0,3,3,0,0,In progress,0,763,0,763
+Ladakh,Kargil,Sodh,81491,Chulichan,111175535%3A1,55.0,5,83,55,2,2,0,0,3,3,0,0,In progress,0,798,0,798
+Ladakh,Kargil,Sodh,81491,Garkone,1111248%3A621,55.0,11,232,167,3,3,0,1,7,7,0,2,In progress,0,1277,0,1277
+Ladakh,Kargil,Sodh,81491,Akchamal,1111248%3A521,55.0,10,292,226,9,9,0,1,10,10,0,5,In progress,0,2054,0,2054
+Ladakh,Kargil,Sodh,81491,YOURBALTAK,1111248%3A541,55.0,19,334,277,10,10,0,1,12,12,0,2,In progress,0,2560,0,2560
+Ladakh,Kargil,Sodh,81491,DERCHIKS,1111248%3A611,55.0,4,106,91,2,2,0,0,5,5,0,0,In progress,0,691,0,691
+Ladakh,Kargil,Sodh,81491,Apati,11117497881,55.0,10,178,167,4,4,0,0,6,6,0,1,In progress,0,1458,0,1458
+Ladakh,Kargil,Sodh,81491,Barchey,1111248%3A561,55.0,10,104,101,2,2,0,0,3,3,0,1,In progress,0,699,0,699
+Ladakh,Kargil,Sodh,81491,Toumel (tumaill),1111248%3A531,55.0,8,131,131,1,1,0,0,5,5,0,1,100% Har Ghar Jal,0,1184,0,1184
+Ladakh,Leh (ladakh),Chuchot,76541,Chochut Shamma,11112489381,55.0,2,308,308,4,4,4,4,1,1,1,1,100% Har Ghar Jal,0,1507,4,1511
+Ladakh,Leh (ladakh),Chuchot,76541,Stok,11112489391,55.0,1,243,243,3,3,1,3,1,1,1,1,100% Har Ghar Jal,4,1664,10,1678
+Ladakh,Leh (ladakh),Chuchot,76541,Matho,11112489431,55.0,6,357,357,3,3,3,3,3,3,3,3,100% Har Ghar Jal,0,1282,4,1286
+Ladakh,Leh (ladakh),Chuchot,76541,Chuchot Yogma,111124894%3A1,55.0,3,541,541,6,6,3,6,7,7,1,7,100% Har Ghar Jal,0,2542,40,2582
+Ladakh,Leh (ladakh),Chuchot,76541,Chuchot Gonma,11112489511,55.0,2,476,476,4,4,4,4,5,5,5,5,100% Har Ghar Jal,0,2199,16,2215
+Ladakh,Leh (ladakh),Chuchot,76541,Stakna,11117557461,55.0,1,118,118,2,2,2,2,1,1,0,1,100% Har Ghar Jal,0,483,0,483
+Ladakh,Leh (ladakh),Leh,%3A81,Phayang,111124892%3A1,55.0,10,414,414,7,7,1,5,4,4,0,3,100% Har Ghar Jal,0,1823,28,1851
+Ladakh,Leh (ladakh),Leh,%3A81,Choglamsar,111124893%3A1,55.0,12,2282,2282,11,11,2,5,6,6,0,1,100% Har Ghar Jal,100,10981,645,11726
+Ladakh,Leh (ladakh),Leh,%3A81,Spituk,11112489411,55.0,10,1432,1432,5,5,2,2,7,7,4,4,100% Har Ghar Jal,0,4439,1412,5851
+Ladakh,Leh (ladakh),Leh,%3A81,Phey,11112489421,55.0,1,75,75,2,2,0,0,1,1,0,0,100% Har Ghar Jal,0,282,10,292
+Ladakh,Leh (ladakh),Leh,%3A81,Saboo,11112489491,55.0,8,638,638,11,11,5,10,3,3,0,0,100% Har Ghar Jal,0,2706,5,2711
+Ladakh,Leh (ladakh),Nemo,81561,Bazgo,11112489311,55.0,4,210,210,3,3,0,3,2,2,0,2,100% Har Ghar Jal,0,833,0,833
+Ladakh,Leh (ladakh),Nemo,81561,Rumbuk,11112489451,55.0,5,26,26,0,0,0,0,0,0,0,0,100% Har Ghar Jal,0,154,0,154
+Ladakh,Leh (ladakh),Nemo,81561,Sku-markha,11112489461,55.0,9,84,84,3,3,0,0,2,2,0,0,100% Har Ghar Jal,0,475,0,475
+Ladakh,Leh (ladakh),Nemo,81561,Likir,11112489611,55.0,7,232,232,3,3,2,1,3,3,1,1,100% Har Ghar Jal,0,1073,1,1074
+Ladakh,Leh (ladakh),Nemo,81561,Nimoo,11112489621,43.81,3,187,187,2,2,1,2,3,3,1,1,100% Har Ghar Jal,0,1307,10,1317
+Ladakh,Leh (ladakh),Nemo,81561,Umla,11112489631,55.0,1,24,24,0,0,0,0,0,0,0,0,100% Har Ghar Jal,0,150,0,150
+Ladakh,Leh (ladakh),Nemo,81561,Taru,11112489641,55.0,3,103,103,1,1,0,1,1,1,0,1,100% Har Ghar Jal,0,795,0,795
+Ladakh,Leh (ladakh),Nemo,81561,Chilling Sumdha,11117556651,55.0,5,40,40,2,2,0,0,2,2,0,0,100% Har Ghar Jal,0,226,0,226
+Ladakh,Leh (ladakh),Nemo,81561,Ney,111175566%3A1,55.0,4,125,125,3,3,1,1,0,0,0,0,100% Har Ghar Jal,0,637,0,637
+Ladakh,Leh (ladakh),Nyoma,%3A%3A1,Anlay,1111248%3A161,55.0,6,277,277,5,5,0,1,6,6,0,3,100% Har Ghar Jal,2,978,584,1564
+Ladakh,Leh (ladakh),Nyoma,%3A%3A1,Kuyul,1111248%3A261,55.0,2,114,114,1,1,0,0,2,2,0,0,100% Har Ghar Jal,0,363,129,492
+Ladakh,Leh (ladakh),Nyoma,%3A%3A1,Damchok,1111248%3A271,55.0,1,38,38,0,0,0,0,1,1,0,0,100% Har Ghar Jal,1,112,13,126
+Ladakh,Leh (ladakh),Nyoma,%3A%3A1,Nyoma,1111248%3A311,55.0,5,326,326,7,7,0,2,5,5,0,2,100% Har Ghar Jal,2,845,630,1477
+Ladakh,Leh (ladakh),Nyoma,%3A%3A1,Modh,1111248%3A321,55.0,4,230,230,1,1,0,1,1,1,0,1,100% Har Ghar Jal,0,1187,1,1188
+Ladakh,Leh (ladakh),Panamik,76551,Kobet,11112489941,55.0,5,160,160,4,4,0,4,4,4,0,4,100% Har Ghar Jal,0,794,1,795
+Ladakh,Leh (ladakh),Panamik,76551,Kheemi,11112489951,55.0,10,136,136,5,5,0,5,5,5,0,5,100% Har Ghar Jal,0,698,1,699
+Ladakh,Leh (ladakh),Panamik,76551,Panamic,11112489971,55.0,8,275,275,7,7,0,6,8,8,0,8,100% Har Ghar Jal,0,1163,31,1194
+Ladakh,Leh (ladakh),Panamik,76551,Tegar,11112489%3A81,55.0,2,231,231,2,2,0,2,3,3,0,3,100% Har Ghar Jal,0,1092,2,1094
+Ladakh,Leh (ladakh),Panamik,76551,Sumoor,11112489%3A91,55.0,1,243,243,5,5,1,5,4,4,0,4,100% Har Ghar Jal,0,885,33,918
+Ladakh,Leh (ladakh),Panamik,76551,Chamshan Charasa,11112489%3A%3A1,55.0,4,237,237,5,5,0,5,5,5,0,5,100% Har Ghar Jal,0,1028,1,1029
+Ladakh,Leh (ladakh),Rupsho,81581,Korzok,1111248%3A281,55.0,10,300,300,1,1,0,1,2,2,0,0,100% Har Ghar Jal,4,1275,421,1700
+Ladakh,Leh (ladakh),Rupsho,81581,Kharnak,1111248%3A291,55.0,1,35,35,0,0,0,0,1,1,0,0,100% Har Ghar Jal,0,145,0,145
+Ladakh,Leh (ladakh),Rupsho,81581,Samad Rokchan,1111248%3A2%3A1,55.0,3,147,147,1,1,0,1,0,0,0,0,100% Har Ghar Jal,1,607,187,795
+Ladakh,Leh (ladakh),Saspol,76531,Giara Mangue,11112489721,55.0,6,81,81,3,3,0,2,4,4,0,4,100% Har Ghar Jal,0,501,2,503
+Ladakh,Leh (ladakh),Saspol,76531,Alchi,11112489731,55.0,4,160,160,3,3,0,2,4,4,0,4,100% Har Ghar Jal,0,886,71,957
+Ladakh,Leh (ladakh),Saspol,76531,Saspol,11112489831,49.74,4,210,210,3,3,0,1,2,2,0,2,100% Har Ghar Jal,0,1718,44,1762
+Ladakh,Leh (ladakh),Saspol,76531,Saspochi,11112489841,55.0,2,49,49,1,1,0,1,1,1,0,1,100% Har Ghar Jal,0,250,0,250
+Ladakh,Leh (ladakh),Saspol,76531,Hemis Shukpachan,11112489881,55.0,5,185,185,4,4,1,2,2,2,0,0,100% Har Ghar Jal,0,990,5,995
+Ladakh,Leh (ladakh),Singay Lalok,81611,Wanla,11112489741,55.0,12,219,219,4,4,0,2,6,6,0,2,100% Har Ghar Jal,0,1137,0,1137
+Ladakh,Leh (ladakh),Singay Lalok,81611,Lingshed,11112489771,55.0,12,165,165,2,2,0,0,7,7,0,0,100% Har Ghar Jal,0,1009,0,1009
+Ladakh,Leh (ladakh),Singay Lalok,81611,Fotoksar,11117636641,55.0,3,56,56,2,2,0,0,2,2,0,0,100% Har Ghar Jal,0,350,0,350
+Ladakh,Leh (ladakh),Singay Lalok,81611,YULCHUNG,11117%3A7%3A561,55.0,1,15,15,0,0,0,0,0,0,0,0,100% Har Ghar Jal,0,82,0,82
+Ladakh,Leh (ladakh),Thiksay,81551,Ranbirpura,11112489331,55.0,1,168,168,1,1,0,1,1,1,0,1,100% Har Ghar Jal,0,698,8,706
+Ladakh,Leh (ladakh),Thiksay,81551,Thiksay,11112489341,55.0,3,575,575,7,7,2,7,8,8,0,8,100% Har Ghar Jal,0,3183,87,3270
+Ladakh,Leh (ladakh),Thiksay,81551,Nang,11112489471,47.9,1,75,75,1,1,0,1,1,1,0,0,100% Har Ghar Jal,0,450,0,450
+Ladakh,Leh (ladakh),Thiksay,81551,Shey,11112489481,55.0,3,375,375,5,5,0,5,5,5,0,4,100% Har Ghar Jal,0,1993,50,2043
+Ladakh,Leh (ladakh),Durbuk,%3A51,PHULAK,111181435%3A1,55.0,4,79,69,0,0,0,0,0,0,0,0,In progress,0,510,0,510
+Ladakh,Leh (ladakh),Durbuk,%3A51,Kargyam,1111248%3A391,55.0,4,133,129,4,4,0,3,3,3,0,0,In progress,0,940,0,940
+Ladakh,Leh (ladakh),Durbuk,%3A51,Chushul,1111248%3A341,55.0,2,141,141,4,4,0,3,3,3,0,3,100% Har Ghar Jal,0,1102,0,1102
+Ladakh,Leh (ladakh),Durbuk,%3A51,Mann Pangong,1111248%3A351,55.0,8,223,223,7,7,0,2,8,8,0,6,100% Har Ghar Jal,0,1138,8,1146
+Ladakh,Leh (ladakh),Durbuk,%3A51,Tangtsi,1111248%3A361,55.0,3,129,129,6,6,0,3,5,5,0,2,100% Har Ghar Jal,0,778,2,780
+Ladakh,Leh (ladakh),Durbuk,%3A51,Durbuk,1111248%3A371,55.0,7,197,197,6,6,0,5,6,6,0,4,100% Har Ghar Jal,0,958,5,963
+Ladakh,Leh (ladakh),Durbuk,%3A51,Shachukul,1111248%3A381,55.0,5,95,95,3,3,0,2,4,4,0,2,100% Har Ghar Jal,0,570,1,571
+Ladakh,Leh (ladakh),KHALTSI,%3A61,Khaltsi,11112489691,55.0,8,125,111,4,4,4,4,4,4,0,4,In progress,0,849,0,849
+Ladakh,Leh (ladakh),KHALTSI,%3A61,Nurla,11112489861,55.0,2,69,67,1,1,0,1,1,1,0,1,In progress,0,497,4,501
+Ladakh,Leh (ladakh),KHALTSI,%3A61,Takmachik,11112489781,55.0,3,92,91,2,2,0,2,4,4,0,4,In progress,0,646,1,647
+Ladakh,Leh (ladakh),KHALTSI,%3A61,Lehdho,11112489791,55.0,2,57,57,1,1,0,1,2,2,0,2,100% Har Ghar Jal,0,377,24,401
+Ladakh,Leh (ladakh),KHALTSI,%3A61,Kanji,11112489821,55.0,1,50,50,1,1,0,1,3,3,0,3,100% Har Ghar Jal,0,332,1,333
+Ladakh,Leh (ladakh),KHALTSI,%3A61,TEMISGAM,11112489851,55.0,5,164,164,6,6,6,6,4,4,0,4,100% Har Ghar Jal,0,1111,1,1112
+Ladakh,Leh (ladakh),KHALTSI,%3A61,Tar Hipti,11112489871,55.0,2,33,33,1,1,0,1,1,1,0,1,100% Har Ghar Jal,0,132,1,133
+Ladakh,Leh (ladakh),KHALTSI,%3A61,Skindiyang,111124896%3A1,55.0,1,36,36,1,1,0,1,1,1,0,1,100% Har Ghar Jal,0,264,1,265
+Ladakh,Leh (ladakh),KHALTSI,%3A61,Lamayuru,11112489711,55.0,11,109,109,4,4,0,4,4,4,0,4,100% Har Ghar Jal,0,875,20,895
+Ladakh,Leh (ladakh),KHALTSI,%3A61,Tia,11112489661,55.0,6,204,204,1,1,0,1,5,5,0,5,100% Har Ghar Jal,0,1382,6,1388
+Ladakh,Leh (ladakh),Rong,81571,Kungyam,1111248%3A211,55.0,7,88,65,3,3,0,0,3,3,0,0,In progress,0,514,0,514
+Ladakh,Leh (ladakh),Rong,81571,Teri,1111248%3A221,55.0,2,65,65,2,2,0,0,2,2,0,0,100% Har Ghar Jal,0,194,0,194
+Ladakh,Leh (ladakh),Rong,81571,Lickchey,1111248%3A231,55.0,2,38,38,1,1,0,0,1,1,0,0,100% Har Ghar Jal,0,220,0,220
+Ladakh,Leh (ladakh),Rong,81571,Tukla,1111248%3A241,55.0,2,51,51,2,2,0,2,3,3,0,2,100% Har Ghar Jal,0,308,1,309
+Ladakh,Leh (ladakh),Rong,81571,Tarchit,1111248%3A251,55.0,2,67,67,1,1,0,0,2,2,0,0,100% Har Ghar Jal,0,376,1,377
+Ladakh,Leh (ladakh),Rong,81571,Chumathang,1111248%3A171,55.0,4,164,164,1,1,1,1,2,2,0,0,100% Har Ghar Jal,0,928,6,934
+Ladakh,Leh (ladakh),Rong,81571,Kairy,1111248%3A181,55.0,4,57,57,2,2,0,1,2,2,0,0,100% Har Ghar Jal,0,238,0,238
+Ladakh,Leh (ladakh),Rong,81571,Skitmang,1111248%3A191,55.0,4,59,59,3,3,0,0,1,1,0,0,100% Har Ghar Jal,0,328,0,328
+Ladakh,Leh (ladakh),Rong,81571,Hamya,1111248%3A1%3A1,55.0,4,65,65,1,1,0,1,2,2,0,1,100% Har Ghar Jal,0,337,0,337
+Ladakh,Leh (ladakh),Skyurbachan,815%3A1,Hanu,111124897%3A1,55.0,8,186,133,7,7,0,2,6,6,0,2,In progress,0,1150,1,1151
+Ladakh,Leh (ladakh),Skyurbachan,815%3A1,Domkar,11112489681,55.0,8,197,181,7,7,0,4,3,3,0,3,In progress,18,1186,8,1212
+Ladakh,Leh (ladakh),Skyurbachan,815%3A1,Skurbuchan,11112489671,55.0,10,515,515,8,8,0,6,8,8,1,3,100% Har Ghar Jal,3,2679,23,2705
+Ladakh,Leh (ladakh),Skyurbachan,815%3A1,Dha,11112489811,55.0,5,121,121,5,5,0,4,5,5,0,2,100% Har Ghar Jal,0,689,0,689
+Ladakh,Leh (ladakh),Diskit,%3A91,Waris Fastan,11112489961,55.0,3,69,40,2,2,2,2,2,2,2,2,In progress,0,222,0,222
+Ladakh,Leh (ladakh),Diskit,%3A91,Diger,1111248%3A131,55.0,4,89,68,1,1,1,1,1,1,1,1,In progress,0,402,0,402
+Ladakh,Leh (ladakh),Diskit,%3A91,Udmaroo,111124899%3A1,55.0,3,96,80,1,1,1,1,1,1,1,1,In progress,0,430,1,431
+Ladakh,Leh (ladakh),Diskit,%3A91,KHEMA KHUNGRI,11117%3A7%3A571,55.0,2,37,31,0,0,0,0,0,0,0,0,In progress,0,133,0,133
+Ladakh,Leh (ladakh),Diskit,%3A91,Largiab,11112489991,55.0,4,194,168,3,3,3,3,4,4,4,4,In progress,0,874,0,874
+Ladakh,Leh (ladakh),Diskit,%3A91,Diskit,11112489%3A71,55.0,1,412,357,7,7,5,5,5,5,5,4,In progress,3,1588,238,1829
+Ladakh,Leh (ladakh),Diskit,%3A91,Khardong,1111248%3A111,55.0,6,156,156,5,5,5,5,5,5,5,5,100% Har Ghar Jal,0,846,2,848
+Ladakh,Leh (ladakh),Diskit,%3A91,Khalsar,1111248%3A121,55.0,1,33,33,1,1,1,1,1,1,1,1,100% Har Ghar Jal,0,156,0,156
+Ladakh,Leh (ladakh),Diskit,%3A91,Terchy,11112489981,55.0,2,86,86,1,1,1,1,1,1,1,1,100% Har Ghar Jal,0,372,3,375
+Ladakh,Leh (ladakh),Diskit,%3A91,Hundri,11112489%3A11,55.0,1,69,69,1,1,1,1,1,1,1,1,100% Har Ghar Jal,0,249,0,249
+Ladakh,Leh (ladakh),Diskit,%3A91,Skuru,11112489%3A21,55.0,2,76,76,1,1,1,1,1,1,1,1,100% Har Ghar Jal,0,315,0,315
+Ladakh,Leh (ladakh),Diskit,%3A91,Hunder,11112489%3A31,55.0,1,364,364,3,3,3,3,4,4,4,4,100% Har Ghar Jal,0,1114,7,1121
+Ladakh,Leh (ladakh),Diskit,%3A91,Hunder Dok,11112489%3A41,55.0,1,16,16,1,1,1,1,1,1,1,1,100% Har Ghar Jal,0,176,1,177
+Ladakh,Leh (ladakh),Diskit,%3A91,Skampuk,11112489%3A51,55.0,1,113,113,1,1,1,1,1,1,1,1,100% Har Ghar Jal,0,485,1,486
+Ladakh,Leh (ladakh),Diskit,%3A91,Partapur,11112489%3A61,55.0,1,190,190,2,2,2,2,3,3,3,3,100% Har Ghar Jal,0,850,2,852
+Ladakh,Leh (ladakh),Diskit,%3A91,Tangyar,1111248%3A141,55.0,2,89,89,1,1,1,1,1,1,1,1,100% Har Ghar Jal,0,476,0,476
+Ladakh,Leh (ladakh),Diskit,%3A91,Lakjung,1111248%3A151,55.0,3,160,160,3,3,3,3,3,3,3,3,100% Har Ghar Jal,2,651,0,653
+Ladakh,Leh (ladakh),Kharu,%3A71,Sakti,1111248%3A411,55.0,7,401,266,5,5,0,4,7,7,0,5,In progress,0,1916,3,1919
+Ladakh,Leh (ladakh),Kharu,%3A71,Chemray,1111248%3A3%3A1,55.0,4,291,241,3,3,0,2,4,4,0,4,In progress,0,1623,100,1723
+Ladakh,Leh (ladakh),Kharu,%3A71,Shang,11112489581,55.0,1,50,43,2,2,0,2,1,1,0,1,In progress,0,245,1,246
+Ladakh,Leh (ladakh),Kharu,%3A71,Igoo,11112489521,55.0,4,232,220,3,3,0,3,1,1,0,0,In progress,0,1211,0,1211
+Ladakh,Leh (ladakh),Kharu,%3A71,Shara,11112489531,55.0,2,74,74,2,2,0,1,1,1,0,0,100% Har Ghar Jal,0,332,0,332
+Ladakh,Leh (ladakh),Kharu,%3A71,Sharnos,11112489541,55.0,1,88,88,1,1,0,0,1,1,0,0,100% Har Ghar Jal,0,267,1,268
+Ladakh,Leh (ladakh),Kharu,%3A71,Lankor,11112489551,55.0,1,20,20,1,1,0,0,0,0,0,0,100% Har Ghar Jal,0,120,0,120
+Ladakh,Leh (ladakh),Kharu,%3A71,Phoktse,11112489561,55.0,1,47,47,2,2,0,1,3,3,0,1,100% Har Ghar Jal,0,203,4,207
+Ladakh,Leh (ladakh),Kharu,%3A71,Marselang,11112489571,55.0,1,86,86,1,1,0,1,1,1,0,1,100% Har Ghar Jal,0,685,2,687
+Ladakh,Leh (ladakh),Kharu,%3A71,Hemis,11112489591,55.0,1,86,86,1,1,0,1,0,0,0,0,100% Har Ghar Jal,0,233,20,253
+Ladakh,Leh (ladakh),Kharu,%3A71,Changa,111124895%3A1,55.0,1,54,54,1,1,0,1,1,1,0,1,100% Har Ghar Jal,0,215,1,216
+Ladakh,Leh (ladakh),Kharu,%3A71,Gya,11112489351,55.0,4,135,135,4,4,0,0,3,3,0,0,100% Har Ghar Jal,0,897,0,897
+Ladakh,Leh (ladakh),Kharu,%3A71,Miru,11112489361,55.0,1,34,34,1,1,0,0,0,0,0,0,100% Har Ghar Jal,0,135,0,135
+Ladakh,Leh (ladakh),Kharu,%3A71,Upshi,11112489371,55.0,1,29,29,1,1,0,0,0,0,0,0,100% Har Ghar Jal,0,184,0,184
+Ladakh,Leh (ladakh),Kharu,%3A71,Kharu,1111248%3A421,55.0,1,39,39,1,1,0,0,1,1,0,0,100% Har Ghar Jal,0,189,0,189
+Ladakh,Leh (ladakh),Turtuk,81591,Bogdang,11112489921,55.00,5,445,260,12,12,11,10,9,9,7,9,In progress,0,3204,11,3215
+Ladakh,Leh (ladakh),Turtuk,81591,Turtuk,11112489891,55.00,6,298,229,3,3,3,3,6,6,2,6,In progress,0,1633,0,1633
+Ladakh,Leh (ladakh),Turtuk,81591,TURTUK YOUL,11117%3A58241,34.67,2,237,221,0,0,0,0,0,0,0,0,In progress,0,1483,15,1498
+Ladakh,Leh (ladakh),Turtuk,81591,THANG,11117%3A738%3A1,55.00,2,48,48,0,0,0,0,0,0,0,0,100% Har Ghar Jal,0,312,0,312
+Ladakh,Leh (ladakh),Turtuk,81591,Tyakshi,11112489911,55.00,6,268,268,4,4,4,4,5,5,1,4,100% Har Ghar Jal,0,2297,5,2302
+Ladakh,Leh (ladakh),Turtuk,81591,Chulungkha,11112489931,55.00,1,39,39,1,1,1,1,2,2,2,2,100% Har Ghar Jal,16,255,73,344
